@@ -25,7 +25,7 @@ module.exports = {
       },
       // Primary: primary brand color with a default fallback if you don't need shades. Always set a DEFAULT when you use shades.
       primary: {
-        DEFAULT: '#FF0274'
+        DEFAULT: '#D82686'
       },
     },
     extend: {
@@ -57,6 +57,8 @@ module.exports = {
         // 'Lavigne',
         ...defaultTheme.fontFamily.serif,
       ],
+      Poppins: ['Poppins', 'sans-serif'],
+      Inter: ['Inter', 'sans-serif'],
     },
     // The font weights available for this site.
     fontWeight: {
