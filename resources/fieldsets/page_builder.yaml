@@ -28,3 +28,12 @@ fields:
           fields:
             -
               import: link_blocks
+        heroimage:
+          display: heroimage
+          fields:
+            -
+              import: heroimage
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      previews: true

@@ -25,7 +25,19 @@ module.exports = {
       },
       // Primary: primary brand color with a default fallback if you don't need shades. Always set a DEFAULT when you use shades.
       primary: {
-        DEFAULT: '#D82686'
+        DEFAULT: '#E70082'
+      },
+      secondary: {
+        DEFAULT: '#3C4A67'
+      },
+      tertiary: {
+        DEFAULT: '#3E3E3E' 
+      },
+      footertitle: {
+        DEFAULT: '#38414F'
+      },
+      footericon: {
+        DEFAULT: '#64748b'
       },
     },
     extend: {
@@ -62,15 +74,15 @@ module.exports = {
     },
     // The font weights available for this site.
     fontWeight: {
-      // hairline: 100,
-      // thin: 200,
-      // light: 300,
+      hairline: 100,
+      thin: 200,
+      light: 300,
       normal: 400,
-      // medium: 500,
-      // semibold: 600,
+      medium: 500,
+      semibold: 600,
       bold: 700,
-      // extrabold: 800,
-      // black: 900,
+      extrabold: 800,
+      black: 900,
     },
   },
   plugins: [
