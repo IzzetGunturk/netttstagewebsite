@@ -2,9 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
-@layer base {
-
-}
+@layer base {}
 
 @layer components {
 
@@ -25,26 +23,21 @@
         0% {
             transform: translateY(260px);
         }
-    
+
         100% {
             transform: translateY(0);
         }
     }
-    
+
     @keyframes mover {
         0% {
             transform: translateY(0);
         }
-    
+
         100% {
             transform: translateY(-10px);
         }
     }
-
-    #icon:hover {
-        fill: black;
-    }
-    
 
     /* #gradientTitle {
         background: linear-gradient(to right, rgb(188, 33, 115) 20%, rgb(252, 133, 194) 40%, rgb(219, 54, 142) 60%, rgb(188, 33, 115) 80%);
@@ -57,12 +50,12 @@
     }
 
     @keyframes shine {
-    to {
-      background-position: 200% center;
+        to {
+            background-position: 200% center;
+        }
     } */
-}
-
-
-@layer utilities {
 
 }
+
+
+@layer utilities {}
