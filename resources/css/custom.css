@@ -15,6 +15,10 @@
         animation: Slide_Up 1s ease;
     }
 
+    body {
+        background-color: #FAFAFA;
+    }
+
     @keyframes Slide_Up {
         0% {
             transform: translateY(260px);

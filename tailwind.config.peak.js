@@ -156,7 +156,7 @@ module.exports = {
         '@media screen(md)': {
           // Larger vertical spacing between blocks on larger screens.
           '.outer-grid': {
-            rowGap: theme('spacing.16'),
+            // rowGap: theme('spacing.16'),
             // paddingTop: theme('spacing.16'),
             paddingBottom: theme('spacing.16'),
             '& > *:last-child.w-full': {
@@ -173,7 +173,7 @@ module.exports = {
           },
           // Larger vertical spacing between blocks on larger screens.
           '.outer-grid': {
-            rowGap: theme('spacing.24'),
+            // rowGap: theme('spacing.24'),
             // paddingTop: theme('spacing.24'),
             paddingBottom: theme('spacing.24'),
             '& > *:last-child.w-full': {

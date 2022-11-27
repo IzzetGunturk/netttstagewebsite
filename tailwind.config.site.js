@@ -37,7 +37,7 @@ module.exports = {
         DEFAULT: '#38414F'
       },
       footericon: {
-        DEFAULT: '#64748b'
+        DEFAULT: '#64748b' 
       },
     },
     extend: {
