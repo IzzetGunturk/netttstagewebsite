@@ -91,7 +91,7 @@ module.exports = {
         // Default color transition on links unless user prefers reduced motion.
         '@media (prefers-reduced-motion: no-preference)': {
           'a': {
-            transition: 'color .3s ease-in-out',
+            transition: 'color .2s ease-in-out',
           },
         },
         'html': {
