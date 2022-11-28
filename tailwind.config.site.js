@@ -39,6 +39,9 @@ module.exports = {
       footericon: {
         DEFAULT: '#64748b' 
       },
+      cardshover: {
+        DEFAULT: '#F6F6F6'
+      },
     },
     extend: {
       // Set default transition durations and easing when using the transition utilities.

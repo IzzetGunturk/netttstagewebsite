@@ -1,2 +1,86 @@
 title: Techniquecards
-fields: {  }
+fields:
+  -
+    handle: card1-description
+    field:
+      antlers: false
+      display: card1-description
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card1-link
+    field:
+      display: card1-link
+      type: link
+      icon: link
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card2-description
+    field:
+      antlers: false
+      display: card2-description
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card2-link
+    field:
+      display: card2-link
+      type: link
+      icon: link
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card3-description
+    field:
+      antlers: false
+      display: card3-description
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card3-link
+    field:
+      display: card3-link
+      type: link
+      icon: link
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card4-description
+    field:
+      antlers: false
+      display: card4-description
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: card4-link
+    field:
+      display: card4-link
+      type: link
+      icon: link
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

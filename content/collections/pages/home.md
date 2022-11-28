@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669571151
+updated_at: 1669630463
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -37,5 +37,10 @@ page_builder:
         cardtitle: hoi
     type: techniquecards
     enabled: true
+    card1-description: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+    card2-description: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+    card3-description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+    card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+    card1-link: 'entry::cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb'
 seo_title: 'Home | Nettt Interactieve Media'
 ---
