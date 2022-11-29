@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669717668
+updated_at: 1669723901
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -59,13 +59,17 @@ page_builder:
       - tools/sass.svg
       - tools/statamic.svg
       - tools/tailwind.svg
-      - vuejs.svg
-      - wordpress.svg
+      - tools/vuejs.svg
+      - tools/wordpress.svg
   -
     id: lb22kp9q
     titelblue: Projecten
     titelpink: 'waarop we trots zijn'
     type: titels-descriptions
+    enabled: true
+  -
+    id: lb24n13h
+    type: projectsection
     enabled: true
 seo_title: 'Home | Nettt Interactieve Media'
 ---
