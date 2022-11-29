@@ -143,7 +143,7 @@ module.exports = {
         // vertically with a uniform space between them.
         '.outer-grid': {
           width: '100%',
-          display: 'grid',
+          // display: 'grid',
           rowGap: theme('spacing.12'),
           // paddingTop: theme('spacing.12'),
           paddingBottom: theme('spacing.12'),

@@ -43,11 +43,11 @@ fields:
           fields:
             -
               import: titels-descriptions
-        techniqueslider:
-          display: techniqueslider
+        tools-slider:
+          display: tools-slider
           fields:
             -
-              import: techniqueslider
+              import: tools-slider
       instructions_position: above
       visibility: visible
       always_save: false

@@ -1,0 +1,30 @@
+{{#
+@name video-background
+@desc The video-background page builder block.
+@set page.page_builder.video_background
+#}}
+
+<!-- /page_builder/_tools-slider.antlers.html -->
+<section class="pt-20 fluid-container">
+    <div class="mx-auto">
+        <div class="customer-logos slide fluid-container p-3">
+            {{ tools }}
+            <div>
+                <div class="flex h-full justify-center flex-col align-center p-3">
+                    <img src="{{url}}" alt="{{alt}}" class="grayscale hover:grayscale-0 transition duration-200 mx-auto">
+                </div>
+            </div>
+            {{/tools}}
+        </div>
+    </div>
+</section>
+
+<style>
+    .slick-track{
+        display: flex!important;
+    }
+    .slick-slide{
+        height:auto;
+    }
+</style>
+<!-- End: /page_builder/_tools-slider.antlers.html -->

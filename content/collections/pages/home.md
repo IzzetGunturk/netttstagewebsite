@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669630463
+updated_at: 1669716919
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -17,7 +17,7 @@ page_builder:
     type: heroimage
     enabled: true
     heroimage:
-      - 47024aa1b92938d9e0c729488c48440b-_2_.webp
+      - heroimage2.webp
     herodescription: 'Als full service internet- en mediabureau is Nettt Interactieve Media hét aangewezen adres voor advies, webdesign, webdevelopment, applicaties, content management, narrowcasting, zoekmachine-optimalisatie en méér.'
     herotitle: 'Nettt Interactieve Media'
   -
@@ -42,5 +42,24 @@ page_builder:
     card3-description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
     card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
     card1-link: 'entry::cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb'
+  -
+    id: lb0oqzco
+    type: tools-slider
+    enabled: true
+    tools:
+      - tools/alpine.svg
+      - tools/asana.svg
+      - tools/bootstrap.svg
+      - tools/googleads.svg
+      - tools/googleanalytics.svg
+      - tools/html5.svg
+      - tools/laravel.svg
+      - tools/moz.svg
+      - tools/php.svg
+      - tools/sass.svg
+      - tools/statamic.svg
+      - tools/tailwind.svg
+      - vuejs.svg
+      - wordpress.svg
 seo_title: 'Home | Nettt Interactieve Media'
 ---
