@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669806649
+updated_at: 1669806909
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -135,5 +135,9 @@ page_builder:
       -
         id: lb3jluxx
         labeltitle3: Maatwerk
+  -
+    id: lb3jx3in
+    type: button-pink
+    enabled: true
 seo_title: 'Home | Nettt Interactieve Media'
 ---

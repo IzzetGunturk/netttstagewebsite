@@ -53,6 +53,11 @@ fields:
           fields:
             -
               import: projectsection
+        button-pink:
+          display: button-pink
+          fields:
+            -
+              import: button-pink
       instructions_position: above
       visibility: visible
       always_save: false
