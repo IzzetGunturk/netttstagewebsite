@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669814231
+updated_at: 1669814591
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -149,5 +149,11 @@ page_builder:
     buttonlink: 'entry::601fdbb6-fae8-4016-bd84-b91dc6c9eb41'
     image:
       - images/aanpak.webp
+  -
+    id: lb3ohhoj
+    titelblue: 'Wat zeggen onze'
+    titelpink: 'klanten?'
+    type: titels-descriptions-center
+    enabled: true
 seo_title: 'Home | Nettt Interactieve Media'
 ---
