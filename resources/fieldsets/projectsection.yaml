@@ -47,11 +47,26 @@ fields:
         -
           handle: labeltitle1
           field:
-            input_type: text
-            antlers: false
+            options:
+              Website: null
+              Webshop: null
+              Webapplicatie: null
+              'Internet marketing': null
+              Wordpress: null
+              Statamic: null
+              'Laravel Nova': null
+              'Wordpress Woocommerce': null
+              Narrowcasting: null
+              Maatwerk: null
+            multiple: false
+            clearable: false
+            searchable: true
+            taggable: false
+            push_tags: false
+            cast_booleans: false
             display: 'Label title 1'
-            type: text
-            icon: text
+            type: select
+            icon: select
             listable: hidden
             instructions_position: above
             visibility: visible
@@ -105,6 +120,46 @@ fields:
       visibility: visible
       always_save: false
   -
+    handle: labels2
+    field:
+      fields:
+        -
+          handle: labeltitle2
+          field:
+            options:
+              Website: null
+              Webshop: null
+              Webapplicatie: null
+              'Internet marketing': null
+              Wordpress: null
+              Statamic: null
+              'Laravel Nova': null
+              'Wordpress Woocommerce': null
+              Narrowcasting: null
+              Maatwerk: null
+            multiple: false
+            clearable: false
+            searchable: true
+            taggable: false
+            push_tags: false
+            cast_booleans: false
+            display: 'Label title 2'
+            type: select
+            icon: select
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: table
+      reorderable: true
+      display: 'Labels 2'
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
     handle: projectimg3
     field:
       mode: list
@@ -139,6 +194,44 @@ fields:
       type: link
       icon: link
       width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: labels3
+    field:
+      fields:
+        -
+          handle: labeltitle3
+          field:
+            options:
+              Website: null
+              Webshop: null
+              'Internet marketing': null
+              Wordpress: null
+              'Laravel Nova': null
+              'Wordpress Woocommerce': null
+              Narrowcasting: null
+              Maatwerk: null
+            multiple: false
+            clearable: false
+            searchable: true
+            taggable: false
+            push_tags: false
+            cast_booleans: false
+            display: 'Label title 3'
+            type: select
+            icon: select
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: table
+      reorderable: true
+      display: 'Labels 3'
+      type: grid
+      icon: grid
       listable: hidden
       instructions_position: above
       visibility: visible

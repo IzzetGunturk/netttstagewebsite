@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669801583
+updated_at: 1669806649
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -90,9 +90,50 @@ page_builder:
     labels1:
       -
         id: lb3gqm9d
-        labeltitle1: test
+        labeltitle1: Website
       -
         id: lb3gqxb5
-        labeltitle1: test
+        labeltitle1: Wordpress
+      -
+        id: lb3j6oo4
+        labeltitle1: Laravel
+      -
+        id: lb3j6t5x
+        labeltitle1: 'Internet marketing'
+      -
+        id: lb3jloc7
+        labeltitle1: Maatwerk
+    labels2:
+      -
+        id: lb3j8z3s
+        labeltitle2: Website
+      -
+        id: lb3j91bd
+        labeltitle2: Wordpress
+      -
+        id: lb3j951n
+        labeltitle2: Laravel
+      -
+        id: lb3j98n8
+        labeltitle2: 'Internet marketing'
+      -
+        id: lb3jlsf9
+        labeltitle2: Maatwerk
+    labels3:
+      -
+        id: lb3j9pge
+        labeltitle3: Website
+      -
+        id: lb3j9v9h
+        labeltitle3: Wordpress
+      -
+        id: lb3j9xwp
+        labeltitle3: Laravel
+      -
+        id: lb3ja0f6
+        labeltitle3: 'Internet marketing'
+      -
+        id: lb3jluxx
+        labeltitle3: Maatwerk
 seo_title: 'Home | Nettt Interactieve Media'
 ---
