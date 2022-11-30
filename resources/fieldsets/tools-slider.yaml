@@ -8,7 +8,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: tools
+      display: Tools
       type: assets
       icon: assets
       listable: hidden

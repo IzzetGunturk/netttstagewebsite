@@ -8,19 +8,20 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: heroimage
+      display: 'Hero image'
       type: assets
       icon: assets
       listable: hidden
       instructions_position: above
       visibility: visible
       always_save: false
+      instructions: 'Afbeelding in WebP uploaden'
   -
     handle: herotitle
     field:
       input_type: text
       antlers: false
-      display: herotitle
+      display: 'Hero title'
       type: text
       icon: text
       listable: hidden
@@ -31,7 +32,7 @@ fields:
     handle: herodescription
     field:
       antlers: false
-      display: herodescription
+      display: 'Hero description'
       type: textarea
       icon: textarea
       listable: hidden
@@ -43,7 +44,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: herobuttontitle
+      display: Herobuttontitle
       type: text
       icon: text
       listable: hidden
@@ -53,7 +54,7 @@ fields:
   -
     handle: herobuttonlink
     field:
-      display: herobuttonlink
+      display: Herobuttonlink
       type: link
       icon: link
       listable: hidden

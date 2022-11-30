@@ -11,20 +11,24 @@
         <!-- card 1 -->
         <a href="">
             <div class="overflow-hidden rounded-lg bg-white hover:bg-cardshover transition duration-200 shadow-xl">
-                <img src="/visuals/knipsel.PNG" class="object-cover " />
+                {{projectimg}}
+                <img src="{{url}}" alt="{{alt}}" class="object-cover">
+                {{/projectimg}}
 
                 <div class="p-4 sm:p-6">
-                    <h3 class="text-lg font-medium text-gray-900">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    </h3>
+                    <h1 class="text-lg font-Poppins text-gray-900">
+                        {{projecttitle}}
+                    </h1>
 
                     <div class="pt-4 pb-2">
                         <span
-                            class="inline-block bg-primary rounded px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#photography</span>
+                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">Website</span>
                         <span
-                            class="inline-block bg-gray-200 rounded px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#travel</span>
+                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">Wordpress</span>
                         <span
-                            class="inline-block bg-gray-200 rounded px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">#fall</span>
+                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">Laravel</span>
+                        <span
+                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">Internet marketing</span>
                     </div>
                 </div>
             </div>

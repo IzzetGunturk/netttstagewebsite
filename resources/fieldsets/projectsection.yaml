@@ -1,2 +1,55 @@
 title: Projectsection
-fields: {  }
+fields:
+  -
+    handle: projectimg
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: 'Project img'
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      instructions: 'Afbeelding in WebP uploaden'
+  -
+    handle: projecttitle
+    field:
+      input_type: text
+      antlers: false
+      display: 'Project title'
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: labels
+    field:
+      fields:
+        -
+          handle: labeltitle
+          field:
+            input_type: text
+            antlers: false
+            display: 'Label title'
+            type: text
+            icon: text
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: table
+      reorderable: true
+      display: Labels
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

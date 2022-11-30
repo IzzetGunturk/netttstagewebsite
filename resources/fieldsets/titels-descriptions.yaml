@@ -5,7 +5,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: titelblue
+      display: 'Titel blue'
       type: text
       icon: text
       listable: hidden
@@ -17,7 +17,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: titelpink
+      display: 'Titel pink'
       type: text
       icon: text
       listable: hidden
@@ -28,7 +28,7 @@ fields:
     handle: description
     field:
       antlers: false
-      display: description
+      display: Description
       type: textarea
       icon: textarea
       listable: hidden
