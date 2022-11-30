@@ -1,0 +1,37 @@
+title: Titels-descriptions-center
+fields:
+  -
+    handle: titelblue
+    field:
+      input_type: text
+      antlers: false
+      display: 'Titel blue'
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: titelpink
+    field:
+      input_type: text
+      antlers: false
+      display: 'Titel pink'
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: description
+    field:
+      antlers: false
+      display: Description
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

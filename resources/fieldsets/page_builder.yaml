@@ -58,6 +58,16 @@ fields:
           fields:
             -
               import: button-pink
+        aanpaksection:
+          display: aanpaksection
+          fields:
+            -
+              import: aanpaksection
+        titels-descriptions-center:
+          display: titels-descriptions-center
+          fields:
+            -
+              import: titels-descriptions-center
       instructions_position: above
       visibility: visible
       always_save: false

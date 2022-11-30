@@ -19,6 +19,10 @@
         background-color: #FAFAFA;
     }
 
+    #image {
+        border-radius: 150px 0 0 0;
+    }
+
     @keyframes Slide_Up {
         0% {
             transform: translateY(260px);
