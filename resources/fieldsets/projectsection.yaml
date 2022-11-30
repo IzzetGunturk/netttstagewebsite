@@ -1,14 +1,14 @@
 title: Projectsection
 fields:
   -
-    handle: projectimg
+    handle: projectimg1
     field:
       mode: list
       container: assets
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: 'Project img'
+      display: 'Project img 1'
       type: assets
       icon: assets
       listable: hidden
@@ -17,27 +17,39 @@ fields:
       always_save: false
       instructions: 'Afbeelding in WebP uploaden'
   -
-    handle: projecttitle
+    handle: projecttitle1
     field:
       input_type: text
       antlers: false
-      display: 'Project title'
+      display: 'Project title 1'
       type: text
       icon: text
       listable: hidden
       instructions_position: above
       visibility: visible
       always_save: false
+      width: 50
   -
-    handle: labels
+    handle: projectlink1
+    field:
+      display: 'Project link 1'
+      type: link
+      icon: link
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: labels1
     field:
       fields:
         -
-          handle: labeltitle
+          handle: labeltitle1
           field:
             input_type: text
             antlers: false
-            display: 'Label title'
+            display: 'Label title 1'
             type: text
             icon: text
             listable: hidden
@@ -46,9 +58,87 @@ fields:
             always_save: false
       mode: table
       reorderable: true
-      display: Labels
+      display: 'Labels 1'
       type: grid
       icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: projectimg2
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: 'Project img 2'
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: projecttitle2
+    field:
+      input_type: text
+      antlers: false
+      display: 'Project title 2'
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50
+  -
+    handle: projectlink2
+    field:
+      display: 'Project link 2'
+      type: link
+      icon: link
+      width: 50
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: projectimg3
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: 'Project img 3'
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: projecttitle3
+    field:
+      input_type: text
+      antlers: false
+      display: 'Project title 3'
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+      width: 50
+  -
+    handle: projectlink3
+    field:
+      display: 'Project link 3'
+      type: link
+      icon: link
+      width: 50
       listable: hidden
       instructions_position: above
       visibility: visible

@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669798042
+updated_at: 1669801583
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -17,10 +17,10 @@ page_builder:
     type: heroimage
     enabled: true
     heroimage:
-      - heroimage2.webp
+      - hero/heroimage2.webp
     herodescription: 'Als full service internet- en mediabureau is Nettt Interactieve Media hét aangewezen adres voor advies, webdesign, webdevelopment, applicaties, content management, narrowcasting, zoekmachine-optimalisatie en méér.'
     herotitle: 'Nettt Interactieve Media'
-    herobuttonlink: '#block-2'
+    herobuttonlink: '#block-1'
   -
     id: lazmgpr1
     type: titels-descriptions
@@ -75,5 +75,24 @@ page_builder:
     projectimg:
       - heroimage.webp
     projecttitle: 'Veldeke Limburg'
+    projectimg1:
+      - projects/2-act.webp
+    projecttitle1: 2-act.nu
+    projectimg2:
+      - projects/epp-women.webp
+    projecttitle2: 'EPP Women'
+    projectimg3:
+      - projects/veldeke.webp
+    projecttitle3: 'Veldeke Limburg'
+    projectlink1: 'https://www.2-act.nu/'
+    projectlink2: 'https://www.eppwomen.eu/'
+    projectlink3: 'https://www.veldeke.net/'
+    labels1:
+      -
+        id: lb3gqm9d
+        labeltitle1: test
+      -
+        id: lb3gqxb5
+        labeltitle1: test
 seo_title: 'Home | Nettt Interactieve Media'
 ---

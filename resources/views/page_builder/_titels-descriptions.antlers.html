@@ -5,11 +5,13 @@
 #}}
 
 <!-- /page_builder/_titels-descriptions.antlers.html -->
-<section class="fluid-container pt-16">
-    <h1 class="text-4xl font-Poppins font-bold text-secondary tracking-tight">{{block:titelblue}} <span
-            class="text-primary">{{block:titelpink}}</span>
+<section class="fluid-container pt-16 relative">
+    {{ partial:components/anchor id="{{ id }}" }}
+
+    <h1 class="text-4xl font-Poppins font-bold text-secondary tracking-tight">{{titelblue}} <span
+            class="text-primary">{{titelpink}}</span>
     </h1>
 
-    <h2 class="mt-2 text-Inter text-md text-tertiary">{{block:description}}</h2>
+    <h2 class="mt-2 text-Inter text-md text-tertiary">{{description}}</h2>
 </section>
 <!-- End: /page_builder/_titels-descriptions.antlers.html -->
