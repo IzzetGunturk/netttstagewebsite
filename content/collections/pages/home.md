@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669887033
+updated_at: 1669900675
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -139,6 +139,8 @@ page_builder:
     id: lb3jx3in
     type: button-pink
     enabled: true
+    buttontitle: 'Bekijk onze projecten'
+    buttonlink: 'entry::cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb'
   -
     id: lb3ko2sm
     type: aanpaksection
@@ -232,5 +234,8 @@ page_builder:
     id: lb4vmfjj
     type: cta-section
     enabled: true
+    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    buttontitle: 'Neem contact op!'
+    buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
 seo_title: 'Home | Nettt Interactieve Media'
 ---

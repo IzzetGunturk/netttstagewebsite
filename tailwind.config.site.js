@@ -42,6 +42,9 @@ module.exports = {
       cardshover: {
         DEFAULT: '#F6F6F6'
       },
+      mobilemenucolor: {
+        DEFAULT: '#8fa3e3'
+      }
     },
     extend: {
       // Set default transition durations and easing when using the transition utilities.
