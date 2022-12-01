@@ -73,6 +73,11 @@ fields:
           fields:
             -
               import: customer-reviews
+        aboutsection:
+          display: aboutsection
+          fields:
+            -
+              import: aboutsection
       instructions_position: above
       visibility: visible
       always_save: false

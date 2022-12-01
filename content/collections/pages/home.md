@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669881946
+updated_at: 1669886615
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -188,5 +188,45 @@ page_builder:
         customername: 'Izzet Güntürk'
         companyname: Asics
         review: 'Nettt Interactieve Media heeft me goed geholpen.'
+  -
+    id: lb4tt8b4
+    type: aboutsection
+    enabled: true
+    image:
+      - images/nettt.webp
+    title: 'Wie zijn wij?'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nettt Interactieve Media is een full service internet- en mediabureau uit Herkenbosch, Roermond. Gevestigd in de provincie Limburg. Nettt Interactieve Media zorgt ervoor dat jouw merk een perfecte digitale presentatie krijgt.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Een professionele maatwerk website, webshop of een webapplicatie laten maken? Hiervoor ben je bij Nettt Interactieve Media op het juiste adres. Daarnaast zijn wij heel erg klantgericht, werken wij in korte lijntjes en bieden wij services aan zoals internetmarketing, eigen servers, beveiliging, helpdesk en nog veel meer!'
+    buttontitle: 'Meer over ons'
+    test:
+      -
+        type: heading
+        attrs:
+          level: 2
+        content:
+          -
+            type: text
+            text: hoi
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: italic
+            text: allesgoed
 seo_title: 'Home | Nettt Interactieve Media'
 ---
