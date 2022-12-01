@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669814591
+updated_at: 1669881946
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -155,5 +155,38 @@ page_builder:
     titelpink: 'klanten?'
     type: titels-descriptions-center
     enabled: true
+  -
+    id: lb3ovj7e
+    type: customer-reviews
+    enabled: true
+    reviews:
+      -
+        id: lb3torfa
+        customerimage:
+          - customers/customer1.webp
+        customername: 'Izzet Güntürk'
+        companyname: Asics
+        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+      -
+        id: lb4rkwgy
+        customerimage:
+          - customers/customer1.webp
+        customername: 'Izzet Güntürk'
+        companyname: Asics
+        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+      -
+        id: lb4rl6hd
+        customerimage:
+          - customers/customer1.webp
+        customername: 'Izzet Güntürk'
+        companyname: Asics
+        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+      -
+        id: lb4rlcg9
+        customerimage:
+          - customers/customer1.webp
+        customername: 'Izzet Güntürk'
+        companyname: Asics
+        review: 'Nettt Interactieve Media heeft me goed geholpen.'
 seo_title: 'Home | Nettt Interactieve Media'
 ---

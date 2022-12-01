@@ -1,0 +1,66 @@
+title: Customer-reviews
+fields:
+  -
+    handle: reviews
+    field:
+      fields:
+        -
+          handle: customerimage
+          field:
+            mode: list
+            restrict: false
+            allow_uploads: true
+            show_filename: true
+            display: 'Customer image'
+            type: assets
+            icon: assets
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+            instructions: 'Afbeeldingen in WebP uploaden'
+            container: assets
+        -
+          handle: customername
+          field:
+            input_type: text
+            antlers: false
+            display: 'Customer name'
+            type: text
+            icon: text
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
+          handle: companyname
+          field:
+            input_type: text
+            antlers: false
+            display: 'Company name'
+            type: text
+            icon: text
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
+          handle: review
+          field:
+            antlers: false
+            display: Review
+            type: textarea
+            icon: textarea
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+      mode: stacked
+      reorderable: true
+      display: reviews
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

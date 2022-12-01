@@ -1,0 +1,31 @@
+{{#
+@name video-background
+@desc The video-background page builder block.
+@set page.page_builder.video_background
+#}}
+
+<!-- /page_builder/_customer-reviews.antlers.html -->
+<section class="fluid-container">
+    <div class="mt-16 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4">
+        {{reviews}}
+        <div class="rounded shadow-xl relative mt-16">
+            {{customerimage}}
+            <div class="absolute transform -translate-y-1/2 mx-auto left-0 right-0">
+                <img class="mx-auto rounded-full w-28 shadow-xl relative" src="{{url}}" alt="{{alt}}">
+            </div>
+            {{/customerimage}}
+
+            <div class="-mt-4 -lg px-8 pb-8 pt-24 text-left ">
+                <p class="text-lg font-bold text-secondary">{{customername}}</p>
+                <p class="mt-1 text-xs font-medium text-tertiary">
+                    {{companyname}}
+                </p>
+                <p class="mt-4 text-sm text-tertiary">
+                    {{review}}
+                </p>
+            </div>
+        </div>
+        {{/reviews}}
+    </div>
+</section>
+<!-- End: /page_builder/_customer-reviews.antlers.html -->
