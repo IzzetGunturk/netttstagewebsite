@@ -54,6 +54,20 @@ module.exports = {
       transitionTimingFunction: {
         DEFAULT: 'cubic-bezier(0.4, 0, 0.2, 1)',
       },
+      keyframes: {
+        'mover':{
+          '0%': {transform: 'translateY(0)'},
+          '100%': {transform: 'translateY(-10px)'},
+        },
+        'slide-up':{
+          '0%': {transform: ' translateY(260px)'},
+          '100%': {transform: 'translateY(0)'},
+        }
+      },
+      animation: {
+        'mover': 'mover 1s infinite alternate',
+        'slide-up': 'slide-up 1s ease'
+      },
     },
     // Remove the font families you don't want to use.
     fontFamily: {
