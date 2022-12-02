@@ -5,7 +5,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: firsttext
+      display: 'First text blue'
       type: text
       icon: text
       listable: hidden
@@ -17,7 +17,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: betweentext
+      display: 'Between text pink'
       type: text
       icon: text
       listable: hidden
@@ -29,7 +29,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: endtext
+      display: 'End text blue'
       type: text
       icon: text
       listable: hidden
