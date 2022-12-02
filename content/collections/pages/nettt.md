@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669979124
+updated_at: 1669980669
 page_builder:
   -
     id: lb6dsnmu
@@ -22,4 +22,5 @@ page_builder:
     enabled: true
     titelblue: Over
     titelpink: 'Nettt Interactieve Media'
+    description: 'Al het goede komt in drieën: een spreuk die Nettt op het lijf is geschreven! De drie plussen in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk.'
 ---

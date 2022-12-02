@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669978648
+updated_at: 1669980633
 page_builder:
   -
     id: lb6d9v12
@@ -21,4 +21,5 @@ page_builder:
     titelblue: Projecten
     type: titels-descriptions
     enabled: true
+    description: 'Samen met onze klanten realiseren we doelgerichte websites, webshops en webapplicaties. We laten je graag een selectie zien van onze projecten.'
 ---

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669978766
+updated_at: 1669980656
 page_builder:
   -
     id: lb6d5ujz
@@ -22,4 +22,5 @@ page_builder:
     titelpink: hettt
     type: titels-descriptions
     enabled: true
+    description: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
 ---
