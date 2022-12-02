@@ -8,5 +8,18 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1668165911
+updated_at: 1669979124
+page_builder:
+  -
+    id: lb6dsnmu
+    heroimage:
+      - hero/nettt.webp
+    type: hero-other-pages
+    enabled: true
+  -
+    id: lb6dsprx
+    type: titels-descriptions
+    enabled: true
+    titelblue: Over
+    titelpink: 'Nettt Interactieve Media'
 ---

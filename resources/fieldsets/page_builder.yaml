@@ -83,6 +83,16 @@ fields:
           fields:
             -
               import: cta-section
+        hero-other-pages:
+          display: hero-other-pages
+          fields:
+            -
+              import: hero-other-pages
+        titels-descriptions-custom:
+          display: titels-descriptions-custom
+          fields:
+            -
+              import: titels-descriptions-custom
       instructions_position: above
       visibility: visible
       always_save: false

@@ -8,5 +8,16 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1668165918
+updated_at: 1669980085
+page_builder:
+  -
+    id: lb6dv4qe
+    heroimage:
+      - hero/contact.webp
+    type: hero-other-pages
+    enabled: true
+  -
+    id: lb6f0usz
+    type: titels-descriptions-custom
+    enabled: true
 ---
