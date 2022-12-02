@@ -98,6 +98,11 @@ fields:
           fields:
             -
               import: lefttext-rightimage
+        leftimage-righttext:
+          display: leftimage-righttext
+          fields:
+            -
+              import: leftimage-righttext
       instructions_position: above
       visibility: visible
       always_save: false

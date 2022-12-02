@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1669987903
+updated_at: 1670018886
 page_builder:
   -
     id: lb694x3j
@@ -29,6 +29,35 @@ page_builder:
     title: Websites
     description: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
     buttontitle: 'Lees meer'
+    icon:
+      - icons/websites.svg
+  -
+    id: lb71wwer
+    title: Webshops
+    description: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+    buttontitle: 'Lees meer'
+    icon:
+      - icons/webshops.svg
+    type: leftimage-righttext
+    enabled: true
+  -
+    id: lb71yeok
+    type: lefttext-rightimage
+    enabled: true
+    title: Webapplicaties
+    description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+    buttontitle: 'Lees meer'
+    icon:
+      - icons/webapplicaties.svg
+  -
+    id: lb71ymkb
+    title: 'Internet marketing'
+    description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+    buttontitle: 'Lees meer'
+    icon:
+      - icons/internet-marketing.svg
+    type: leftimage-righttext
+    enabled: true
   -
     id: lb6hs7it
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
