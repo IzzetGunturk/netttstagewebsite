@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: wordpress
 size: 3810
 last_modified: 1669723779
 width: 120.0

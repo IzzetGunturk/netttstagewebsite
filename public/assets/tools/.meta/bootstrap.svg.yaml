@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: bootstrap
 size: 4628
 last_modified: 1669723756
 width: 120.0

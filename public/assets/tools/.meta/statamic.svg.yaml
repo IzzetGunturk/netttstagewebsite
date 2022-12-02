@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: statamic
 size: 4082
 last_modified: 1669723773
 width: '800'

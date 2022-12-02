@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: alpine
 size: 8226
 last_modified: 1669723752
 width: '702'

@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: sass
 size: 3248
 last_modified: 1669723771
 width: 120.0

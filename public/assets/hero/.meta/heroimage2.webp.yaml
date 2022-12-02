@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: heroimage
 size: 151160
 last_modified: 1669374168
 width: 987

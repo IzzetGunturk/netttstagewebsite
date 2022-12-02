@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: vuejs
 size: 8181
 last_modified: 1669723777
 width: 120.0

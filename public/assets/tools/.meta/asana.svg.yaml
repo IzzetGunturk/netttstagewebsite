@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: asana
 size: 3200
 last_modified: 1669723754
 width: 120.0

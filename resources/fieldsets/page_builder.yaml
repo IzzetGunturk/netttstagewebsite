@@ -93,6 +93,11 @@ fields:
           fields:
             -
               import: titels-descriptions-custom
+        lefttext-rightimage:
+          display: lefttext-rightimage
+          fields:
+            -
+              import: lefttext-rightimage
       instructions_position: above
       visibility: visible
       always_save: false
