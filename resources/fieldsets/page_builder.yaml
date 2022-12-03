@@ -73,11 +73,11 @@ fields:
           fields:
             -
               import: customer-reviews
-        aboutsection:
-          display: aboutsection
+        overlayblock:
+          display: overlayblock
           fields:
             -
-              import: aboutsection
+              import: overlayblock
         cta-section:
           display: cta-section
           fields:

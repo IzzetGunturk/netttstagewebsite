@@ -44,6 +44,9 @@ module.exports = {
       },
       mobilemenucolor: {
         DEFAULT: '#8fa3e3'
+      },
+      background: {
+        DEFAULT: '#FCFCFC'
       }
     },
     extend: {

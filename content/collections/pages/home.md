@@ -198,7 +198,7 @@ page_builder:
         review: 'Nettt Interactieve Media heeft me goed geholpen.'
   -
     id: lb4tt8b4
-    type: aboutsection
+    type: overlayblock
     enabled: true
     image:
       - images/nettt.webp
