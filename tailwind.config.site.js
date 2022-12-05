@@ -47,6 +47,9 @@ module.exports = {
       },
       background: {
         DEFAULT: '#FCFCFC'
+      },
+      input: {
+        DEFAULT: '#E0E0E0'
       }
     },
     extend: {

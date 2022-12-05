@@ -5,19 +5,59 @@ sections:
       -
         handle: name
         field:
-          display: Name
+          display: Naam
           type: text
           validate: required
           localizable: true
           width: 50
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
+      -
+        handle: bedrijfsnaam
+        field:
+          input_type: text
+          antlers: false
+          display: Bedrijfsnaam
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+      -
+        handle: telefoon
+        field:
+          input_type: text
+          antlers: false
+          display: Telefoon
+          type: text
+          icon: text
+          width: 50
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
+          validate:
+            - required
       -
         handle: email
         field:
-          display: 'Email address'
+          display: E-mail
           type: text
           validate: required|email
           localizable: true
           width: 50
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
       -
         handle: message_body
         field:
@@ -25,16 +65,3 @@ sections:
           type: textarea
           validate: required
           localizable: true
-      -
-        handle: consent
-        field:
-          inline_label: 'I agree that my submitted data is being collected and stored.'
-          default: false
-          display: Consent
-          type: toggle
-          icon: toggle
-          listable: hidden
-          instructions_position: above
-          read_only: false
-          validate:
-            - accepted

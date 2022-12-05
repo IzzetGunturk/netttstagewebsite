@@ -10,39 +10,52 @@ fields:
       display: 'Page builder'
       instructions: 'Build your page by using various predefined content models.'
       sets:
-        article:
-          display: Article
-          instructions: 'Long form content, can be expanded with media like figures, video, quotes or tables.'
-          fields:
-            -
-              import: article
         form:
           display: Form
           instructions: 'Show a form.'
           fields:
             -
               import: form
-        link_blocks:
-          display: 'Link blocks'
-          instructions: 'Show link blocks.'
-          fields:
-            -
-              import: link_blocks
-        heroimage:
-          display: heroimage
-          fields:
-            -
-              import: heroimage
-        techniquecards:
-          display: techniquecards
-          fields:
-            -
-              import: techniquecards
         titels-descriptions:
           display: titels-descriptions
           fields:
             -
               import: titels-descriptions
+        titels-descriptions-center:
+          display: titels-descriptions-center
+          fields:
+            -
+              import: titels-descriptions-center
+        titels-descriptions-custom:
+          display: titels-descriptions-custom
+          fields:
+            -
+              import: titels-descriptions-custom
+        heroimage:
+          display: heroimage
+          fields:
+            -
+              import: heroimage
+        hero-other-pages:
+          display: hero-other-pages
+          fields:
+            -
+              import: hero-other-pages
+        lefttext-rightimage:
+          display: lefttext-rightimage
+          fields:
+            -
+              import: lefttext-rightimage
+        leftimage-righttext:
+          display: leftimage-righttext
+          fields:
+            -
+              import: leftimage-righttext
+        techniquecards:
+          display: techniquecards
+          fields:
+            -
+              import: techniquecards
         tools-slider:
           display: tools-slider
           fields:
@@ -63,11 +76,6 @@ fields:
           fields:
             -
               import: aanpaksection
-        titels-descriptions-center:
-          display: titels-descriptions-center
-          fields:
-            -
-              import: titels-descriptions-center
         customer-reviews:
           display: customer-reviews
           fields:
@@ -83,31 +91,16 @@ fields:
           fields:
             -
               import: cta-section
-        hero-other-pages:
-          display: hero-other-pages
-          fields:
-            -
-              import: hero-other-pages
-        titels-descriptions-custom:
-          display: titels-descriptions-custom
-          fields:
-            -
-              import: titels-descriptions-custom
-        lefttext-rightimage:
-          display: lefttext-rightimage
-          fields:
-            -
-              import: lefttext-rightimage
-        leftimage-righttext:
-          display: leftimage-righttext
-          fields:
-            -
-              import: leftimage-righttext
         contactblock:
           display: contactblock
           fields:
             -
               import: contactblock
+        imageblock:
+          display: imageblock
+          fields:
+            -
+              import: imageblock
       instructions_position: above
       visibility: visible
       always_save: false
