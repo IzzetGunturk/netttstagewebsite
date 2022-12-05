@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670078386
+updated_at: 1670233283
 page_builder:
   -
     id: lb6dv4qe
@@ -23,4 +23,15 @@ page_builder:
     firsttext: Neem
     betweentext: contact
     endtext: 'met ons op!'
+  -
+    id: lbahylsu
+    type: contactblock
+    enabled: true
+    image:
+      - images/nettt.webp
+    title: 'Nettt Interactieve Media'
+    address: 'Stationsweg 84'
+    postalcode: '6075 CD, Herkenbosch'
+    buttontitle: 'Plan je route'
+    buttonlink: 'https://www.google.com/maps/dir//Nettt+Interactieve+Media,+Stationsweg,+Herkenbosch/@51.1668084,6.0522194,14.86z/data=!4m9!4m8!1m0!1m5!1m1!1s0x47c0b2e707dce5f5:0x704360981783f2f2!2m2!1d6.0630622!2d51.1671273!3e0'
 ---
