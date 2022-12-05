@@ -27,7 +27,7 @@ Alpine.start()
 $(document).ready(function(){
     $('.customer-logos').slick({
         infinite: true,
-        slidesToShow: 6,
+        slidesToShow: 5,
         slidesToScroll: 1,
         autoplay: true,
         autoplaySpeed: 1000,

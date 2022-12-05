@@ -1,0 +1,27 @@
+{{#
+@name cards
+@desc The cards page builder block.
+@set page.page_builder.cards
+#}}
+
+<!-- /page_builder/_cards.antlers.html -->
+<section class="fluid-container mt-20 animated fade-up delay-400">
+    <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-1 lg:grid-cols-3">
+        {{cards}}
+        <div class="block rounded-xl border bg-white transition duration-200 p-8 shadow-xl text-center">
+            {{icon}}
+            <img class="mx-auto" width="auto" height="auto" src="{{url}}" alt="{{alt}}">
+            {{/icon}}
+
+            <div class="pt-7">
+                <h1 class="mt-4 text-xl font-Poppins font-bold text-secondary">{{title}}</h1>
+
+                <h2 class="mt-1 text-sm text-tertiary">
+                    {{description}}
+                </h2>
+            </div>
+        </div>
+        {{/cards}}
+    </div>
+</section>
+<!-- End: /page_builder/_cards.antlers.html -->

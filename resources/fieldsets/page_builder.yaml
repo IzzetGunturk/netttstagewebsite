@@ -51,16 +51,21 @@ fields:
           fields:
             -
               import: leftimage-righttext
+        cards:
+          display: cards
+          fields:
+            -
+              import: cards
         techniquecards:
           display: techniquecards
           fields:
             -
               import: techniquecards
-        tools-slider:
-          display: tools-slider
+        slider:
+          display: slider
           fields:
             -
-              import: tools-slider
+              import: slider
         projectsection:
           display: projectsection
           fields:

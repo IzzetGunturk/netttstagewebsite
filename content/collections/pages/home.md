@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670019195
+updated_at: 1670245038
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -33,7 +33,13 @@ page_builder:
     enabled: true
     titelblue: Diensten
     titelpink: 'waar we in schitteren'
-    description: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat je bedrijf een perfecte digitale presentatie krijgt!'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat je bedrijf een perfecte digitale presentatie krijgt!'
   -
     id: lazapfj1
     cards:
@@ -50,9 +56,7 @@ page_builder:
     card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
     card1-link: 'entry::cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb'
   -
-    id: lb0oqzco
-    type: tools-slider
-    enabled: true
+    id: lbasrc94
     tools:
       - tools/alpine.svg
       - tools/asana.svg
@@ -68,6 +72,8 @@ page_builder:
       - tools/tailwind.svg
       - tools/vuejs.svg
       - tools/wordpress.svg
+    type: slider
+    enabled: true
   -
     id: lb22kp9q
     titelblue: Projecten
@@ -152,7 +158,13 @@ page_builder:
     type: aanpaksection
     enabled: true
     aanpaktitle: 'In 6 stappen naar een nettt eindresultaat'
-    aanpakdescription: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
+    aanpakdescription:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
     buttontitle: 'Bekijk onze aanpak'
     buttonlink: 'entry::601fdbb6-fae8-4016-bd84-b91dc6c9eb41'
     image:
