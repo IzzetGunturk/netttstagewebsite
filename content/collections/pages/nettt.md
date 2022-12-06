@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670245157
+updated_at: 1670316405
 page_builder:
   -
     id: lb6dsnmu
@@ -67,6 +67,63 @@ page_builder:
     type: titels-descriptions-center
     enabled: true
   -
+    id: lbawl9d3
+    type: teamblock
+    enabled: true
+    staffmembers:
+      -
+        id: lbbxnk3q
+        image:
+          - team/marc.jpg
+        name: 'Marc Hensen'
+        function: 'Directeur & programmeur'
+        socialmedia:
+          -
+            id: lbbxox6n
+            icon:
+              - icons/creativiteit.svg
+            socialmedialink: 'https://google.com'
+        linkedin: 'https://www.linkedin.com/in/marchensen/?originalSubdomain=nl'
+        mail: marc@nettt.nl
+      -
+        id: lbbylbhp
+        image:
+          - team/kevin.jpg
+        name: 'Kevin Janssen'
+        function: Webdeveloper
+        mail: 'mailto:kevin@nettt.nl'
+      -
+        id: lbbz1s30
+        image:
+          - team/xandor.jpg
+        name: 'Xandor Naus'
+        function: 'Projectmanager & UI/UX controller'
+        mail: 'mailto:xandor@nettt.nl'
+        linkedin: 'https://www.linkedin.com/in/xandor-naus-102b44155/'
+      -
+        id: lbbz3a9f
+        image:
+          - team/marc-breugelmans.jpg
+        name: 'Marc Beugelmans'
+        function: 'Senior Communicatieadviseur'
+        mail: 'mailto:marc@arcnederland.nl'
+        linkedin: 'https://www.linkedin.com/in/marcbreugelmans/'
+      -
+        id: lbbz59hn
+        name: 'Doreen Verhees'
+        function: 'Administratief medewerker'
+        mail: 'mailto:doreen@arcnederland.nl'
+        image:
+          - team/doreen.jpg
+      -
+        id: lbbz6s44
+        name: 'Izzet Güntürk'
+        function: 'Stagiair webdeveloper'
+        mail: 'mailto:stage@nettt.nl'
+        linkedin: 'https://www.linkedin.com/in/izzet-g%C3%BCnt%C3%BCrk-b89529216/'
+        image:
+          - team/izzet.jpg
+  -
     id: lbasja0o
     titelblue: Partners
     titelpink: 'waarmee we samen werken'
@@ -77,10 +134,18 @@ page_builder:
     type: slider
     enabled: true
     tools:
-      - partners/1fdd535082772577e10f254de21f90c3.jpg
-      - partners/d95e001bbbaf74187ccc79270b0ef499.jpg
-      - partners/341529db396ce87242baa229f1c72e69-1670245117.jpg
-      - partners/373b99b02fc2f3469e583b9df24f782e-1670245116.png
-      - partners/74a97a7f6ef4f291c32a2d0eaf2c3699-1670245115.jpg
-      - partners/7f6aa282e3b5d861b4293fcab9378bac.jpg
+      - partners/denk.jpg
+      - partners/creationstation.jpg
+      - partners/adeight.jpg
+      - partners/arc.png
+      - partners/computel.jpg
+      - partners/marksmark.jpg
+  -
+    id: lbaszokf
+    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    buttontitle: 'Neem contact op!'
+    buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
+    type: cta-section
+    enabled: true
+seo_title: 'Nettt | Nettt Interactieve Media'
 ---

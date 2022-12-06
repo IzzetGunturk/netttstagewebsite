@@ -1,30 +1,31 @@
-title: Cards
+title: Teamblock
 fields:
   -
-    handle: cards
+    handle: staffmembers
     field:
       fields:
         -
-          handle: icon
+          handle: image
           field:
             mode: list
+            container: assets
             restrict: false
             allow_uploads: true
             show_filename: true
-            display: Icon
+            display: Image
             type: assets
             icon: assets
+            instructions: 'Afbeeldingen in WebP uploaden'
             listable: hidden
             instructions_position: above
             visibility: visible
             always_save: false
-            container: assets
         -
-          handle: title
+          handle: name
           field:
             input_type: text
             antlers: false
-            display: Title
+            display: Name
             type: text
             icon: text
             listable: hidden
@@ -32,19 +33,39 @@ fields:
             visibility: visible
             always_save: false
         -
-          handle: description
+          handle: function
           field:
             antlers: false
-            display: Description
+            display: Function
             type: textarea
             icon: textarea
             listable: hidden
             instructions_position: above
             visibility: visible
             always_save: false
+        -
+          handle: mail
+          field:
+            display: Mail
+            type: link
+            icon: link
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
+        -
+          handle: linkedin
+          field:
+            display: Linkedin
+            type: link
+            icon: link
+            listable: hidden
+            instructions_position: above
+            visibility: visible
+            always_save: false
       mode: stacked
       reorderable: true
-      display: Cards
+      display: 'Staff members'
       type: grid
       icon: grid
       listable: hidden

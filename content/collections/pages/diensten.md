@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670018886
+updated_at: 1670312172
 page_builder:
   -
     id: lb694x3j
@@ -20,21 +20,39 @@ page_builder:
     id: lb69qxso
     type: titels-descriptions
     enabled: true
-    description: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
     titelpink: Diensten
   -
     id: lb6gy8nc
     type: lefttext-rightimage
     enabled: true
     title: Websites
-    description: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
     buttontitle: 'Lees meer'
     icon:
       - icons/websites.svg
   -
     id: lb71wwer
     title: Webshops
-    description: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
     buttontitle: 'Lees meer'
     icon:
       - icons/webshops.svg
@@ -45,14 +63,26 @@ page_builder:
     type: lefttext-rightimage
     enabled: true
     title: Webapplicaties
-    description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
     buttontitle: 'Lees meer'
     icon:
       - icons/webapplicaties.svg
   -
     id: lb71ymkb
     title: 'Internet marketing'
-    description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
     buttontitle: 'Lees meer'
     icon:
       - icons/internet-marketing.svg
@@ -65,4 +95,5 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
+seo_title: 'Diensten | Nettt Interactieve Media'
 ---

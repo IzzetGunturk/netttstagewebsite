@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670245038
+updated_at: 1670252407
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -158,6 +158,10 @@ page_builder:
     type: aanpaksection
     enabled: true
     aanpaktitle: 'In 6 stappen naar een nettt eindresultaat'
+    buttontitle: 'Bekijk onze aanpak'
+    buttonlink: 'entry::601fdbb6-fae8-4016-bd84-b91dc6c9eb41'
+    image:
+      - images/aanpak.webp
     aanpakdescription:
       -
         type: paragraph
@@ -165,10 +169,7 @@ page_builder:
           -
             type: text
             text: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
-    buttontitle: 'Bekijk onze aanpak'
-    buttonlink: 'entry::601fdbb6-fae8-4016-bd84-b91dc6c9eb41'
-    image:
-      - images/aanpak.webp
+    description: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
   -
     id: lb3ohhoj
     titelblue: 'Wat zeggen onze'
@@ -248,6 +249,7 @@ page_builder:
               -
                 type: italic
             text: allesgoed
+    buttonlink: 'entry::d0a9b18d-36f2-47c1-bb69-91adce632544'
   -
     id: lb4vmfjj
     type: cta-section

@@ -17,95 +17,100 @@ fields:
             -
               import: form
         titels-descriptions:
-          display: titels-descriptions
+          display: 'Titels descriptions'
           fields:
             -
               import: titels-descriptions
         titels-descriptions-center:
-          display: titels-descriptions-center
+          display: 'Titels descriptions center'
           fields:
             -
               import: titels-descriptions-center
         titels-descriptions-custom:
-          display: titels-descriptions-custom
+          display: 'Titels descriptions custom'
           fields:
             -
               import: titels-descriptions-custom
         heroimage:
-          display: heroimage
+          display: Heroimage
           fields:
             -
               import: heroimage
         hero-other-pages:
-          display: hero-other-pages
+          display: 'Hero other pages'
           fields:
             -
               import: hero-other-pages
         lefttext-rightimage:
-          display: lefttext-rightimage
+          display: 'Left text - right image'
           fields:
             -
               import: lefttext-rightimage
         leftimage-righttext:
-          display: leftimage-righttext
+          display: 'Left image right text'
           fields:
             -
               import: leftimage-righttext
         cards:
-          display: cards
+          display: Cards
           fields:
             -
               import: cards
         techniquecards:
-          display: techniquecards
+          display: 'Technique cards'
           fields:
             -
               import: techniquecards
         slider:
-          display: slider
+          display: Slider
           fields:
             -
               import: slider
         projectsection:
-          display: projectsection
+          display: 'Project section'
           fields:
             -
               import: projectsection
         button-pink:
-          display: button-pink
+          display: 'Button pink'
           fields:
             -
               import: button-pink
         aanpaksection:
-          display: aanpaksection
+          display: 'Aanpak section'
           fields:
             -
               import: aanpaksection
         customer-reviews:
-          display: customer-reviews
+          display: 'Customer reviews'
           fields:
             -
               import: customer-reviews
         overlayblock:
-          display: overlayblock
+          display: 'Overlay block'
           fields:
             -
               import: overlayblock
         cta-section:
-          display: cta-section
+          display: CTA-section
           fields:
             -
               import: cta-section
         contactblock:
-          display: contactblock
+          display: 'Contact block'
           fields:
             -
               import: contactblock
         imageblock:
-          display: imageblock
+          display: 'Image block'
           fields:
             -
               import: imageblock
+        teamblock:
+          display: 'Team block'
+          fields:
+            -
+              import: teamblock
       instructions_position: above
       visibility: visible
       always_save: false

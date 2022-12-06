@@ -1,7 +1,7 @@
 ---
 id: 059d4d8d-fc60-49f8-8823-7da10549e84e
 blueprint: page
-title: 'Page not found'
+title: 'Pagina niet gevonden'
 page_builder:
   -
     id: lb89puki
@@ -77,5 +77,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670092927
+updated_at: 1670312260
+seo_title: 'Pagina niet gevonden | Nettt Interactieve Media'
 ---
