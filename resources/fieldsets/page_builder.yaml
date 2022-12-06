@@ -41,16 +41,6 @@ fields:
           fields:
             -
               import: hero-other-pages
-        lefttext-rightimage:
-          display: 'Left text - right image (diensten)'
-          fields:
-            -
-              import: lefttext-rightimage
-        leftimage-righttext:
-          display: 'Left image - right text (diensten)'
-          fields:
-            -
-              import: leftimage-righttext
         cards:
           display: Cards
           fields:
@@ -116,6 +106,11 @@ fields:
           fields:
             -
               import: tekstafbeelding-aanpak
+        tekstafbeelding-diensten:
+          display: 'Tekst en afbeelding (diensten)'
+          fields:
+            -
+              import: tekstafbeelding-diensten
       instructions_position: above
       visibility: visible
       always_save: false

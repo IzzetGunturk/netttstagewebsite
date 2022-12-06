@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670312172
+updated_at: 1670335515
 page_builder:
   -
     id: lb694x3j
@@ -29,9 +29,7 @@ page_builder:
             text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
     titelpink: Diensten
   -
-    id: lb6gy8nc
-    type: lefttext-rightimage
-    enabled: true
+    id: lbca4431
     title: Websites
     description:
       -
@@ -43,8 +41,11 @@ page_builder:
     buttontitle: 'Lees meer'
     icon:
       - icons/websites.svg
+    imageposition: right
+    type: tekstafbeelding-diensten
+    enabled: true
   -
-    id: lb71wwer
+    id: lbca57h4
     title: Webshops
     description:
       -
@@ -53,15 +54,16 @@ page_builder:
           -
             type: text
             text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+          -
+            type: hard_break
     buttontitle: 'Lees meer'
     icon:
       - icons/webshops.svg
-    type: leftimage-righttext
+    imageposition: right
+    type: tekstafbeelding-diensten
     enabled: true
   -
-    id: lb71yeok
-    type: lefttext-rightimage
-    enabled: true
+    id: lbca6020
     title: Webapplicaties
     description:
       -
@@ -70,11 +72,16 @@ page_builder:
           -
             type: text
             text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+          -
+            type: hard_break
     buttontitle: 'Lees meer'
     icon:
       - icons/webapplicaties.svg
+    imageposition: left
+    type: tekstafbeelding-diensten
+    enabled: true
   -
-    id: lb71ymkb
+    id: lbca61og
     title: 'Internet marketing'
     description:
       -
@@ -83,10 +90,13 @@ page_builder:
           -
             type: text
             text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+          -
+            type: hard_break
     buttontitle: 'Lees meer'
     icon:
       - icons/internet-marketing.svg
-    type: leftimage-righttext
+    imageposition: right
+    type: tekstafbeelding-diensten
     enabled: true
   -
     id: lb6hs7it
