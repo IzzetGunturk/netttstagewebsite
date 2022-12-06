@@ -5,13 +5,12 @@
 #}}
 
 <!-- /page_builder/_lefttext-rightimage.antlers.html -->
-<section class="fluid-container mt-20 mb-10 animated fade-up delay-300">
-    {{tekstafbeelding}}
+<section class="fluid-container mt-20 mb-10 animated fade-up delay-400">
     <div class="rounded-3xl mx-auto max-w-screen-xl">
         <div class="grid grid-cols-1 gap-14 lg:grid-cols-2 lg:gap-16">
             <div class="relative h-48 md:pt-10 {{ if imageposition == "right" }} lg:order-last {{ else }} order-first {{/if}} lg:h-full">
                 {{image}}
-                <img src="{{url}}" alt="{{alt}}" class="mx-auto fill-white w-72 lg:w-80" width="auto" height="auto">
+                <img src="{{url}}" alt="{{alt}}" class="mx-auto fill-white w-64 lg:w-80" width="auto" height="auto">
                 {{/image}}
             </div>
 
@@ -25,7 +24,7 @@
         </div>
     </div>
     {{ if dashedline == true }}
-    <div class="animated fade-up delay-300 {{ if imageposition == "left"}} scale-x-[-1] {{/if}}">
+    <div class="animated fade-up delay-400 {{ if imageposition == "left"}} scale-x-[-1] {{/if}}">
         <svg class="mx-auto lg:w-[600px] w-72" xmlns="http://www.w3.org/2000/svg" width="auto" height="auto" viewBox="350 350 900 500">
             <defs>
                 <style>
@@ -42,6 +41,5 @@
         </svg>
     </div>
     {{/if}}
-    {{/tekstafbeelding}}
 </section>
 <!-- End: /page_builder/_lefttext-rightimage-aanpak.antlers.html -->

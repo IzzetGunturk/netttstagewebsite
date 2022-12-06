@@ -1,110 +1,96 @@
 title: 'Tekst + afbeelding (aanpak)'
 fields:
   -
-    handle: tekstafbeelding
+    handle: title
     field:
-      fields:
-        -
-          handle: title
-          field:
-            input_type: text
-            antlers: false
-            display: Title
-            type: text
-            icon: text
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
-        -
-          handle: description
-          field:
-            collapse: false
-            always_show_set_button: false
-            previews: true
-            buttons:
-              - h2
-              - h3
-              - bold
-              - italic
-              - unorderedlist
-              - orderedlist
-              - removeformat
-              - quote
-              - anchor
-              - image
-              - table
-            save_html: false
-            toolbar_mode: fixed
-            link_noopener: false
-            link_noreferrer: false
-            target_blank: false
-            reading_time: false
-            fullscreen: true
-            allow_source: true
-            enable_input_rules: true
-            enable_paste_rules: true
-            antlers: false
-            remove_empty_nodes: false
-            display: Description
-            type: bard
-            icon: bard
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
-        -
-          handle: image
-          field:
-            mode: list
-            container: assets
-            restrict: false
-            allow_uploads: true
-            show_filename: true
-            display: Image
-            type: assets
-            icon: assets
-            instructions: 'Afbeeldingen in WebP uploaden'
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
-        -
-          handle: imageposition
-          field:
-            options:
-              left: links
-              right: rechts
-            multiple: false
-            clearable: false
-            searchable: true
-            taggable: false
-            push_tags: false
-            cast_booleans: false
-            default: left
-            display: 'Image position'
-            type: select
-            icon: select
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
-        -
-          handle: dashedline
-          field:
-            default: true
-            display: 'Dashed line'
-            type: toggle
-            icon: toggle
-            listable: hidden
-            instructions_position: above
-            visibility: visible
-            always_save: false
-      mode: stacked
-      reorderable: true
-      display: 'Tekst + afbeelding'
-      type: grid
-      icon: grid
+      input_type: text
+      antlers: false
+      display: Title
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: description
+    field:
+      collapse: false
+      always_show_set_button: false
+      previews: true
+      buttons:
+        - h2
+        - h3
+        - bold
+        - italic
+        - unorderedlist
+        - orderedlist
+        - removeformat
+        - quote
+        - anchor
+        - image
+        - table
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: true
+      enable_input_rules: true
+      enable_paste_rules: true
+      antlers: false
+      remove_empty_nodes: false
+      display: Description
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: image
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: Image
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: imageposition
+    field:
+      options:
+        left: links
+        right: rechts
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: left
+      display: 'Image position'
+      type: select
+      icon: select
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false
+  -
+    handle: dashedline
+    field:
+      default: true
+      display: 'Dashed line'
+      type: toggle
+      icon: toggle
       listable: hidden
       instructions_position: above
       visibility: visible
