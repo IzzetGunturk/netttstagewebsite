@@ -1,21 +1,5 @@
-title: 'Overlay block'
+title: 'Left text - right image (aanpak)'
 fields:
-  -
-    handle: image
-    field:
-      mode: list
-      restrict: false
-      allow_uploads: true
-      show_filename: true
-      display: Image
-      type: assets
-      icon: assets
-      instructions: 'Afbeeldingen in WebP uploaden'
-      listable: hidden
-      instructions_position: above
-      visibility: visible
-      always_save: false
-      container: assets
   -
     handle: title
     field:
@@ -66,25 +50,17 @@ fields:
       visibility: visible
       always_save: false
   -
-    handle: buttontitle
+    handle: image
     field:
-      input_type: text
-      antlers: false
-      display: 'Button title'
-      type: text
-      icon: text
-      width: 50
-      listable: hidden
-      instructions_position: above
-      visibility: visible
-      always_save: false
-  -
-    handle: buttonlink
-    field:
-      display: 'Button link'
-      type: link
-      icon: link
-      width: 50
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: Image
+      type: assets
+      icon: assets
+      instructions: 'Afbeeldingen in WebP uploaden'
       listable: hidden
       instructions_position: above
       visibility: visible

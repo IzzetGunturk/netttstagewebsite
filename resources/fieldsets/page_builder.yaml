@@ -42,12 +42,12 @@ fields:
             -
               import: hero-other-pages
         lefttext-rightimage:
-          display: 'Left text - right image'
+          display: 'Left text - right image (diensten)'
           fields:
             -
               import: lefttext-rightimage
         leftimage-righttext:
-          display: 'Left image right text'
+          display: 'Left image - right text (diensten)'
           fields:
             -
               import: leftimage-righttext
@@ -111,6 +111,11 @@ fields:
           fields:
             -
               import: teamblock
+        lefttext-rightimage-aanpak:
+          display: 'lefttext-rightimage (aanpak)'
+          fields:
+            -
+              import: lefttext-rightimage-aanpak
       instructions_position: above
       visibility: visible
       always_save: false
