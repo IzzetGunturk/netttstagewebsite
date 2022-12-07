@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670252407
+updated_at: 1670399977
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -40,6 +40,7 @@ page_builder:
           -
             type: text
             text: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat je bedrijf een perfecte digitale presentatie krijgt!'
+    center: false
   -
     id: lazapfj1
     cards:
@@ -80,6 +81,7 @@ page_builder:
     titelpink: 'waarop we trots zijn'
     type: titels-descriptions
     enabled: true
+    center: false
   -
     id: lb3dqj3f
     type: projectsection
@@ -171,11 +173,12 @@ page_builder:
             text: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
     description: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
   -
-    id: lb3ohhoj
+    id: lbdcz8op
     titelblue: 'Wat zeggen onze'
     titelpink: 'klanten?'
-    type: titels-descriptions-center
+    type: titels-descriptions
     enabled: true
+    center: true
   -
     id: lb3ovj7e
     type: customer-reviews

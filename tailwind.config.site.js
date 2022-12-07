@@ -43,7 +43,7 @@ module.exports = {
         DEFAULT: '#F6F6F6'
       },
       mobilemenucolor: {
-        DEFAULT: '#8fa3e3'
+        DEFAULT: '#003FC0'
       },
       background: {
         DEFAULT: '#FCFCFC'

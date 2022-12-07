@@ -63,3 +63,14 @@ fields:
       instructions_position: above
       visibility: visible
       always_save: false
+  -
+    handle: center
+    field:
+      default: false
+      display: Center
+      type: toggle
+      icon: toggle
+      listable: hidden
+      instructions_position: above
+      visibility: visible
+      always_save: false

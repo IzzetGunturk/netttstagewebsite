@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670316405
+updated_at: 1670400101
 page_builder:
   -
     id: lb6dsnmu
@@ -29,6 +29,7 @@ page_builder:
           -
             type: text
             text: 'Al het goede komt in drieën: een spreuk die Nettt op het lijf is geschreven! De drie plussen in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk.'
+    center: false
   -
     id: lbaqrlp8
     type: imageblock
@@ -61,11 +62,12 @@ page_builder:
         icon:
           - icons/service.svg
   -
-    id: lbasb4hk
+    id: lbdd1ait
+    type: titels-descriptions
+    enabled: true
     titelblue: 'Wij zijn'
     titelpink: 'Nettt Interactieve Media'
-    type: titels-descriptions-center
-    enabled: true
+    center: true
   -
     id: lbawl9d3
     type: teamblock
@@ -124,11 +126,12 @@ page_builder:
         image:
           - team/izzet.jpg
   -
-    id: lbasja0o
-    titelblue: Partners
-    titelpink: 'waarmee we samen werken'
-    type: titels-descriptions-center
+    id: lbdd2x2t
+    type: titels-descriptions
     enabled: true
+    titelblue: Partners
+    titelpink: 'waarmee we samenwerken'
+    center: true
   -
     id: lbashjzk
     type: slider

@@ -21,11 +21,6 @@ fields:
           fields:
             -
               import: titels-descriptions
-        titels-descriptions-center:
-          display: 'Titels descriptions center'
-          fields:
-            -
-              import: titels-descriptions-center
         titels-descriptions-custom:
           display: 'Titels descriptions custom'
           fields:
