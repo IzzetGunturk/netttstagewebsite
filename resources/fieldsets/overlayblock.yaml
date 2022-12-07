@@ -46,6 +46,7 @@ fields:
         - anchor
         - image
         - table
+        - underline
       save_html: false
       toolbar_mode: fixed
       link_noopener: false

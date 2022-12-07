@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670336077
+updated_at: 1670401343
 page_builder:
   -
     id: lb694x3j
@@ -28,6 +28,7 @@ page_builder:
             type: text
             text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
     titelpink: Diensten
+    center: false
   -
     id: lbca4431
     title: Websites
@@ -44,6 +45,7 @@ page_builder:
     imageposition: right
     type: tekstafbeelding-diensten
     enabled: true
+    buttonlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
   -
     id: lbca57h4
     title: Webshops

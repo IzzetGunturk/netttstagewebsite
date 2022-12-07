@@ -49,7 +49,7 @@ module.exports = {
         DEFAULT: '#FCFCFC'
       },
       input: {
-        DEFAULT: '#E0E0E0'
+        DEFAULT: '#F3F3F3'
       }
     },
     extend: {

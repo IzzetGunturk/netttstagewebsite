@@ -106,6 +106,16 @@ fields:
           fields:
             -
               import: tekstafbeelding-diensten
+        techniquegrid:
+          display: 'Technique grid'
+          fields:
+            -
+              import: techniquegrid
+        veelgestelde_vragenlijst:
+          display: 'Veelgestelde vragenlijst'
+          fields:
+            -
+              import: veelgestelde_vragenlijst
       instructions_position: above
       visibility: visible
       always_save: false

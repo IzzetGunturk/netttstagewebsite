@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670399977
+updated_at: 1670401313
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -55,7 +55,7 @@ page_builder:
     card2-description: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
     card3-description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
     card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
-    card1-link: 'entry::cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb'
+    card1-link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
   -
     id: lbasrc94
     tools:
