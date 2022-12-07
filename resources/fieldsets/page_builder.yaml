@@ -111,11 +111,11 @@ fields:
           fields:
             -
               import: techniquegrid
-        veelgestelde_vragenlijst:
-          display: 'Veelgestelde vragenlijst'
+        frequently_asked_questions:
+          display: 'Frequently asked questions'
           fields:
             -
-              import: veelgestelde_vragenlijst
+              import: frequently_asked_questions
       instructions_position: above
       visibility: visible
       always_save: false
