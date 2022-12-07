@@ -15,7 +15,7 @@ page_builder:
     type: hero-other-pages
     enabled: true
     heroimage:
-      - hero/pexels-pixabay-270366.webp
+      - hero/diensten2.webp
   -
     id: lb69qxso
     type: titels-descriptions

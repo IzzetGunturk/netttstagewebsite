@@ -17,32 +17,32 @@ fields:
             -
               import: form
         titels-descriptions:
-          display: 'Titels descriptions'
+          display: 'Titels & beschrijvingen'
           fields:
             -
               import: titels-descriptions
         titels-descriptions-custom:
-          display: 'Titels descriptions custom'
+          display: 'Titel & beschrijvingen custom'
           fields:
             -
               import: titels-descriptions-custom
         heroimage:
-          display: Heroimage
+          display: 'Hero homepagina'
           fields:
             -
               import: heroimage
         hero-other-pages:
-          display: 'Hero other pages'
+          display: "Hero andere pagina's"
           fields:
             -
               import: hero-other-pages
         cards:
-          display: Cards
+          display: Kaarten
           fields:
             -
               import: cards
         techniquecards:
-          display: 'Technique cards'
+          display: 'Techniek kaarten'
           fields:
             -
               import: techniquecards
@@ -52,32 +52,32 @@ fields:
             -
               import: slider
         projectsection:
-          display: 'Project section'
+          display: 'Project sectie'
           fields:
             -
               import: projectsection
         button-pink:
-          display: 'Button pink'
+          display: 'Button roze'
           fields:
             -
               import: button-pink
         aanpaksection:
-          display: 'Aanpak section'
+          display: 'Aanpak sectie'
           fields:
             -
               import: aanpaksection
         customer-reviews:
-          display: 'Customer reviews'
+          display: 'Klanten reviews'
           fields:
             -
               import: customer-reviews
         overlayblock:
-          display: 'Overlay block'
+          display: 'Overlay blok'
           fields:
             -
               import: overlayblock
         cta-section:
-          display: CTA-section
+          display: CTA-sectie
           fields:
             -
               import: cta-section
@@ -87,32 +87,32 @@ fields:
             -
               import: contactblock
         imageblock:
-          display: 'Image block'
+          display: 'Afbeelding blok'
           fields:
             -
               import: imageblock
         teamblock:
-          display: 'Team block'
+          display: 'Team blok'
           fields:
             -
               import: teamblock
         tekstafbeelding-aanpak:
-          display: 'Tekst en afbeelding (aanpak)'
+          display: 'Tekst + afbeelding (aanpak)'
           fields:
             -
               import: tekstafbeelding-aanpak
         tekstafbeelding-diensten:
-          display: 'Tekst en afbeelding (diensten)'
+          display: 'Tekst + afbeelding (diensten)'
           fields:
             -
               import: tekstafbeelding-diensten
         techniquegrid:
-          display: 'Technique grid'
+          display: 'Techniek grid'
           fields:
             -
               import: techniquegrid
         frequently_asked_questions:
-          display: 'Frequently asked questions'
+          display: 'Veelgestelde vragenlijst'
           fields:
             -
               import: frequently_asked_questions

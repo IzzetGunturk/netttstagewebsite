@@ -1,4 +1,4 @@
-title: Hero-other-pages
+title: "Hero andere pagina's"
 fields:
   -
     handle: heroimage
@@ -8,7 +8,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: heroimage
+      display: 'Hero afbeelding'
       type: assets
       icon: assets
       listable: hidden

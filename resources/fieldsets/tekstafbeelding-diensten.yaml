@@ -5,7 +5,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Title
+      display: Titel
       type: text
       icon: text
       listable: hidden
@@ -42,7 +42,7 @@ fields:
       enable_paste_rules: true
       antlers: false
       remove_empty_nodes: false
-      display: Description
+      display: Beschrijving
       type: bard
       icon: bard
       listable: hidden
@@ -54,7 +54,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Button title'
+      display: 'Button titel'
       type: text
       icon: text
       width: 50
@@ -81,7 +81,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: Icon
+      display: Icoon
       type: assets
       icon: assets
       listable: hidden
@@ -101,7 +101,7 @@ fields:
       push_tags: false
       cast_booleans: false
       default: left
-      display: 'Image position'
+      display: 'Afbeelding positie'
       type: select
       icon: select
       listable: hidden

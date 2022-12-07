@@ -1,4 +1,4 @@
-title: Contactblock
+title: 'Contact blok'
 fields:
   -
     handle: image
@@ -8,7 +8,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: Image
+      display: Afbeelding
       type: assets
       icon: assets
       instructions: 'Afbeeldingen in WebP uploaden'
@@ -21,7 +21,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Title
+      display: Titel
       type: text
       icon: text
       listable: hidden
@@ -33,7 +33,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Address
+      display: Adres
       type: text
       icon: text
       listable: hidden
@@ -45,7 +45,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Postal code'
+      display: Postcode
       type: text
       icon: text
       listable: hidden
@@ -57,7 +57,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Button title'
+      display: 'Button titel'
       type: text
       icon: text
       listable: hidden
@@ -67,7 +67,7 @@ fields:
   -
     handle: buttonlink
     field:
-      display: Buttonlink
+      display: 'Button link'
       type: link
       icon: link
       listable: hidden

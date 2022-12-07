@@ -1,11 +1,11 @@
-title: 'Technique grid'
+title: 'Techniek grid'
 fields:
   -
     handle: title_techniques_begin
     field:
       input_type: text
       antlers: false
-      display: 'Title techniques begin'
+      display: 'Titel technieken begin'
       type: text
       icon: text
       listable: hidden
@@ -17,7 +17,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Title techniques between'
+      display: 'Titel technieken tussen'
       type: text
       icon: text
       listable: hidden
@@ -29,7 +29,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Title techniques end'
+      display: 'Titel technieken einde'
       type: text
       icon: text
       listable: hidden
@@ -45,7 +45,7 @@ fields:
           field:
             input_type: text
             antlers: false
-            display: Title
+            display: Titel
             type: text
             icon: text
             listable: hidden
@@ -82,7 +82,7 @@ fields:
             enable_paste_rules: true
             antlers: false
             remove_empty_nodes: false
-            display: Description
+            display: Beschrijving
             type: bard
             icon: bard
             listable: hidden
@@ -91,7 +91,7 @@ fields:
             always_save: false
       mode: stacked
       reorderable: true
-      display: Techniques
+      display: Technieken
       type: grid
       icon: grid
       listable: hidden

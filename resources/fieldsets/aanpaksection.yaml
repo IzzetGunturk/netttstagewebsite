@@ -1,11 +1,11 @@
-title: 'Aanpak section'
+title: 'Aanpak sectie'
 fields:
   -
     handle: aanpaktitle
     field:
       input_type: text
       antlers: false
-      display: 'Aanpak title'
+      display: 'Aanpak titel'
       type: text
       icon: text
       listable: hidden
@@ -16,7 +16,7 @@ fields:
     handle: description
     field:
       antlers: false
-      display: Description
+      display: Beschrijving
       type: textarea
       icon: textarea
       listable: hidden
@@ -28,7 +28,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Button title'
+      display: 'Button titel'
       type: text
       icon: text
       width: 50
@@ -55,7 +55,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: Image
+      display: Afbeelding
       type: assets
       icon: assets
       listable: hidden

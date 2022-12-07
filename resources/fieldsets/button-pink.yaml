@@ -1,11 +1,11 @@
-title: Button-pink
+title: 'Button roze'
 fields:
   -
     handle: buttontitle
     field:
       input_type: text
       antlers: false
-      display: 'Button title'
+      display: 'Button titel'
       type: text
       icon: text
       listable: hidden

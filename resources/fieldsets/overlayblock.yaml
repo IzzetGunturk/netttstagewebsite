@@ -1,4 +1,4 @@
-title: 'Overlay block'
+title: 'Overlay blok'
 fields:
   -
     handle: image
@@ -7,7 +7,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: Image
+      display: Afbeelding
       type: assets
       icon: assets
       instructions: 'Afbeeldingen in WebP uploaden'
@@ -21,7 +21,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Title
+      display: Titel
       type: text
       icon: text
       listable: hidden
@@ -59,7 +59,7 @@ fields:
       enable_paste_rules: true
       antlers: false
       remove_empty_nodes: false
-      display: Description
+      display: Beschrijving
       type: bard
       icon: bard
       listable: hidden
@@ -71,7 +71,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Button title'
+      display: 'Button titel'
       type: text
       icon: text
       width: 50

@@ -1,10 +1,10 @@
-title: 'Technique cards'
+title: 'Techniek kaarten'
 fields:
   -
     handle: card1-description
     field:
       antlers: false
-      display: Card1-description
+      display: 'Kaart 1 beschrijving'
       type: textarea
       icon: textarea
       listable: hidden
@@ -14,7 +14,7 @@ fields:
   -
     handle: card1-link
     field:
-      display: Card1-link
+      display: 'Kaart 1 link'
       type: link
       icon: link
       listable: hidden
@@ -25,7 +25,7 @@ fields:
     handle: card2-description
     field:
       antlers: false
-      display: Card2-description
+      display: 'Kaart 2 beschrijving'
       type: textarea
       icon: textarea
       listable: hidden
@@ -35,7 +35,7 @@ fields:
   -
     handle: card2-link
     field:
-      display: Card2-link
+      display: 'Kaart 2 link'
       type: link
       icon: link
       listable: hidden
@@ -46,7 +46,7 @@ fields:
     handle: card3-description
     field:
       antlers: false
-      display: Card3-description
+      display: 'Kaart 3 beschrijving'
       type: textarea
       icon: textarea
       listable: hidden
@@ -56,7 +56,7 @@ fields:
   -
     handle: card3-link
     field:
-      display: Card3-link
+      display: 'Kaart 3 link'
       type: link
       icon: link
       listable: hidden
@@ -67,7 +67,7 @@ fields:
     handle: card4-description
     field:
       antlers: false
-      display: Card4-description
+      display: 'Kaart 4 beschrijving'
       type: textarea
       icon: textarea
       listable: hidden
@@ -77,7 +77,7 @@ fields:
   -
     handle: card4-link
     field:
-      display: Card4-link
+      display: 'Kaart 4 link'
       type: link
       icon: link
       listable: hidden

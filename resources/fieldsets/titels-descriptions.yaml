@@ -1,11 +1,11 @@
-title: Titels-descriptions
+title: 'Titels & beschrijvingen'
 fields:
   -
     handle: titelblue
     field:
       input_type: text
       antlers: false
-      display: 'Titel blue'
+      display: 'Titel blauw'
       type: text
       icon: text
       listable: hidden
@@ -17,7 +17,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Titel pink'
+      display: 'Titel roze'
       type: text
       icon: text
       listable: hidden
@@ -56,7 +56,7 @@ fields:
       enable_paste_rules: true
       antlers: false
       remove_empty_nodes: false
-      display: Description
+      display: Beschrijving
       type: bard
       icon: bard
       listable: hidden

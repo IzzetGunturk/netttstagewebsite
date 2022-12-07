@@ -1,4 +1,4 @@
-title: Customer-reviews
+title: 'Klanten reviews'
 fields:
   -
     handle: reviews
@@ -11,7 +11,7 @@ fields:
             restrict: false
             allow_uploads: true
             show_filename: true
-            display: 'Customer image'
+            display: 'Klant afbeelding'
             type: assets
             icon: assets
             listable: hidden
@@ -25,7 +25,7 @@ fields:
           field:
             input_type: text
             antlers: false
-            display: 'Customer name'
+            display: Klantnaam
             type: text
             icon: text
             listable: hidden
@@ -37,7 +37,7 @@ fields:
           field:
             input_type: text
             antlers: false
-            display: 'Company name'
+            display: Bedrijfsnaam
             type: text
             icon: text
             listable: hidden
@@ -57,7 +57,7 @@ fields:
             always_save: false
       mode: stacked
       reorderable: true
-      display: reviews
+      display: Reviews
       type: grid
       icon: grid
       listable: hidden

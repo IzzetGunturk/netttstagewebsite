@@ -1,4 +1,4 @@
-title: 'Frequently asked questions'
+title: 'Veelgestelde vragenlijst'
 fields:
   -
     handle: questions
@@ -9,7 +9,7 @@ fields:
           field:
             input_type: text
             antlers: false
-            display: Question
+            display: Vraag
             type: text
             icon: text
             listable: hidden
@@ -46,7 +46,7 @@ fields:
             enable_paste_rules: true
             antlers: false
             remove_empty_nodes: false
-            display: Answer
+            display: Antwoord
             type: bard
             icon: bard
             listable: hidden
@@ -55,7 +55,7 @@ fields:
             always_save: false
       mode: stacked
       reorderable: true
-      display: Questions
+      display: Vragen
       type: grid
       icon: grid
       listable: hidden

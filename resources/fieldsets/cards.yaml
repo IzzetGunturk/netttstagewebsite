@@ -1,4 +1,4 @@
-title: Cards
+title: Kaarten
 fields:
   -
     handle: cards
@@ -11,7 +11,7 @@ fields:
             restrict: false
             allow_uploads: true
             show_filename: true
-            display: Icon
+            display: Icoon
             type: assets
             icon: assets
             listable: hidden
@@ -24,7 +24,7 @@ fields:
           field:
             input_type: text
             antlers: false
-            display: Title
+            display: Titel
             type: text
             icon: text
             listable: hidden
@@ -35,7 +35,7 @@ fields:
           handle: description
           field:
             antlers: false
-            display: Description
+            display: Beschrijving
             type: textarea
             icon: textarea
             listable: hidden
@@ -44,7 +44,7 @@ fields:
             always_save: false
       mode: stacked
       reorderable: true
-      display: Cards
+      display: Kaarten
       type: grid
       icon: grid
       listable: hidden

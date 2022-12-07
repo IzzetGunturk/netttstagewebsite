@@ -8,8 +8,14 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670404290
+updated_at: 1670408172
 page_builder:
+  -
+    id: lbdgu8e3
+    heroimage:
+      - hero/diensten2.webp
+    type: hero-other-pages
+    enabled: true
   -
     id: lbddsggr
     titelblue: Websites
@@ -66,8 +72,6 @@ page_builder:
     title_techniques_begin: Welke
   -
     id: lbdeg2je
-    image:
-      - images/pexels-olia-danilevich-4974920.jpg
     title: 'Wij bieden services aan!'
     description:
       -
@@ -120,5 +124,45 @@ page_builder:
           -
             type: hard_break
     type: overlayblock
+    enabled: true
+    image:
+      - images/services.webp
+  -
+    id: lbdgvqvx
+    titelblue: Veelgestelde
+    titelpink: vragenlijst
+    center: true
+    type: titels-descriptions
+    enabled: true
+  -
+    id: lbdgwbh8
+    type: frequently_asked_questions
+    enabled: true
+    questions:
+      -
+        id: lbdhkn23
+        question: 'Wat is de doorlooptijd?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Het realiseren van de website kan ongeveer 3 tot 4 maanden duren tot livegang. Natuurlijk is het afhankelijk hoe groot het project is.'
+      -
+        id: lbdhmn7f
+        question: 'Welke bedrag moet ik reserveren voor een nieuwe website?'
+      -
+        id: lbdhmp5m
+        question: 'Is mijn website veilig?'
+      -
+        id: lbdhmsua
+        question: 'Is mijn website geoptimaliseerd voor zoekmachines?'
+  -
+    id: lbdh3mp8
+    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    buttontitle: 'Neem contact op!'
+    buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
+    type: cta-section
     enabled: true
 ---

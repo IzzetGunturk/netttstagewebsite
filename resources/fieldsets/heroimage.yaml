@@ -1,4 +1,4 @@
-title: Hero-home-page
+title: 'Hero homepagina'
 fields:
   -
     handle: heroimage
@@ -8,7 +8,7 @@ fields:
       restrict: false
       allow_uploads: true
       show_filename: true
-      display: 'Hero image'
+      display: 'Hero afbeelding'
       type: assets
       icon: assets
       listable: hidden
@@ -21,7 +21,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: 'Hero title'
+      display: 'Hero titel'
       type: text
       icon: text
       listable: hidden
@@ -58,7 +58,7 @@ fields:
       enable_paste_rules: true
       antlers: false
       remove_empty_nodes: false
-      display: 'Hero description'
+      display: 'Hero beschrijving'
       type: bard
       icon: bard
       listable: hidden
@@ -70,7 +70,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Herobuttontitle
+      display: 'Hero button titel'
       type: text
       icon: text
       listable: hidden
@@ -80,7 +80,7 @@ fields:
   -
     handle: herobuttonlink
     field:
-      display: Herobuttonlink
+      display: 'Hero button link'
       type: link
       icon: link
       listable: hidden

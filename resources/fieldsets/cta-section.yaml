@@ -1,10 +1,10 @@
-title: Cta-section
+title: CTA-sectie
 fields:
   -
     handle: description
     field:
       antlers: false
-      display: Description
+      display: Beschrijving
       type: textarea
       icon: textarea
       listable: hidden
@@ -16,7 +16,7 @@ fields:
     field:
       input_type: text
       antlers: false
-      display: Buttontitle
+      display: 'Button titel'
       type: text
       icon: text
       width: 50
@@ -27,7 +27,7 @@ fields:
   -
     handle: buttonlink
     field:
-      display: Buttonlink
+      display: 'Button link'
       type: link
       icon: link
       width: 50
