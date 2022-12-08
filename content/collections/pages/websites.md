@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670412612
+updated_at: 1670509617
 page_builder:
   -
     id: lbdgu8e3
@@ -25,7 +25,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Een maatwerkwebsite geeft meteen een eerste indruk aan de meeste bezoekers. Het is daarom van groot belang dat deze website de filosofie van het bedrijf weerspiegelt en een goede eerste indruk achterlaat bij bezoekers. Daarom zorgen wij ervoor dat de website er echt uitspringt, gebruiksvriendelijk en technisch goed ingericht zijn. Daarnaast realiseren we de website volledig aan jouw specifieke wensen. '
+            text: 'Een maatwerkwebsite geeft meteen een eerste indruk aan de meeste bezoekers. Het is daarom van groot belang dat deze website de filosofie van het bedrijf weerspiegelt en een goede eerste indruk achterlaat bij bezoekers. Daarom zorgen wij ervoor dat de website er echt uitspringt, gebruiksvriendelijk en technisch goed ingericht zijn. Daarnaast realiseren we de website volledig aan uw specifieke wensen. '
     center: false
     type: titels-descriptions
     enabled: true
@@ -70,6 +70,61 @@ page_builder:
     title_techniques_between: technieken
     title_techniques_end: 'gebruiken we?'
     title_techniques_begin: Welke
+  -
+    id: lbf3z3dn
+    titelblue: Waarom
+    titelpink: 'Nettt Interactieve Media?'
+    center: false
+    type: titels-descriptions
+    enabled: true
+  -
+    id: lbf40enu
+    title: 'Unieke website'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede website begint bij een doordacht\_design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp."
+    image:
+      - aanpak/dienstenaanpak/uniekwebsite.svg
+    imageposition: left
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbf4pjdd
+    title: 'Conversiegericht website'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Conversiegericht website-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw website de beste verkoper voor uw bedrijf is.'
+    image:
+      - aanpak/dienstenaanpak/conversiegericht.svg
+    imageposition: right
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbf51t1k
+    title: 'Gebruiksvriendelijke website'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw website. Zonder codeervaardigheden met kunt u met een paar klikken de website snel en eenvoudig bijwerken en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+    image:
+      - aanpak/dienstenaanpak/gebruiksvriendelijkewebsite.svg
+    imageposition: left
+    dashedline: false
+    type: tekstafbeelding-aanpak
+    enabled: true
   -
     id: lbdeg2je
     title: 'Wij bieden services aan!'
@@ -197,4 +252,5 @@ page_builder:
     type: cta-section
     enabled: true
 seo_title: 'Websites | Nettt Interactieve Media'
+seo_description: 'Wij zorgen ervoor dat uw website er echt uitspringt 🤩, gebruiksvriendelijk en technisch goed ingericht zijn.'
 ---

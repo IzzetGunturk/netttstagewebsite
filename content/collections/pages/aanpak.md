@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670337966
+updated_at: 1670509995
 page_builder:
   -
     id: lb6d5ujz
@@ -29,6 +29,7 @@ page_builder:
           -
             type: text
             text: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
+    center: false
   -
     id: lbc8vkqe
     title: Analyse
@@ -655,4 +656,5 @@ page_builder:
     type: cta-section
     enabled: true
 seo_title: 'Aanpak | Nettt Interactieve Media'
+seo_description: 'Nettt Interactieve Media komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat. 🤔'
 ---

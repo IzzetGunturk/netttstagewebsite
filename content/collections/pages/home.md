@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670412151
+updated_at: 1670510588
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -39,7 +39,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat je bedrijf een perfecte digitale presentatie krijgt!'
+            text: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat uw bedrijf een perfecte digitale presentatie krijgt!'
     center: false
   -
     id: lazapfj1
@@ -52,9 +52,9 @@ page_builder:
     type: techniquecards
     enabled: true
     card1-description: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
-    card2-description: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
-    card3-description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
-    card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+    card2-description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen.'
+    card3-description: 'We realiseren maatwerk applicaties waarmee we uw bedrijfsprocessen kunnen automatiseren.'
+    card4-description: 'Met onze technieken zorgen we ervoor dat uw website goed vindbaar is voor de zoekmachines.'
     card1-link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
     card2-link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
     card3-link: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
@@ -229,14 +229,14 @@ page_builder:
         content:
           -
             type: text
-            text: 'Nettt Interactieve Media is een full service internet- en mediabureau uit Herkenbosch, Roermond. Gevestigd in de provincie Limburg. Nettt Interactieve Media zorgt ervoor dat jouw merk een perfecte digitale presentatie krijgt.'
+            text: 'Nettt Interactieve Media is een full service internet- en mediabureau uit Herkenbosch, Roermond. Gevestigd in de provincie Limburg. Nettt Interactieve Media zorgt ervoor dat uw merk een perfecte digitale presentatie krijgt.'
           -
             type: hard_break
           -
             type: hard_break
           -
             type: text
-            text: 'Een professionele maatwerk website, webshop of een webapplicatie laten maken? Hiervoor ben je bij Nettt Interactieve Media op het juiste adres. Daarnaast zijn wij heel erg klantgericht, werken wij in korte lijntjes en bieden wij services aan zoals internetmarketing, eigen servers, beveiliging, helpdesk en nog veel meer!'
+            text: 'Een professionele maatwerk website, webshop of een webapplicatie laten maken? Hiervoor bent u bij Nettt Interactieve Media op het juiste adres. Daarnaast zijn wij heel erg klantgericht, werken wij in korte lijntjes en bieden wij services aan zoals internetmarketing, eigen servers, beveiliging, helpdesk en nog veel meer!'
     buttontitle: 'Meer over ons'
     test:
       -
@@ -265,4 +265,5 @@ page_builder:
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
 seo_title: 'Home | Nettt Interactieve Media'
+seo_description: 'Nettt Interactieve Media 💻 is een full-service internet bureau dat gespecialiseerd is in websites, webshops, webapplicaties en internetmarketing. 👌'
 ---

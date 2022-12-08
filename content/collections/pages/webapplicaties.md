@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670412656
+updated_at: 1670509756
 page_builder:
   -
     id: lbdi1eai
@@ -172,4 +172,5 @@ page_builder:
     type: cta-section
     enabled: true
 seo_title: 'Webapplicaties | Nettt Interactieve Media'
+seo_description: 'We realiseren maatwerk applicaties waarmee we uw bedrijfsprocessen kunnen automatiseren. 🖥️'
 ---

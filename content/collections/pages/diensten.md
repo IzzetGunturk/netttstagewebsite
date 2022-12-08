@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670408400
+updated_at: 1670508362
 page_builder:
   -
     id: lb694x3j
@@ -26,7 +26,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
+            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kunt u terecht voor maatwerk websites, webshops, webapplicaties en internet marketing. Lees meer over onze website, webshop en webapplicatieoplossingen en hoe we uw bedrijf kunnen helpen groeien.'
     titelpink: Diensten
     center: false
   -
@@ -55,7 +55,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+            text: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen.'
           -
             type: hard_break
     buttontitle: 'Lees meer'
@@ -74,7 +74,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+            text: 'We realiseren maatwerk applicaties waarmee we uw bedrijfsprocessen kunnen automatiseren.'
           -
             type: hard_break
     buttontitle: 'Lees meer'
@@ -93,7 +93,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+            text: 'Met onze technieken zorgen we ervoor dat uw website goed vindbaar is voor de zoekmachines.'
           -
             type: hard_break
     buttontitle: 'Lees meer'
@@ -111,4 +111,5 @@ page_builder:
     type: cta-section
     enabled: true
 seo_title: 'Diensten | Nettt Interactieve Media'
+seo_description: 'Bij Nettt Interactieve Media 💻 houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
 ---

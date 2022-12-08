@@ -13,7 +13,7 @@
         {{ collection:projecten sort="order" paginate="true" limit="10" as="items" }}
             {{ unless no_results }}
                 {{ items }}
-                <a href="{{project_link}}" class="animated fade-up delay-400">
+                <a href="{{project_link}}" target="_blank" class="animated fade-up delay-400">
                     <div
                         class="overflow-hidden rounded-lg bg-white hover:bg-cardshover grayscale hover:grayscale-0 transition duration-200 shadow-xl">
                         {{project_image}}

@@ -20,7 +20,7 @@ page_builder:
             type: hard_break
           -
             type: text
-            text: "Wil je contact met ons opnemen, ga dan naar onze\_"
+            text: "Wilt u contact met ons opnemen, ga dan naar onze\_"
           -
             type: text
             marks:
@@ -71,12 +71,13 @@ page_builder:
             text: .
     type: titels-descriptions
     enabled: true
+    center: false
 seo_noindex: true
 seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670312260
+updated_at: 1670508407
 seo_title: 'Pagina niet gevonden | Nettt Interactieve Media'
 ---
