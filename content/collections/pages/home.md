@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670401313
+updated_at: 1670412151
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -56,23 +56,27 @@ page_builder:
     card3-description: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
     card4-description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
     card1-link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+    card2-link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+    card3-link: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
+    card4-link: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
   -
     id: lbasrc94
     tools:
-      - tools/alpine.svg
-      - tools/asana.svg
-      - tools/bootstrap.svg
-      - tools/googleads.svg
-      - tools/googleanalytics.svg
-      - tools/html5.svg
-      - tools/laravel.svg
+      - tools/woocommerce.svg
       - tools/moz.svg
-      - tools/php.svg
-      - tools/sass.svg
-      - tools/statamic.svg
-      - tools/tailwind.svg
-      - tools/vuejs.svg
       - tools/wordpress.svg
+      - tools/vuejs.svg
+      - tools/tailwind.svg
+      - tools/statamic.svg
+      - tools/sass.svg
+      - tools/php.svg
+      - tools/laravel.svg
+      - tools/html5.svg
+      - tools/googleanalytics.svg
+      - tools/googleads.svg
+      - tools/bootstrap.svg
+      - tools/asana.svg
+      - tools/alpine.svg
     type: slider
     enabled: true
   -

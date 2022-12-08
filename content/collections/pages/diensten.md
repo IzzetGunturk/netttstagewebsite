@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670401343
+updated_at: 1670408400
 page_builder:
   -
     id: lb694x3j
@@ -64,6 +64,7 @@ page_builder:
     imageposition: left
     type: tekstafbeelding-diensten
     enabled: true
+    buttonlink: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
   -
     id: lbca6020
     title: Webapplicaties
@@ -82,6 +83,7 @@ page_builder:
     imageposition: right
     type: tekstafbeelding-diensten
     enabled: true
+    buttonlink: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
   -
     id: lbca61og
     title: 'Internet marketing'
@@ -100,6 +102,7 @@ page_builder:
     imageposition: left
     type: tekstafbeelding-diensten
     enabled: true
+    buttonlink: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
   -
     id: lb6hs7it
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'

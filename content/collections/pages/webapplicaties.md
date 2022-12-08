@@ -1,17 +1,24 @@
 ---
-id: 90339a7f-8092-46e6-aa96-fbc6cab97761
+id: feb1c79c-c2ef-480d-b612-aea8a6f5d1a1
 blueprint: page
-title: Webshops
+title: Webapplicaties
+seo_noindex: false
+seo_nofollow: false
+seo_canonical_type: entry
+sitemap_change_frequency: weekly
+sitemap_priority: 0.5
+updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
+updated_at: 1670412656
 page_builder:
   -
-    id: lbdhpmam
+    id: lbdi1eai
     heroimage:
       - hero/diensten2.webp
     type: hero-other-pages
     enabled: true
   -
-    id: lbdhqvhn
-    titelblue: Webshops
+    id: lbdi1kzd
+    titelblue: Webapplicaties
     center: false
     type: titels-descriptions
     enabled: true
@@ -21,52 +28,50 @@ page_builder:
         content:
           -
             type: text
-            text: 'Bij hedendaagse consumenten en afnemers staat aankoopgemak voorop. Met behulp van een webshop kunnen uw klanten eenvoudig online bestellingen doen, precies waar en wanneer het hen uitkomt! Inmiddels heeft Nettt voor tal van klanten een webshop gerealiseerd. Een webshop vormt een extra verkoopkanaal: naast uw (eventuele) fysieke winkel, biedt een webshop de mogelijkheid gemakkelijk nieuwe klanten te werven. Wanneer u uw klant het gemak van een eerste bestelling hebt laten ervaren, komen vervolgbestellingen vaak sneller en goedkoper tot stand: zogeheten repeat orders. Daarnaast bespaart u op administratieve medewerkers en kosten doordat dit proces geautomatiseerd wordt afgehandeld. Bovendien biedt een webshop voor startende bedrijven een snelle en kosteneffectieve mogelijkheid om business te genereren.'
+            text: 'In het hedendaagse internet zijn applicaties – kortweg apps – niet meer weg te denken. In feite is een app een uitbreiding op uw bestaande website; een klein gebruiksvriendelijk computerprogramma dat een extra service is voor uw klanten. Nettt is gespecialiseerd in het ontwikkelen van applicaties die volledig zijn afgestemd op uw specifieke wensen en die naadloos worden geïntegreerd in uw bestaande website. Nettt werkt met in eigen beheer ontwikkelde technieken. Daardoor zijn wij als geen ander in staat om apps eenvoudig en snel te realiseren.'
   -
-    id: lbdhr6x6
+    id: lbdi1z94
     title_techniques_begin: Welke
     title_techniques_between: technieken
     title_techniques_end: 'gebruiken we?'
     techniques:
       -
-        id: lbdhrhx4
-        title: 'Wordpress Woocommerce'
+        id: lbdi25v3
+        title: 'Laravel maatwerk'
         description:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: "WooCommerce\_is een populaire\_WordPress-plugin waarmee je eenvoudig een webshop kunt opzetten."
+                text: 'Applicaties die gebouwd zijn met Laravel zijn vaak stabiel, betrouwbaar en een stuk beter te onderhouden en uit te breiden.'
       -
-        id: lbdhros2
-        title: 'Maatwerk webshops'
+        id: lbdi2hcw
+        title: 'Inspectie oplossingen'
         description:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Wij realiseren de webshop op basis van de specifieke eisen.'
+                text: 'Door middel van een inspectietool is het mogelijk om uniformiteit aan te brengen in de manier van inspecteren en rapporteren.'
       -
-        id: lbdhrs6p
-        title: 'Extra verkoopkanaal'
+        id: lbdi2n8g
+        title: Narrowcasting
         description:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Online bestellingen zijn mogelijk op elke gewenste plaats en gewenst tijdstip'
+                text: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren aan een bepaald publiek, op een specifiek tijdstip en op een zorgvuldig geselecteerde locatie.'
     type: techniquegrid
     enabled: true
   -
-    id: lbdhs3bd
+    id: lbdi2udk
     image:
       - images/services.webp
-    title: 'Wij bieden services aan'
-    type: overlayblock
-    enabled: true
+    title: 'Wij bieden services aan!'
     description:
       -
         type: paragraph
@@ -115,18 +120,20 @@ page_builder:
           -
             type: text
             text: '- Continuïteit van uw website'
+    type: overlayblock
+    enabled: true
   -
-    id: lbdjceb3
+    id: lbdjbj3k
     titelblue: Veelgestelde
     center: true
     type: titels-descriptions
     enabled: true
     titelpink: vragenlijst
   -
-    id: lbdhx0oy
+    id: lbdi3d55
     questions:
       -
-        id: lbdhx639
+        id: lbdi3du0
         question: 'Wat is de doorlooptijd?'
         answer:
           -
@@ -136,8 +143,8 @@ page_builder:
                 type: text
                 text: '-'
       -
-        id: lbdhx815
-        question: 'Welke bedrag moet ik reserveren voor een nieuwe webshop?'
+        id: lbdi3gpc
+        question: 'Welke bedrag moet ik reserveren voor een nieuwe webapplicatie?'
         answer:
           -
             type: paragraph
@@ -146,28 +153,8 @@ page_builder:
                 type: text
                 text: '-'
       -
-        id: lbdj55mu
-        question: 'Is mijn webshop veilig?'
-        answer:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '-'
-      -
-        id: lbdj7212
-        question: 'Is mijn webshop geoptimaliseerd voor zoekmachines?'
-        answer:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '-'
-      -
-        id: lbdj7avi
-        question: 'Kan ik mijn webshop beheren?'
+        id: lbdjjz7r
+        question: 'Is mijn webapplicatie veilig?'
         answer:
           -
             type: paragraph
@@ -178,18 +165,11 @@ page_builder:
     type: frequently_asked_questions
     enabled: true
   -
-    id: lbdhxcjl
+    id: lbdi3j28
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
-    buttontitle: 'Neem contact op'
+    buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
-seo_noindex: false
-seo_nofollow: false
-seo_canonical_type: entry
-sitemap_change_frequency: weekly
-sitemap_priority: 0.5
-updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670412627
-seo_title: 'Webshops | Nettt Interactieve Media'
+seo_title: 'Webapplicaties | Nettt Interactieve Media'
 ---

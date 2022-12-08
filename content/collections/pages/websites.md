@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670408172
+updated_at: 1670412612
 page_builder:
   -
     id: lbdgu8e3
@@ -25,7 +25,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus ex malesuada est vehicula, eu accumsan neque volutpat. Donec maximus ac lectus et consectetur. Quisque sed risus tellus. Nullam id semper lacus. Integer lacinia risus ante, tristique elementum nunc pulvinar scelerisque.'
+            text: 'Een maatwerkwebsite geeft meteen een eerste indruk aan de meeste bezoekers. Het is daarom van groot belang dat deze website de filosofie van het bedrijf weerspiegelt en een goede eerste indruk achterlaat bij bezoekers. Daarom zorgen wij ervoor dat de website er echt uitspringt, gebruiksvriendelijk en technisch goed ingericht zijn. Daarnaast realiseren we de website volledig aan jouw specifieke wensen. '
     center: false
     type: titels-descriptions
     enabled: true
@@ -148,16 +148,47 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Het realiseren van de website kan ongeveer 3 tot 4 maanden duren tot livegang. Natuurlijk is het afhankelijk hoe groot het project is.'
+                text: '-'
       -
         id: lbdhmn7f
         question: 'Welke bedrag moet ik reserveren voor een nieuwe website?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
       -
         id: lbdhmp5m
         question: 'Is mijn website veilig?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
       -
         id: lbdhmsua
         question: 'Is mijn website geoptimaliseerd voor zoekmachines?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
+      -
+        id: lbdiqox5
+        question: 'Hoe kan ik mijn website aanpassen?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
   -
     id: lbdh3mp8
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
@@ -165,4 +196,5 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
+seo_title: 'Websites | Nettt Interactieve Media'
 ---
