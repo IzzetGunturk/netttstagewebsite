@@ -1,4 +1,6 @@
-# site.ext
+# Nettt Interactieve Media website
+
+This is my internship assignment, where I programmed a new website (prototype) for Nettt Interactive Media.
 
 ## Installation instructions
 
