@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670509911
+updated_at: 1670767723
 seo_title: 'Projecten | Nettt Interactieve Media'
 template: projecten/index
 page_builder:
@@ -19,7 +19,7 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lbezhezg
+    id: lbjfm7ug
     description:
       -
         type: paragraph
@@ -27,11 +27,8 @@ page_builder:
           -
             type: text
             text: 'Samen met onze klanten realiseren we doelgerichte websites, webshops en webapplicaties. We laten u graag een selectie zien van onze projecten.'
-          -
-            type: hard_break
-    center: false
-    type: titels-descriptions
+    type: titles-descriptions-h1
     enabled: true
-    titelpink: Projecten
+    titleblue: Projecten
 seo_description: 'Samen met onze klanten realiseren we doelgerichte websites, webshops en webapplicaties. We laten u graag een selectie zien van onze projecten. 📈💻'
 ---

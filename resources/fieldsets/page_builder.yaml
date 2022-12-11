@@ -16,16 +16,21 @@ fields:
           fields:
             -
               import: form
-        titels-descriptions:
-          display: 'Titels & beschrijvingen'
+        titles-descriptions-h1:
+          display: 'Titel & beschrijving (h1)'
           fields:
             -
-              import: titels-descriptions
-        titels-descriptions-custom:
-          display: 'Titel & beschrijvingen custom'
+              import: titles-descriptions-h1
+        titles-descriptions:
+          display: 'Titels & beschrijvingen (h2)'
           fields:
             -
-              import: titels-descriptions-custom
+              import: titles-descriptions
+        titles-descriptions-custom:
+          display: 'Titel & beschrijvingen custom (h2)'
+          fields:
+            -
+              import: titles-descriptions-custom
         heroimage:
           display: 'Hero homepagina'
           fields:

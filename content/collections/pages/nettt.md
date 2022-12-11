@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670752468
+updated_at: 1670767862
 page_builder:
   -
     id: lb6dsnmu
@@ -17,11 +17,9 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lb6dsprx
-    type: titels-descriptions
-    enabled: true
-    titelblue: Over
-    titelpink: 'Nettt Interactieve Media'
+    id: lbjg0p53
+    titleblue: Over
+    titlepink: 'Nettt Interactieve Media'
     description:
       -
         type: paragraph
@@ -29,7 +27,8 @@ page_builder:
           -
             type: text
             text: 'Al het goede komt in drieën: een spreuk die Nettt op het lijf is geschreven! De drie plussen in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk.'
-    center: false
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbareoc2
     title: ewa
@@ -62,12 +61,12 @@ page_builder:
     image:
       - images/infographic.webp
   -
-    id: lbdd1ait
-    type: titels-descriptions
-    enabled: true
-    titelblue: 'Wij zijn'
-    titelpink: 'Nettt Interactieve Media'
+    id: lbjg18da
+    titleblue: 'Wij zijn'
+    titlepink: 'Nettt Interactieve Media'
     center: true
+    type: titles-descriptions
+    enabled: true
   -
     id: lbawl9d3
     type: teamblock
@@ -126,12 +125,12 @@ page_builder:
         image:
           - team/izzet.jpg
   -
-    id: lbdd2x2t
-    type: titels-descriptions
-    enabled: true
-    titelblue: Partners
-    titelpink: 'waarmee we samenwerken'
+    id: lbjg1gpa
+    titleblue: Partners
+    titlepink: 'waarmee we samenwerken'
     center: true
+    type: titles-descriptions
+    enabled: true
   -
     id: lbashjzk
     type: slider

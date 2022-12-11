@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670508362
+updated_at: 1670767685
 page_builder:
   -
     id: lb694x3j
@@ -17,18 +17,17 @@ page_builder:
     heroimage:
       - hero/diensten2.webp
   -
-    id: lb69qxso
-    type: titels-descriptions
-    enabled: true
+    id: lbjfxkzz
+    titleblue: Diensten
     description:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kunt u terecht voor maatwerk websites, webshops, webapplicaties en internet marketing. Lees meer over onze website, webshop en webapplicatieoplossingen en hoe we uw bedrijf kunnen helpen groeien.'
-    titelpink: Diensten
-    center: false
+            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbca4431
     title: Websites

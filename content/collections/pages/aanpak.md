@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670509995
+updated_at: 1670767783
 page_builder:
   -
     id: lb6d5ujz
@@ -17,11 +17,9 @@ page_builder:
     heroimage:
       - hero/pexels-fauxels-3183150.webp
   -
-    id: lb6d5yti
-    titelblue: 'Zo doen we'
-    titelpink: hettt
-    type: titels-descriptions
-    enabled: true
+    id: lbjfzjnb
+    titleblue: 'Zo doen we'
+    titlepink: hetttt
     description:
       -
         type: paragraph
@@ -29,7 +27,8 @@ page_builder:
           -
             type: text
             text: 'Of u uw huidige website nu gebruiksvriendelijker wil maken of een compleet nieuwe website wil lanceren; Nettt komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat.'
-    center: false
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbc8vkqe
     title: Analyse

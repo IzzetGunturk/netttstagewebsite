@@ -1,7 +1,7 @@
-title: 'Titels & beschrijvingen'
+title: 'Titels & beschrijvingen (h2)'
 fields:
   -
-    handle: titelblue
+    handle: titleblue
     field:
       input_type: text
       antlers: false
@@ -13,7 +13,7 @@ fields:
       visibility: visible
       always_save: false
   -
-    handle: titelpink
+    handle: titlepink
     field:
       input_type: text
       antlers: false
