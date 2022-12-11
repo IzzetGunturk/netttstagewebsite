@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670510020
+updated_at: 1670752468
 page_builder:
   -
     id: lb6dsnmu
@@ -30,12 +30,6 @@ page_builder:
             type: text
             text: 'Al het goede komt in drieën: een spreuk die Nettt op het lijf is geschreven! De drie plussen in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk.'
     center: false
-  -
-    id: lbaqrlp8
-    type: imageblock
-    enabled: true
-    image:
-      - images/infographic.webp
   -
     id: lbareoc2
     title: ewa
@@ -61,6 +55,12 @@ page_builder:
         description: 'Websites zijn dynamisch en ook de ontwikkelingen op het gebied van internet zijn voortdurend in beweging. Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer. Bij Nettt is de continuïteit van uw website altijd gewaarborgd.'
         icon:
           - icons/service.svg
+  -
+    id: lbaqrlp8
+    type: imageblock
+    enabled: true
+    image:
+      - images/infographic.webp
   -
     id: lbdd1ait
     type: titels-descriptions
