@@ -8,73 +8,38 @@
 <section class="fluid-container">
     <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
 
-        <!-- card 1 -->
-        <a href="{{projectlink1}}" target="_blank" class="animated fade-up delay-400">
+        {{ collection:projecten sort="order" paginate="false" limit="3" as="items" }}
+        {{ unless no_results }}
+        {{ items }}
+        <a href="{{project_link}}" target="_blank" class="animated fade-up delay-400">
             <div
                 class="overflow-hidden rounded-lg bg-white hover:bg-cardshover grayscale hover:grayscale-0 transition duration-200 shadow-xl">
-                {{projectimg1}}
+                {{project_image}}
                 <img src="{{url}}" alt="{{alt}}" width="100%" height="100%" class="object-cover w-full h-full">
-                {{/projectimg1}}
+                {{/project_image}}
 
                 <div class="p-4 sm:p-6">
                     <h1 class="text-lg font-Poppins text-gray-900">
-                        {{projecttitle1}}
+                        {{project_title}}
                     </h1>
 
                     <div class="pt-4 pb-2">
-                        {{labels1}}
+                        {{labels}}
                         <span
-                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">{{labeltitle1}}</span>
-                        {{/labels1}}
+                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">{{label}}</span>
+                        {{/labels}}
                     </div>
                 </div>
             </div>
         </a>
-
-        <!-- card 2 -->
-        <a href="{{projectlink2}}" target="_blank" class="animated fade-up delay-400">
-            <div
-                class="overflow-hidden rounded-lg bg-white hover:bg-cardshover grayscale hover:grayscale-0 transition duration-200 shadow-xl">
-                {{projectimg2}}
-                <img src="{{url}}" alt="{{alt}}" class="object-cover">
-                {{/projectimg2}}
-
-                <div class="p-4 sm:p-6">
-                    <h1 class="text-lg font-Poppins text-gray-900">
-                        {{projecttitle2}}
-                    </h1>
-
-                    <div class="pt-4 pb-2">
-                        {{labels2}}
-                        <span
-                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">{{labeltitle2}}</span>
-                        {{/labels2}}
-                    </div>
-                </div>
-            </div>
-        </a>
-
-        <!-- card 3 -->
-        <a href="{{projectlink3}}" target="_blank" class="animated fade-up delay-400">
-            <div
-                class="overflow-hidden rounded-lg bg-white hover:bg-cardshover grayscale hover:grayscale-0 transition duration-200 shadow-xl">
-                {{projectimg3}}
-                <img src="{{url}}" alt="{{alt}}" class="object-cover">
-                {{/projectimg3}}
-
-                <div class="p-4 sm:p-6">
-                    <h1 class="text-lg font-Poppins text-gray-900">
-                        {{projecttitle3}}
-                    </h1>
-
-                    <div class="pt-4 pb-2">
-                        {{labels3}}
-                        <span
-                            class="inline-block bg-gray-200 rounded-full px-2 py-1 text-xs font-Inter text-black mr-2 mb-2">{{labeltitle3}}</span>
-                        {{/labels3}}
-                    </div>
-                </div>
-            </div>
-        </a>
+        {{ /items }}
+        {{ else }}
+        <div class="md:col-span-6">
+            {{ trans:strings.no_results }}
+        </div>
+        {{ /unless }}
+        {{ partial:components/pagination class="md:col-span-12" }}
+        {{ /collection:projecten }}
+    </div>
 </section>
 <!-- End: /page_builder/_projectsection.antlers.html -->

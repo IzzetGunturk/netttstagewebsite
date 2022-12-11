@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670509756
+updated_at: 1670581043
 page_builder:
   -
     id: lbdi1eai
@@ -68,17 +68,65 @@ page_builder:
     type: techniquegrid
     enabled: true
   -
-    id: lbdi2udk
-    image:
-      - images/services.webp
-    title: 'Wij bieden services aan!'
+    id: lbgbpivn
+    titelblue: Waarom
+    center: false
+    type: titels-descriptions
+    enabled: true
+    titelpink: 'Nettt Interactieve Media?'
+  -
+    id: lbgbsi3k
+    title: 'Unieke webapplicatie'
     description:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mocht uw website om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd.'
+            text: 'Nettt is gespecialiseerd in het ontwikkelen van applicaties die volledig zijn afgestemd op uw specifieke wensen en die naadloos worden geïntegreerd in uw bestaande website. Nettt werkt met in eigen beheer ontwikkelde technieken. Daardoor zijn wij als geen ander in staat om apps eenvoudig en snel te realiseren.'
+    image:
+      - aanpak/dienstenaanpak/applicaties.svg
+    imageposition: left
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbgcfxcy
+    title: 'Gebruiksvriendelijke webapplicatie'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren de applicatie volgens uw functionele eisen. We zorgen ervoor dat het gebruiksvriendelijk geprogrammeerd, zodat u makkelijk kan functioneren met de applicatie. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+    image:
+      - aanpak/dienstenaanpak/applicaties.svg
+    imageposition: right
+    dashedline: false
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbdi2udk
+    image:
+      - images/services.webp
+    title: Services
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Mocht uw\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webapplicatie
+          -
+            type: text
+            text: "\_om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd."
           -
             type: hard_break
           -
@@ -89,24 +137,27 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
+                type: italic
             text: 'Kortom, Nettt zorgt voor:'
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
+          -
+            type: text
+            text: •
           -
             type: text
             marks:
               -
                 type: bold
-            text: "-\_"
+            text: "\_"
           -
             type: text
             text: 'Helpdesk en onderhoud van technieken'
@@ -114,12 +165,12 @@ page_builder:
             type: hard_break
           -
             type: text
-            text: '- Een oplossing binnen 24 uur'
+            text: '• Een oplossing binnen 24 uur'
           -
             type: hard_break
           -
             type: text
-            text: '- Continuïteit van uw website'
+            text: '• Continuïteit van uw website'
     type: overlayblock
     enabled: true
   -

@@ -61,10 +61,65 @@ page_builder:
     type: techniquegrid
     enabled: true
   -
+    id: lbga92a7
+    titelblue: Waarom
+    center: false
+    type: titels-descriptions
+    enabled: true
+    titelpink: 'Nettt Interactieve Media?'
+  -
+    id: lbga9hta
+    title: 'Unieke webshop'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede webshop begint bij een doordacht\_design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp. "
+    image:
+      - aanpak/dienstenaanpak/uniekwebshop.svg
+    imageposition: left
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbgate4c
+    title: 'Conversiegericht webshop'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Conversiegericht webshop-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw webshop de beste verkoper voor uw bedrijf is. '
+    image:
+      - aanpak/dienstenaanpak/conversiegericht2.svg
+    imageposition: right
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbgaxz04
+    title: 'Gebruiksvriendelijke webshop'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw webshop. Zonder codeervaardigheden met kunt u met een paar klikken eenvoudig nieuwe producten aan de webshop toevoegen en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+    image:
+      - aanpak/dienstenaanpak/conversiegericht2.svg
+    imageposition: right
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
     id: lbdhs3bd
     image:
       - images/services.webp
-    title: 'Wij bieden services aan'
+    title: Services
     type: overlayblock
     enabled: true
     description:
@@ -73,7 +128,16 @@ page_builder:
         content:
           -
             type: text
-            text: 'Mocht uw website om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd.'
+            text: "Mocht uw\_"
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: "\_om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd."
           -
             type: hard_break
           -
@@ -84,24 +148,27 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
+                type: italic
             text: 'Kortom, Nettt zorgt voor:'
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
+          -
+            type: text
+            text: •
           -
             type: text
             marks:
               -
                 type: bold
-            text: "-\_"
+            text: "\_"
           -
             type: text
             text: 'Helpdesk en onderhoud van technieken'
@@ -109,12 +176,12 @@ page_builder:
             type: hard_break
           -
             type: text
-            text: '- Een oplossing binnen 24 uur'
+            text: '• Een oplossing binnen 24 uur'
           -
             type: hard_break
           -
             type: text
-            text: '- Continuïteit van uw website'
+            text: '• Continuïteit van uw website'
   -
     id: lbdjceb3
     titelblue: Veelgestelde
@@ -190,7 +257,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670509682
+updated_at: 1670578908
 seo_title: 'Webshops | Nettt Interactieve Media'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

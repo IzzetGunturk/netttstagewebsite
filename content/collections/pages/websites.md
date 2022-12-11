@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670509617
+updated_at: 1670578799
 page_builder:
   -
     id: lbdgu8e3
@@ -127,14 +127,23 @@ page_builder:
     enabled: true
   -
     id: lbdeg2je
-    title: 'Wij bieden services aan!'
+    title: Services
     description:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Mocht uw website om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd.'
+            text: 'Mocht uw '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: ' om de een of andere reden niet naar behoren functioneren, dan staan de medewerkers van Nettt voor u klaar om het probleem te verhelpen. Wij zijn tijdens kantooruren bereikbaar en streven er altijd naar het probleem binnen 24 uur op te lossen. De continuïteit van uw website is daarmee gegarandeerd.'
           -
             type: hard_break
           -
@@ -145,24 +154,27 @@ page_builder:
             type: text
             marks:
               -
-                type: bold
+                type: italic
             text: 'Kortom, Nettt zorgt voor:'
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
           -
             type: hard_break
             marks:
               -
-                type: bold
+                type: italic
+          -
+            type: text
+            text: •
           -
             type: text
             marks:
               -
                 type: bold
-            text: '- '
+            text: "\_"
           -
             type: text
             text: 'Helpdesk en onderhoud van technieken'
@@ -170,14 +182,12 @@ page_builder:
             type: hard_break
           -
             type: text
-            text: '- Een oplossing binnen 24 uur'
+            text: '• Een oplossing binnen 24 uur'
           -
             type: hard_break
           -
             type: text
-            text: '- Continuïteit van uw website'
-          -
-            type: hard_break
+            text: '• Continuïteit van uw website'
     type: overlayblock
     enabled: true
     image:
