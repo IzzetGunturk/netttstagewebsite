@@ -6,10 +6,6 @@
 
 @layer components {
 
-    body {
-        background-color: #FAFAFA;
-    }
-
     #image {
         border-radius: 150px 0 0 0;
     }
