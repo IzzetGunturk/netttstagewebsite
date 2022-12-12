@@ -10,11 +10,8 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lbdhqvhn
-    titelblue: Webshops
-    center: false
-    type: titels-descriptions
-    enabled: true
+    id: lbjvczi2
+    titleblue: Webshops
     description:
       -
         type: paragraph
@@ -22,6 +19,8 @@ page_builder:
           -
             type: text
             text: 'Bij hedendaagse consumenten en afnemers staat aankoopgemak voorop. Met behulp van een webshop kunnen uw klanten eenvoudig online bestellingen doen, precies waar en wanneer het hen uitkomt! Inmiddels heeft Nettt voor tal van klanten een webshop gerealiseerd. Een webshop vormt een extra verkoopkanaal: naast uw (eventuele) fysieke winkel, biedt een webshop de mogelijkheid gemakkelijk nieuwe klanten te werven. Wanneer u uw klant het gemak van een eerste bestelling hebt laten ervaren, komen vervolgbestellingen vaak sneller en goedkoper tot stand: zogeheten repeat orders. Daarnaast bespaart u op administratieve medewerkers en kosten doordat dit proces geautomatiseerd wordt afgehandeld. Bovendien biedt een webshop voor startende bedrijven een snelle en kosteneffectieve mogelijkheid om business te genereren.'
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbdhr6x6
     title_techniques_begin: Welke
@@ -61,12 +60,12 @@ page_builder:
     type: techniquegrid
     enabled: true
   -
-    id: lbga92a7
-    titelblue: Waarom
+    id: lbjvgxep
+    titleblue: Waarom
+    titlepink: 'Nettt Interactieve Media?'
     center: false
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
-    titelpink: 'Nettt Interactieve Media?'
   -
     id: lbga9hta
     title: 'Unieke webshop'
@@ -183,12 +182,12 @@ page_builder:
             type: text
             text: '• Continuïteit van uw website'
   -
-    id: lbdjceb3
-    titelblue: Veelgestelde
+    id: lbjvln3c
+    titleblue: Veelgestelde
+    titlepink: vragenlijst
     center: true
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
-    titelpink: vragenlijst
   -
     id: lbdhx0oy
     questions:
@@ -257,7 +256,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670578908
+updated_at: 1670794060
 seo_title: 'Webshops | Nettt Interactieve Media'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

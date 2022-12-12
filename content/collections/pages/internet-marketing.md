@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670580962
+updated_at: 1670794100
 page_builder:
   -
     id: lbdi462o
@@ -17,11 +17,8 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lbdi4cex
-    titelblue: 'Internet marketing'
-    center: false
-    type: titels-descriptions
-    enabled: true
+    id: lbjvjdq9
+    titleblue: 'Internet marketing'
     description:
       -
         type: paragraph
@@ -29,6 +26,8 @@ page_builder:
           -
             type: text
             text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines. We helpen je om de doelgroep te vinden en te bereiken. Door optimaal gebruik te maken van data, kanalen en middelen.'
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbdi4om9
     title_techniques_begin: Welke
@@ -164,12 +163,12 @@ page_builder:
     type: overlayblock
     enabled: true
   -
-    id: lbdjpyh2
-    titelblue: Veelgestelde
+    id: lbjvkpuo
+    titleblue: Veelgestelde
+    titlepink: vragenlijst
     center: true
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
-    titelpink: vragenlijst
   -
     id: lbdi6efl
     questions:

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670581043
+updated_at: 1670794086
 page_builder:
   -
     id: lbdi1eai
@@ -17,11 +17,8 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lbdi1kzd
-    titelblue: Webapplicaties
-    center: false
-    type: titels-descriptions
-    enabled: true
+    id: lbjvhxrm
+    titleblue: Webapplicaties
     description:
       -
         type: paragraph
@@ -29,6 +26,8 @@ page_builder:
           -
             type: text
             text: 'In het hedendaagse internet zijn applicaties – kortweg apps – niet meer weg te denken. In feite is een app een uitbreiding op uw bestaande website; een klein gebruiksvriendelijk computerprogramma dat een extra service is voor uw klanten. Nettt is gespecialiseerd in het ontwikkelen van applicaties die volledig zijn afgestemd op uw specifieke wensen en die naadloos worden geïntegreerd in uw bestaande website. Nettt werkt met in eigen beheer ontwikkelde technieken. Daardoor zijn wij als geen ander in staat om apps eenvoudig en snel te realiseren.'
+    type: titles-descriptions-h1
+    enabled: true
   -
     id: lbdi1z94
     title_techniques_begin: Welke
@@ -68,12 +67,12 @@ page_builder:
     type: techniquegrid
     enabled: true
   -
-    id: lbgbpivn
-    titelblue: Waarom
+    id: lbjvij9s
+    titleblue: Waarom
+    titlepink: 'Nettt Interactieve Media?'
     center: false
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
-    titelpink: 'Nettt Interactieve Media?'
   -
     id: lbgbsi3k
     title: 'Unieke webapplicatie'
@@ -174,12 +173,12 @@ page_builder:
     type: overlayblock
     enabled: true
   -
-    id: lbdjbj3k
-    titelblue: Veelgestelde
+    id: lbjvivz4
+    titleblue: Veelgestelde
+    titlepink: vragenlijst
     center: true
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
-    titelpink: vragenlijst
   -
     id: lbdi3d55
     questions:

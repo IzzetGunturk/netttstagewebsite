@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670578799
+updated_at: 1670794073
 page_builder:
   -
     id: lbdgu8e3
@@ -17,17 +17,16 @@ page_builder:
     type: hero-other-pages
     enabled: true
   -
-    id: lbddsggr
-    titelblue: Websites
+    id: lbjvbjea
+    titleblue: Websites
     description:
       -
         type: paragraph
         content:
           -
             type: text
-            text: 'Een maatwerkwebsite geeft meteen een eerste indruk aan de meeste bezoekers. Het is daarom van groot belang dat deze website de filosofie van het bedrijf weerspiegelt en een goede eerste indruk achterlaat bij bezoekers. Daarom zorgen wij ervoor dat de website er echt uitspringt, gebruiksvriendelijk en technisch goed ingericht zijn. Daarnaast realiseren we de website volledig aan uw specifieke wensen. '
-    center: false
-    type: titels-descriptions
+            text: 'Een maatwerkwebsite geeft meteen een eerste indruk aan de meeste bezoekers. Het is daarom van groot belang dat deze website de filosofie van het bedrijf weerspiegelt en een goede eerste indruk achterlaat bij bezoekers. Daarom zorgen wij ervoor dat de website er echt uitspringt, gebruiksvriendelijk en technisch goed ingericht zijn. Daarnaast realiseren we de website volledig aan uw specifieke wensen.'
+    type: titles-descriptions-h1
     enabled: true
   -
     id: lbdduxan
@@ -71,11 +70,11 @@ page_builder:
     title_techniques_end: 'gebruiken we?'
     title_techniques_begin: Welke
   -
-    id: lbf3z3dn
-    titelblue: Waarom
-    titelpink: 'Nettt Interactieve Media?'
+    id: lbjvbyxl
+    titleblue: Waarom
+    titlepink: 'Nettt Interactieve Media?'
     center: false
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
   -
     id: lbf40enu
@@ -193,11 +192,11 @@ page_builder:
     image:
       - images/services.webp
   -
-    id: lbdgvqvx
-    titelblue: Veelgestelde
-    titelpink: vragenlijst
+    id: lbjvcgg1
+    titleblue: Veelgestelde
+    titlepink: vragenlijst
     center: true
-    type: titels-descriptions
+    type: titles-descriptions
     enabled: true
   -
     id: lbdgwbh8

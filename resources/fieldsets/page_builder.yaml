@@ -61,33 +61,28 @@ fields:
           fields:
             -
               import: projectsection
-        button-pink:
-          display: 'Button roze'
-          fields:
-            -
-              import: button-pink
-        aanpaksection:
-          display: 'Aanpak sectie'
-          fields:
-            -
-              import: aanpaksection
-        customer-reviews:
-          display: 'Klanten reviews'
-          fields:
-            -
-              import: customer-reviews
         overlayblock:
           display: 'Overlay blok'
           fields:
             -
               import: overlayblock
+        overlayblock2:
+          display: 'Overlay blok 2'
+          fields:
+            -
+              import: overlayblock2
+        customer-reviews:
+          display: 'Klanten reviews'
+          fields:
+            -
+              import: customer-reviews
         cta-section:
           display: CTA-sectie
           fields:
             -
               import: cta-section
         contactblock:
-          display: 'Contact block'
+          display: 'Contact blok'
           fields:
             -
               import: contactblock
@@ -121,6 +116,11 @@ fields:
           fields:
             -
               import: frequently_asked_questions
+        filter:
+          display: Filter
+          fields:
+            -
+              import: filter
       instructions_position: above
       visibility: visible
       always_save: false
