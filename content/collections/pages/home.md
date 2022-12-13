@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670841757
+updated_at: 1670939634
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -49,6 +49,74 @@ page_builder:
         iconsvg:
           - coding.svg
         cardtitle: hoi
+        icon:
+          - icons/websites1.svg
+        card_titel: Website
+        card_description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+        card_link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+        title: Website
+        description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+        cardlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+      -
+        id: lbm8gvt0
+        icon:
+          - icons/webshops1.svg
+        card_titel: Webshops
+        card_description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+        card_link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+        title: Webshop
+        description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+        cardlink: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+      -
+        id: lbma83bd
+        icon:
+          - icons/webapplicaties1.svg
+        title: Webapplicaties
+        description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+        cardlink: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
+      -
+        id: lbmaah40
+        icon:
+          - icons/internetmarketing1.svg
+        title: 'Internet marketing'
+        description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+        cardlink: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
     type: techniquecards
     enabled: true
     card1-description: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
@@ -59,6 +127,38 @@ page_builder:
     card2-link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
     card3-link: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
     card4-link: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
+    card1_description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+    card1_link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+    card2_description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
+    card2_link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+    card3_description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
+    card3_link: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
+    card4_description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
+    card4_link: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
   -
     id: lbasrc94
     tools:

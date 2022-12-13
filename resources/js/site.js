@@ -90,11 +90,11 @@ for (var i = 0; i < buttons.length; i++) {
         if (this.innerHTML === "Alles") {
             filterSelection("all");
         } else if (this.innerHTML === "Websites") {
-            filterSelection("website");
+            filterSelection("websites");
         } else if (this.innerHTML === "Webshops") {
-            filterSelection("webshop");
+            filterSelection("webshops");
         } else if (this.innerHTML === "Webapplicaties") {
-            filterSelection("webapplicatie");
+            filterSelection("webapplicaties");
         }
     });
 }

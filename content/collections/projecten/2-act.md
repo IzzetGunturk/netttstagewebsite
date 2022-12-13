@@ -8,7 +8,7 @@ project_title: 2-act.nu
 labels:
   -
     id: lbeyk4pp
-    label: Website
+    label: Webshop
   -
     id: lbf005n6
     label: Wordpress
@@ -30,9 +30,9 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670860200
+updated_at: 1670927339
 project_link: 'https://www.2-act.nu/'
 tags:
-  - alles
+  - websites
 class: websites
 ---
