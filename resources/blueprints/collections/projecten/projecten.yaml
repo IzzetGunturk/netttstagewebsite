@@ -50,26 +50,6 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: class
-        field:
-          options:
-            websites: null
-            webshops: null
-            webapplicaties: null
-          multiple: false
-          clearable: false
-          searchable: true
-          taggable: false
-          push_tags: false
-          cast_booleans: false
-          display: 'Filter label'
-          type: select
-          icon: select
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
         handle: labels
         field:
           fields:
@@ -147,3 +127,11 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        handle: tags
+        field:
+          type: terms
+          taxonomies:
+            - tags
+          display: Tags
+          mode: select

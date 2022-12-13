@@ -11,7 +11,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670917227
+updated_at: 1670944937
 project_link: 'https://www.veldeke.net/'
 labels:
   -
@@ -30,4 +30,6 @@ labels:
     id: lbf04be2
     label: SEO
 class: webshops
+tags:
+  - webshops
 ---
