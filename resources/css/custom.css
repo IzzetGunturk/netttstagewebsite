@@ -16,71 +16,92 @@
         transition: .4s;
         opacity: 0;
     }
-    
+
     .fade-up {
         -webkit-transform: translateY(100px);
         transform: translateY(100px);
     }
-    
+
     .fade-down {
         -webkit-transform: translateY(-100px);
         transform: translateY(-100px);
     }
-    
+
     .fade-left {
         -webkit-transform: translateX(-100px);
         transform: translateX(-100px);
     }
-    
+
     .fade-right {
         -webkit-transform: translateX(100px);
         transform: translateX(100px);
     }
-    
+
     .visible {
         opacity: 1;
         -webkit-transform: translate(0px);
         transform: translate(0px);
     }
-    
+
     .delay-100 {
         transition-delay: .1s;
     }
-    
+
     .delay-200 {
         transition-delay: .2s;
     }
-    
+
     .delay-300 {
         transition-delay: .3s;
     }
-    
+
     .delay-400 {
         transition-delay: .4s;
     }
-    
+
     .delay-500 {
         transition-delay: .5s;
     }
-    
+
     .delay-600 {
         transition-delay: .6s;
     }
-    
+
     .delay-700 {
         transition-delay: .7s;
     }
-    
+
     .delay-800 {
         transition-delay: .8s;
     }
-    
+
     .delay-900 {
         transition-delay: .9s;
     }
-    
+
     .delay-1000 {
         transition-delay: 1s;
+    }
+
+    /* filter */
+
+    .alleProjecten {
+        float: left;
+        display: none;
+    }
+
+    .show {
+        display: block;
+    }
+
+    .btn.active {
+        background-color: #E70082;
+        color: #fff;
+    }
+
+    .btn {
+        background-color: #3C4A67;
+        color: #fff;
     }
 
 }

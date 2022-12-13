@@ -24,7 +24,7 @@ Alpine.plugin(focus)
 Alpine.start()
 
 // slider
-$(document).ready(function(){
+$(document).ready(function () {
     $('.customer-logos').slick({
         infinite: true,
         slidesToShow: 5,
@@ -32,8 +32,7 @@ $(document).ready(function(){
         autoplay: true,
         autoplaySpeed: 1000,
         arrows: false,
-        responsive: [
-            {
+        responsive: [{
                 breakpoint: 1200,
                 settings: {
                     slidesToShow: 4,
@@ -46,7 +45,7 @@ $(document).ready(function(){
                 settings: {
                     slidesToShow: 3,
                     slidesToScroll: 2,
-                    arrows:false
+                    arrows: false
                 }
             },
             {
@@ -54,7 +53,7 @@ $(document).ready(function(){
                 settings: {
                     slidesToShow: 2,
                     slidesToScroll: 1,
-                    arrows:false,
+                    arrows: false,
                 }
             }
         ]
@@ -77,3 +76,52 @@ window.onload = function () {
     }
     fadeIn();
 };
+
+// filter
+var btnContainer = document.getElementById("filterButtons");
+var buttons = btnContainer.getElementsByClassName("btn");
+
+for (var i = 0; i < buttons.length; i++) {
+
+    var button = buttons[i];
+
+    button.addEventListener("click", function () {
+
+        if (this.innerHTML === "Alles") {
+            filterSelection("all");
+        } else if (this.innerHTML === "Websites") {
+            filterSelection("website");
+        } else if (this.innerHTML === "Webshops") {
+            filterSelection("webshop");
+        } else if (this.innerHTML === "Webapplicaties") {
+            filterSelection("webapplicatie");
+        }
+    });
+}
+
+filterSelection("all")
+
+function filterSelection(c) {
+    const alleProjecten = document.getElementsByClassName("alleProjecten");
+   
+    if (c == "all") c = "";
+  
+    for (let i = 0; i < alleProjecten.length; i++) {
+
+      alleProjecten[i].classList.remove("show");
+  
+      if (alleProjecten[i].className.includes(c)) {
+        alleProjecten[i].classList.add("show");
+      }
+    }
+  }
+
+var btnContainer = document.getElementById("filterButtons");
+var btns = btnContainer.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener("click", function () {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+    });
+}

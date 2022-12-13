@@ -4,17 +4,26 @@ blueprint: page
 title: 'Voorwaarden & privacy'
 page_builder:
   -
-    id: lbav5dxj
-    titelblue: 'Voorwaarden &'
-    titelpink: Privacy
+    id: lbkvbma0
+    titleblue: 'Voorwaarden &'
+    titlepink: Privacy
     description:
       -
         type: paragraph
         content:
           -
-            type: hard_break
+            type: text
+            text: '• '
           -
             type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/algemene-voorwaarden-fenit.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
             text: 'Download '
           -
             type: text
@@ -24,18 +33,38 @@ page_builder:
                 attrs:
                   href: 'https://www.nettt.nl/assets/Bestanden/algemene-voorwaarden-fenit.pdf'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
               -
                 type: bold
             text: hier
           -
             type: text
-            text: ' onze Algemene voorwaarden (FENIT).'
-          -
-            type: hard_break
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/algemene-voorwaarden-fenit.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: ' onze Algemene voorwaarden (FENIT)'
+      -
+        type: paragraph
+        content:
           -
             type: text
+            text: '• '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/privacy_overeenkomst_nettt_interactieve_media.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
             text: 'Download '
           -
             type: text
@@ -45,18 +74,38 @@ page_builder:
                 attrs:
                   href: 'https://www.nettt.nl/assets/Bestanden/privacy_overeenkomst_nettt_interactieve_media.pdf'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
               -
                 type: bold
             text: hier
           -
             type: text
-            text: ' ons privacy beleid.'
-          -
-            type: hard_break
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/privacy_overeenkomst_nettt_interactieve_media.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: ' ons privacybeleid'
+      -
+        type: paragraph
+        content:
           -
             type: text
+            text: '• '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/datalek_protocol_nettt_interactieve_media.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
             text: 'Download '
           -
             type: text
@@ -66,15 +115,23 @@ page_builder:
                 attrs:
                   href: 'https://www.nettt.nl/assets/Bestanden/datalek_protocol_nettt_interactieve_media.pdf'
                   rel: null
-                  target: null
+                  target: _blank
                   title: null
               -
                 type: bold
             text: hier
           -
             type: text
-            text: ' ons datalekprotocol.'
-    type: titels-descriptions
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.nettt.nl/assets/Bestanden/datalek_protocol_nettt_interactieve_media.pdf'
+                  rel: null
+                  target: _blank
+                  title: null
+            text: ' ons datalekprotocol'
+    type: titles-descriptions-h1
     enabled: true
   -
     id: lbavdtbu
@@ -89,6 +146,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670312276
+updated_at: 1670854054
 seo_title: 'Voorwaarden & privacy | Nettt Interactieve Media'
 ---

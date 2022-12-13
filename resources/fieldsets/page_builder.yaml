@@ -116,11 +116,6 @@ fields:
           fields:
             -
               import: frequently_asked_questions
-        filter:
-          display: Filter
-          fields:
-            -
-              import: filter
       instructions_position: above
       visibility: visible
       always_save: false
