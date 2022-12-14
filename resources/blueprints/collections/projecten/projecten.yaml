@@ -50,49 +50,6 @@ sections:
           visibility: visible
           always_save: false
       -
-        handle: labels
-        field:
-          fields:
-            -
-              handle: label
-              field:
-                options:
-                  Website: null
-                  Webshop: null
-                  Webapplicatie: null
-                  'Internet marketing': null
-                  Wordpress: null
-                  Statamic: null
-                  'Laravel Nova': null
-                  'Wordpress Woocommerce': null
-                  Narrowcasting: null
-                  Maatwerk: null
-                  SEO: null
-                  'Periodiek onderhoud': null
-                  Laravel: null
-                multiple: false
-                clearable: false
-                searchable: true
-                taggable: false
-                push_tags: false
-                cast_booleans: false
-                display: Label
-                type: select
-                icon: select
-                listable: hidden
-                instructions_position: above
-                visibility: visible
-                always_save: false
-          mode: table
-          reorderable: true
-          display: Labels
-          type: grid
-          icon: grid
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
         import: page_builder
   seo:
     display: SEO

@@ -18,7 +18,7 @@ fields:
             instructions_position: above
             visibility: visible
             always_save: false
-            instructions: 'Afbeeldingen in WebP uploaden'
+            instructions: 'Afbeeldingen in WebP uploaden 300x300'
             container: assets
         -
           handle: customername

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670794100
+updated_at: 1671019363
 page_builder:
   -
     id: lbdi462o
@@ -84,7 +84,56 @@ page_builder:
               -
                 type: text
                 text: 'Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer.'
+      -
+        id: lbnlr3z8
+        title: Advies
+        description:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Uit de analyse van de gegevens komt ook naar voren welke onderdelen van uw website goed en minder goed worden bezocht. Dat kan uitmonden in een advies over hoe uw website nóg aantrekkelijker in te richten, zodat uw (potentiële) klanten gerichter kunt benaderen.'
     type: techniquegrid
+    enabled: true
+  -
+    id: lbnlf7rq
+    titleblue: Waarom
+    titlepink: 'Nettt Interactieve Media?'
+    center: false
+    type: titles-descriptions
+    enabled: true
+  -
+    id: lbnlfq05
+    title: Doeltreffend
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wij hebben een doeltreffend arsenaal aan middelen tot onze beschikking om ervoor te zorgen dat uw website telkens weer uit de digitale vijver wordt gevist. Een must in de dynamiek van het web!'
+    image:
+      - aanpak/dienstenaanpak/doeltreffend.svg
+    imageposition: left
+    dashedline: true
+    type: tekstafbeelding-aanpak
+    enabled: true
+  -
+    id: lbnljv80
+    title: Up-to-date
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Bij Nettt is de continuïteit en levendigheid van uw website altijd gewaarborgd. Dat doen we door actief mee te denken en door uw content continu up-to-date te houden met bijvoorbeeld nieuwsberichten en koppelingen met social media zoals Twitter en Facebook. Op die manier blijft uw website altijd levend en aantrekkelijk voor uw klanten.'
+    image:
+      - aanpak/dienstenaanpak/uptodate.svg
+    imageposition: right
+    dashedline: false
+    type: tekstafbeelding-aanpak
     enabled: true
   -
     id: lbdi61kw

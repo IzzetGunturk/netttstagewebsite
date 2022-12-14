@@ -103,18 +103,18 @@ filterSelection("all")
 
 function filterSelection(c) {
     const alleProjecten = document.getElementsByClassName("alleProjecten");
-   
+
     if (c == "all") c = "";
-  
+
     for (let i = 0; i < alleProjecten.length; i++) {
 
-      alleProjecten[i].classList.remove("show");
-  
-      if (alleProjecten[i].className.includes(c)) {
-        alleProjecten[i].classList.add("show");
-      }
+        alleProjecten[i].classList.remove("show");
+
+        if (alleProjecten[i].className.includes(c)) {
+            alleProjecten[i].classList.add("show");
+        }
     }
-  }
+}
 
 var btnContainer = document.getElementById("filterButtons");
 var btns = btnContainer.getElementsByClassName("btn");

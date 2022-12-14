@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670939634
+updated_at: 1671013717
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -281,30 +281,30 @@ page_builder:
         id: lb3torfa
         customerimage:
           - customers/customer1.webp
-        customername: 'Izzet Güntürk'
-        companyname: Asics
+        customername: 'John Doe'
+        companyname: 'Bedrijfsnaam 1'
         review: 'Nettt Interactieve Media heeft me goed geholpen.'
       -
         id: lb4rkwgy
         customerimage:
-          - customers/customer1.webp
-        customername: 'Izzet Güntürk'
-        companyname: Asics
-        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+          - customers/pexels-italo-melo-2379005.jpg
+        customername: 'Benji Klever'
+        companyname: 'Bedrijfsnaam 2'
+        review: 'Nettt Interactieve Media een aanrader!'
       -
-        id: lb4rl6hd
+        id: lbni9dyt
         customerimage:
-          - customers/customer1.webp
-        customername: 'Izzet Güntürk'
-        companyname: Asics
-        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+          - customers/pexels-simon-robben-614810-(1).jpg
+        customername: 'Henry Koeleman'
+        companyname: 'Bedrijfsnaam 4'
+        review: 'Nettt Interactieve Media is een zeer professioneel web bureau!'
       -
-        id: lb4rlcg9
+        id: lbni9smj
         customerimage:
-          - customers/customer1.webp
-        customername: 'Izzet Güntürk'
-        companyname: Asics
-        review: 'Nettt Interactieve Media heeft me goed geholpen.'
+          - customers/pexels-justin-shaifer-1222271.jpg
+        customername: 'Bowie Aerts'
+        companyname: 'Bedrijfsnaam 4'
+        review: 'Altijd heel blij met de services van Nettt Interactieve Media!'
   -
     id: lb4tt8b4
     type: overlayblock

@@ -11,7 +11,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670944937
+updated_at: 1671004770
 project_link: 'https://www.veldeke.net/'
 labels:
   -
@@ -19,7 +19,7 @@ labels:
     label: Website
   -
     id: lbf053qz
-    label: 'Internet marketing'
+    label: Webdesign
   -
     id: lbf03wei
     label: Wordpress
@@ -31,5 +31,5 @@ labels:
     label: SEO
 class: webshops
 tags:
-  - webshops
+  - websites
 ---

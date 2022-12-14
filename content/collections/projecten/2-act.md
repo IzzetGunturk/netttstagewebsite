@@ -8,29 +8,32 @@ project_title: 2-act.nu
 labels:
   -
     id: lbeyk4pp
-    label: Webshop
+    label: Website
   -
     id: lbf005n6
-    label: Wordpress
+    label: Webdesign
   -
     id: lbf008fm
-    label: Laravel
-  -
-    id: lbf00d6a
     label: 'Internet marketing'
   -
-    id: lbf02c5v
+    id: lbf00d6a
     label: Maatwerk
+  -
+    id: lbf02c5v
+    label: Laravel
   -
     id: lbf02er6
     label: SEO
+  -
+    id: lbnd1d30
+    label: Services
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670944930
+updated_at: 1671029533
 project_link: 'https://www.2-act.nu/'
 tags:
   - websites
