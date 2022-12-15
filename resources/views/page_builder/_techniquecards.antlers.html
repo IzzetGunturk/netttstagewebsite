@@ -7,9 +7,9 @@
 <!-- /page_builder/_techniquecards.antlers.html -->
 <section class="fluid-container relative pb-10">
     {{ partial:components/anchor id="{{ id }}" }}
-    <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 animated fade-up delay-400">
+    <div class="mt-8 grid grid-cols-1 gap-5 md:grid-cols-2 lg:grid-cols-4 animated fade-up delay-400">
         {{cards}}
-        <!-- card 1 -->
+        <!-- card -->
       
             <div
                 class="rounded-xl border bg-white hover:bg-cardshover transition duration-200 p-8 shadow-xl text-center">
@@ -19,14 +19,14 @@
                         <img class="mx-auto w-28" src="{{url}}" alt="{{alt}}" width="auto" height="auto">
                         {{/icon}}
 
-                        <div class="mt-4 text-lg font-bold text-secondary">{{title}}</div>
+                        <div class="mt-4 text-2xl md:text-lg font-bold text-secondary font-Poppins">{{title}}</div>
 
-                        <div class="mt-1 text-sm text-tertiary">
+                        <div class="mt-1 text-[14px] lg:text-[16px] text-tertiary font-Inter">
                             {{description}}
                         </div>
                     </div>
 
-                    <div class="mt-2">
+                    <div class="mt-3 lg:mt-2">
                         <button type="button"
                             class="text-white lg:mt-2 font-Poppins inline-flex bg-primary hover:bg-secondary transition duration-200 rounded-md text-xs px-4 py-2.5 text-center mr-2 mb-2">Lees
                             meer

@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671013717
+updated_at: 1671107844
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -60,7 +60,7 @@ page_builder:
                 type: text
                 text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
         card_link: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
-        title: Website
+        title: Websites
         description:
           -
             type: paragraph
@@ -82,7 +82,7 @@ page_builder:
                 type: text
                 text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
         card_link: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
-        title: Webshop
+        title: Webshops
         description:
           -
             type: paragraph
