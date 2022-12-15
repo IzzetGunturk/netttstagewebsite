@@ -14,12 +14,39 @@ sections:
         field:
           type: markdown
           localizable: true
+  seo:
+    display: SEO
+    fields:
+      -
+        import: seo
   sidebar:
     display: Sidebar
     fields:
+      -
+        handle: meta
+        field:
+          display: Meta
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
       -
         handle: slug
         field:
           type: slug
           localizable: true
+      -
+        handle: parent
+        field:
+          mode: default
+          create: true
+          display: Parent
+          type: entries
+          icon: entries
+          listable: hidden
+          instructions_position: above
+          visibility: visible
+          always_save: false
 title: "Thema pagina's"

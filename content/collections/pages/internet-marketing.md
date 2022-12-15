@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671019363
+updated_at: 1671091351
 page_builder:
   -
     id: lbdi462o
@@ -234,9 +234,23 @@ page_builder:
       -
         id: lbdi6g94
         question: 'Zie je meteen het effect van internet marketing?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
       -
         id: lbdk2zwl
         question: 'Doen jullie ook marketingcampagnes?'
+        answer:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '-'
     type: frequently_asked_questions
     enabled: true
   -
