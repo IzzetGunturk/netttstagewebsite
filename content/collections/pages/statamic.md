@@ -8,14 +8,14 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671194109
+updated_at: 1671202122
 page_builder:
   -
     id: lbqbyn0p
     type: hero-other-pages
     enabled: true
     heroimage:
-      - hero/heroimages/pexels-mohammad-danish-891059.webp
+      - hero/herothemapaginas/pexels-mohammad-danish-891059.webp
   -
     id: lbqdfew6
     titleblue: Statamic
@@ -34,6 +34,14 @@ page_builder:
             type: hard_break
           -
             type: text
+            marks:
+              -
+                type: bold
+            text: Voordelen
+          -
+            type: hard_break
+          -
+            type: text
             text: 'Een van de belangrijkste voordelen van Statamic is dat het een statische site-generator is. Dit betekent dat in plaats van content te laden vanuit een database op het moment dat een gebruiker de website bezoekt, de website wordt gegenereerd wanneer de content wordt gewijzigd. Dit kan leiden tot snellere laadtijden en een betere prestatie van de website.'
           -
             type: hard_break
@@ -41,9 +49,25 @@ page_builder:
             type: hard_break
           -
             type: text
+            marks:
+              -
+                type: bold
+            text: SEO-functies
+          -
+            type: hard_break
+          -
+            type: text
             text: 'Statamic biedt ook een aantal handige SEO-functies, waaronder de mogelijkheid om SEO-vriendelijke URLs te maken en om SEO-metatags in te stellen voor elke pagina. Dit kan helpen om de website beter te laten ranken in de zoekresultaten van zoekmachines zoals Google.'
           -
             type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: Integratie
           -
             type: hard_break
           -
@@ -58,8 +82,8 @@ page_builder:
             text: 'Al met al is Statamic een uitstekende keuze voor zowel ontwikkelaars als contentcreators die op zoek zijn naar een krachtig en gebruiksvriendelijk CMS met goede SEO-mogelijkheden.'
   -
     id: lbqhte10
-    titleblue: 'In het'
-    titlepink: 'kort:'
+    titleblue: Statamic
+    titlepink: 'in het kort:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -88,9 +112,11 @@ page_builder:
     enabled: true
   -
     id: lbqdglam
-    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    description: 'Statamic website laten maken? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
+seo_title: 'Statamic | Nettt Interactieve Media 💻'
+seo_description: 'Statamic is een snel en flexibel content management systeem (CMS) dat gebruik maakt van markdown-bestanden en flat files. 💻'
 ---

@@ -37,6 +37,7 @@ page_builder:
               -
                 type: text
                 text: "WooCommerce\_is een populaire\_WordPress-plugin waarmee je eenvoudig een webshop kunt opzetten."
+        link_field: 'entry::e97db088-a8f8-4dc3-8819-83b232982fbb'
       -
         id: lbdhros2
         title: 'Maatwerk webshops'
@@ -47,6 +48,7 @@ page_builder:
               -
                 type: text
                 text: 'Wij realiseren de webshop op basis van de specifieke eisen.'
+        link_field: 'entry::848a7651-f1d3-4e66-89c2-fd4886a323e0'
       -
         id: lbdhrs6p
         title: 'Extra verkoopkanaal'
@@ -57,6 +59,7 @@ page_builder:
               -
                 type: text
                 text: 'Online bestellingen zijn mogelijk op elke gewenste plaats en gewenst tijdstip'
+        link_field: 'entry::10afa3e9-f332-4230-b20e-7ce6c08c8fd6'
     type: techniquegrid
     enabled: true
   -
@@ -256,7 +259,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670794060
-seo_title: 'Webshops | Nettt Interactieve Media'
+updated_at: 1671202255
+seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

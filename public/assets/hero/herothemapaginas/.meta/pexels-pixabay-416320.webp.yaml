@@ -1,6 +1,7 @@
-data: {  }
-size: 68506
-last_modified: 1671186614
+data:
+  alt: hero
+size: 64504
+last_modified: 1671186622
 width: 1920
 height: 462
 mime_type: image/webp

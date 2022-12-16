@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671107844
+updated_at: 1671202191
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -353,6 +353,6 @@ page_builder:
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-seo_title: 'Home | Nettt Interactieve Media'
+seo_title: 'Nettt Interactieve Media | Webdesign & Webdevelopment bureau Limburg'
 seo_description: 'Nettt Interactieve Media 💻 is een full-service internet bureau dat gespecialiseerd is in websites, webshops, webapplicaties en internetmarketing. 👌'
 ---

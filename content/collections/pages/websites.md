@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671136502
+updated_at: 1671196868
 page_builder:
   -
     id: lbdgu8e3
@@ -43,8 +43,7 @@ page_builder:
               -
                 type: text
                 text: 'Wordpress is een control management system waarmee je eenvoudig de inhoud van jouw website aanpassen.'
-              -
-                type: hard_break
+        link_field: 'entry::a6f37f98-bf78-4e26-8c24-e1f1e7943522'
       -
         id: lbdeeunm
         title: Statamic
@@ -66,6 +65,7 @@ page_builder:
               -
                 type: text
                 text: 'Laravel Nova is een administratiedashboard waarmee je eenvoudig de database kan beheren.'
+        link_field: 'entry::4b1b38ab-09db-497b-b64b-1a53cf23a82e'
     title_techniques: Welke
     title_techniques_between: technieken
     title_techniques_end: 'gebruiken we?'

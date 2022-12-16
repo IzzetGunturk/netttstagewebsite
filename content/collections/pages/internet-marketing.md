@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671091351
+updated_at: 1671228471
 page_builder:
   -
     id: lbdi462o
@@ -43,7 +43,8 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Een nummer 1-garantie geven is onmogelijk, maar bij Nettt maakt uw website een uitstekende kans om bij de populairste zoekmachines (Google, Yahoo, Ilse, Zoek) in de top tien van zoekresultaten te komen.'
+                text: 'Bij Nettt maakt uw website een uitstekende kans om bij de populairste zoekmachines (Google, Yahoo, Ilse, Zoek) in de top tien van zoekresultaten te komen.'
+        link_field: 'entry::91952fbe-b92e-4530-9bd4-9d8bb02c078f'
       -
         id: lbdi5j1t
         title: SEA
@@ -53,17 +54,19 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Adverteren op het web kan een goede manier zijn om uw omzet te vergroten, maar alleen als dat gericht gebeurt. Nettt helpt u om op een slimmere manier te adverteren op internet, zodanig dat uw advertentie in de top komt te staan in lijsten van zoekresultaten.'
+                text: 'Nettt helpt u om op een slimmere manier te adverteren op internet, zodanig dat uw advertentie in de top komt te staan in lijsten van zoekresultaten.'
+        link_field: 'entry::ddf6532e-8a81-4a4d-9d01-777b8d4f3c89'
       -
         id: lbdi5l15
-        title: 'Social media'
+        title: 'Social media marketing'
         description:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: 'Nettt begeleidt u bij het effectief inzetten van social media om zo snel een gewenst imago rondom uw bedrijf te creëren. Bovendien zijn social media een extra kanaal om uw (potentiële) klanten te bereiken en om uw diensten en producten onder de aandacht te brengen.'
+                text: 'Nettt begeleidt u bij het effectief inzetten van social media om zo snel een gewenst imago rondom uw bedrijf te creëren. '
+        link_field: 'entry::4a68c2e9-8a62-41eb-b959-eec129e2a6e2'
       -
         id: lbdi5pxs
         title: 'Statistiek analyses'
@@ -73,7 +76,8 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Nettt gaat voor u na hoeveel en welke bezoekers uw site in een bepaalde periode hebben geraadpleegd. Via gedetailleerde statistieken komt u precies te weten wie uw klanten zijn en hoe het gesteld is met de vindbaarheid van uw website (zoekmachine-optimalisatie).'
+                text: 'Nettt gaat voor u na hoeveel en welke bezoekers uw site in een bepaalde periode hebben geraadpleegd. '
+        link_field: 'entry::8ef10b8d-9258-4805-8062-aaa4abdc302a'
       -
         id: lbdi5ujd
         title: 'Periodiek onderhoud'
@@ -83,7 +87,8 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer.'
+                text: 'Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. '
+        link_field: 'entry::79977317-a300-4df4-9121-7a0d4b11c629'
       -
         id: lbnlr3z8
         title: Advies
@@ -93,7 +98,8 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Uit de analyse van de gegevens komt ook naar voren welke onderdelen van uw website goed en minder goed worden bezocht. Dat kan uitmonden in een advies over hoe uw website nóg aantrekkelijker in te richten, zodat uw (potentiële) klanten gerichter kunt benaderen.'
+                text: 'Uit de analyse van de gegevens komt ook naar voren welke onderdelen van uw website goed en minder goed worden bezocht. '
+        link_field: 'entry::de2a0558-a41c-43f3-98ba-9dc7c6f8e686'
     type: techniquegrid
     enabled: true
   -

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670794086
+updated_at: 1671201776
 page_builder:
   -
     id: lbdi1eai
@@ -44,6 +44,7 @@ page_builder:
               -
                 type: text
                 text: 'Applicaties die gebouwd zijn met Laravel zijn vaak stabiel, betrouwbaar en een stuk beter te onderhouden en uit te breiden.'
+        link_field: 'entry::456d732d-63a9-4f27-acce-785d5dabe486'
       -
         id: lbdi2hcw
         title: 'Inspectie oplossingen'
@@ -54,6 +55,7 @@ page_builder:
               -
                 type: text
                 text: 'Door middel van een inspectietool is het mogelijk om uniformiteit aan te brengen in de manier van inspecteren en rapporteren.'
+        link_field: 'entry::f54f6a37-e6e4-4bba-8c57-60bc65c8fa9b'
       -
         id: lbdi2n8g
         title: Narrowcasting
@@ -64,6 +66,7 @@ page_builder:
               -
                 type: text
                 text: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren aan een bepaald publiek, op een specifiek tijdstip en op een zorgvuldig geselecteerde locatie.'
+        link_field: 'entry::d7942e27-fed5-4ebb-b12c-6856763a69c5'
     type: techniquegrid
     enabled: true
   -

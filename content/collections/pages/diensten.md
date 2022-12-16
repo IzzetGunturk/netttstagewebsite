@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670767685
+updated_at: 1671202200
 page_builder:
   -
     id: lb694x3j
@@ -109,6 +109,6 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
-seo_title: 'Diensten | Nettt Interactieve Media'
+seo_title: 'Diensten | Nettt Interactieve Media 💻'
 seo_description: 'Bij Nettt Interactieve Media 💻 houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
 ---
