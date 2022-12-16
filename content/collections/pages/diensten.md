@@ -15,7 +15,7 @@ page_builder:
     type: hero-other-pages
     enabled: true
     heroimage:
-      - hero/diensten2.webp
+      - hero/websites.webp
   -
     id: lbjfxkzz
     titleblue: Diensten

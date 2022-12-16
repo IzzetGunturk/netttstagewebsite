@@ -13,7 +13,7 @@ page_builder:
   -
     id: lbdi1eai
     heroimage:
-      - hero/diensten2.webp
+      - hero/websites.webp
     type: hero-other-pages
     enabled: true
   -

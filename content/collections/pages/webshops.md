@@ -6,7 +6,7 @@ page_builder:
   -
     id: lbdhpmam
     heroimage:
-      - hero/diensten2.webp
+      - hero/websites.webp
     type: hero-other-pages
     enabled: true
   -

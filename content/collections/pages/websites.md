@@ -8,12 +8,12 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670794073
+updated_at: 1671136502
 page_builder:
   -
     id: lbdgu8e3
     heroimage:
-      - hero/diensten2.webp
+      - hero/websites.webp
     type: hero-other-pages
     enabled: true
   -
@@ -55,6 +55,7 @@ page_builder:
               -
                 type: text
                 text: 'Statamic is een control management system waarmee je eenvoudig de inhoud van jouw website aanpassen.'
+        link_field: 'entry::78e10ca2-488e-4c6f-893e-a2b2ef6433db'
       -
         id: lbdef6p6
         title: 'Laravel Nova'
@@ -192,7 +193,7 @@ page_builder:
     image:
       - images/services.webp
   -
-    id: lbjvcgg1
+    id: lbp5wym0
     titleblue: Veelgestelde
     titlepink: vragenlijst
     center: true

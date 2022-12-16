@@ -1,0 +1,96 @@
+---
+id: 78e10ca2-488e-4c6f-893e-a2b2ef6433db
+blueprint: page
+title: Statamic
+seo_noindex: false
+seo_nofollow: false
+seo_canonical_type: entry
+sitemap_change_frequency: weekly
+sitemap_priority: 0.5
+updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
+updated_at: 1671194109
+page_builder:
+  -
+    id: lbqbyn0p
+    type: hero-other-pages
+    enabled: true
+    heroimage:
+      - hero/heroimages/pexels-mohammad-danish-891059.webp
+  -
+    id: lbqdfew6
+    titleblue: Statamic
+    type: titles-descriptions-h1
+    enabled: true
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Statamic is een open source content management systeem (CMS) dat is ontworpen om gebruiksvriendelijk te zijn voor zowel ontwikkelaars als contentcreators. Het is gebouwd op Laravel, een populaire PHP-framework, en maakt gebruik van een combinatie van YAML-bestanden en Markdown-bestanden voor het beheer van content.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Een van de belangrijkste voordelen van Statamic is dat het een statische site-generator is. Dit betekent dat in plaats van content te laden vanuit een database op het moment dat een gebruiker de website bezoekt, de website wordt gegenereerd wanneer de content wordt gewijzigd. Dit kan leiden tot snellere laadtijden en een betere prestatie van de website.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Statamic biedt ook een aantal handige SEO-functies, waaronder de mogelijkheid om SEO-vriendelijke URLs te maken en om SEO-metatags in te stellen voor elke pagina. Dit kan helpen om de website beter te laten ranken in de zoekresultaten van zoekmachines zoals Google.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Bovendien is Statamic gemakkelijk te integreren met andere tools en services, zoals Google Analytics en Mailchimp, wat het een flexibel platform maakt voor het opzetten en beheren van een professionele website.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Al met al is Statamic een uitstekende keuze voor zowel ontwikkelaars als contentcreators die op zoek zijn naar een krachtig en gebruiksvriendelijk CMS met goede SEO-mogelijkheden.'
+  -
+    id: lbqhte10
+    titleblue: 'In het'
+    titlepink: 'kort:'
+    center: false
+    type: titles-descriptions
+    enabled: true
+  -
+    id: lbqeebqn
+    cards:
+      -
+        id: lbqeecj7
+        title: 'Open source'
+        description: 'Statamic is een open source content management systeem, wat betekent dat de broncode vrij beschikbaar is voor iedereen om te gebruiken, aan te passen en te verbeteren. Dit kan leiden tot een actieve gemeenschap van gebruikers en ontwikkelaars die samenwerken om het platform te verbeteren.'
+        icon:
+          - icons/vector.svg
+      -
+        id: lbqhs0ng
+        icon:
+          - icons/vector.svg
+        title: Gebruiksvriendelijkheid
+        description: 'Statamic is ontworpen om gemakkelijk te gebruiken voor zowel ontwikkelaars als contentcreators. Dit betekent dat het systeem eenvoudig te begrijpen is en dat het niet veel technische kennis vereist om het op te zetten en te gebruiken.'
+      -
+        id: lbqhsgc3
+        icon:
+          - icons/vector.svg
+        title: SEO-vriendelijk
+        description: 'Statamic biedt een aantal handige SEO-functies, zoals de mogelijkheid om SEO-vriendelijke URLs te maken en om SEO-metatags in te stellen voor elke pagina. Dit kan helpen om de website beter te laten ranken in de zoekresultaten van zoekmachines zoals Google.'
+    type: cards
+    enabled: true
+  -
+    id: lbqdglam
+    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    buttontitle: 'Neem contact op!'
+    buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
+    type: cta-section
+    enabled: true
+---

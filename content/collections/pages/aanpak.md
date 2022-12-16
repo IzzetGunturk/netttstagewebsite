@@ -15,7 +15,7 @@ page_builder:
     type: hero-other-pages
     enabled: true
     heroimage:
-      - hero/pexels-fauxels-3183150.webp
+      - hero/diensten2.webp
   -
     id: lbjfzjnb
     titleblue: 'Zo doen we'
