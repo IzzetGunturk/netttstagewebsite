@@ -9,7 +9,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671392559
+updated_at: 1671444661
 page_builder:
   -
     id: lbqigl1f
@@ -19,14 +19,23 @@ page_builder:
     enabled: true
   -
     id: lbqihaez
+    type: titles-descriptions-h1
+    enabled: true
     titleblue: Wordpress
-    description:
+    titledescription:
       -
         type: paragraph
         content:
           -
             type: text
             text: 'WordPress is een populaire content management systeem (CMS) dat wordt gebruikt door miljoenen websites over de hele wereld. Het is ontworpen om het gemakkelijk te maken voor mensen om hun eigen website te maken en te beheren, zonder de behoefte aan technische vaardigheden of kennis van code.'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "WordPress is een populaire open source content management systeem (CMS) dat wordt gebruikt voor het maken en beheren van websites. Het is gemakkelijk te gebruiken en heeft een grote selectie van gratis en betaalde thema's en plug-ins die gebruikers kunnen installeren om hun website te personaliseren en te verbeteren."
           -
             type: hard_break
           -
@@ -87,8 +96,6 @@ page_builder:
           -
             type: text
             text: 'In de loop der jaren is WordPress constant geüpgraded en verbeterd, en het blijft een populaire keuze voor mensen die een professionele website willen maken zonder veel technische kennis of moeite te hoeven doen. Het is duidelijk dat WordPress een belangrijke speler is geworden in de wereld van het webontwerp en blijft dat ook in de toekomst.'
-    type: titles-descriptions-h1
-    enabled: true
   -
     id: lbqj4rr5
     titleblue: 'Voordelen van'

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671374525
+updated_at: 1671441113
 page_builder:
   -
     id: lbdgu8e3
@@ -78,7 +78,7 @@ page_builder:
     type: titles-descriptions
     enabled: true
   -
-    id: lbf40enu
+    id: lbukksyx
     title: 'Unieke website'
     description:
       -
@@ -86,15 +86,24 @@ page_builder:
         content:
           -
             type: text
-            text: "Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede website begint bij een doordacht\_design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp."
+            text: 'Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: ' begint bij een doordacht design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp.'
     image:
       - aanpak/dienstenaanpak/uniekwebsite.svg
     imageposition: left
     dashedline: true
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
   -
-    id: lbf4pjdd
+    id: lbukohv5
     title: 'Conversiegericht website'
     description:
       -
@@ -102,15 +111,33 @@ page_builder:
         content:
           -
             type: text
-            text: 'Conversiegericht website-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw website de beste verkoper voor uw bedrijf is.'
-    image:
-      - aanpak/dienstenaanpak/conversiegericht.svg
+            text: 'Conversiegericht '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: '-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: ' de beste verkoper voor uw bedrijf is.'
     imageposition: right
     dashedline: true
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
+    image:
+      - aanpak/dienstenaanpak/conversiegericht.svg
   -
-    id: lbf51t1k
+    id: lbukp1w0
     title: 'Gebruiksvriendelijke website'
     description:
       -
@@ -118,12 +145,30 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw website. Zonder codeervaardigheden met kunt u met een paar klikken de website snel en eenvoudig bijwerken en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: '. Zonder codeervaardigheden met kunt u met een paar klikken de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: website
+          -
+            type: text
+            text: ' snel en eenvoudig bijwerken en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
     image:
       - aanpak/dienstenaanpak/gebruiksvriendelijkewebsite.svg
     imageposition: left
-    dashedline: false
-    type: tekstafbeelding-aanpak
+    dashedline: true
+    type: tekstafbeelding
     enabled: true
   -
     id: lbdeg2je

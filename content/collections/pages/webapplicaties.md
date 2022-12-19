@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671374558
+updated_at: 1671441697
 page_builder:
   -
     id: lbdi1eai
@@ -77,7 +77,7 @@ page_builder:
     type: titles-descriptions
     enabled: true
   -
-    id: lbgbsi3k
+    id: lbukyy08
     title: 'Unieke webapplicatie'
     description:
       -
@@ -85,15 +85,24 @@ page_builder:
         content:
           -
             type: text
-            text: 'Nettt is gespecialiseerd in het ontwikkelen van applicaties die volledig zijn afgestemd op uw specifieke wensen en die naadloos worden geïntegreerd in uw bestaande website. Nettt werkt met in eigen beheer ontwikkelde technieken. Daardoor zijn wij als geen ander in staat om apps eenvoudig en snel te realiseren.'
+            text: 'Nettt is gespecialiseerd in het ontwikkelen van '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: applicaties
+          -
+            type: text
+            text: ' die volledig zijn afgestemd op uw specifieke wensen en die naadloos worden geïntegreerd in uw bestaande website. Nettt werkt met in eigen beheer ontwikkelde technieken. Daardoor zijn wij als geen ander in staat om apps eenvoudig en snel te realiseren.'
     image:
-      - aanpak/dienstenaanpak/applicaties.svg
+      - aanpak/dienstenaanpak/uniekewebapplicatie.svg
     imageposition: left
     dashedline: true
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
   -
-    id: lbgcfxcy
+    id: lbukzm7r
     title: 'Gebruiksvriendelijke webapplicatie'
     description:
       -
@@ -101,12 +110,30 @@ page_builder:
         content:
           -
             type: text
-            text: 'We realiseren de applicatie volgens uw functionele eisen. We zorgen ervoor dat het gebruiksvriendelijk geprogrammeerd, zodat u makkelijk kan functioneren met de applicatie. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+            text: 'We realiseren de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: applicatie
+          -
+            type: text
+            text: ' volgens uw functionele eisen. We zorgen ervoor dat het gebruiksvriendelijk geprogrammeerd, zodat u makkelijk kan functioneren met de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: applicatie
+          -
+            type: text
+            text: '. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
     image:
       - aanpak/dienstenaanpak/applicaties.svg
     imageposition: right
     dashedline: false
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
   -
     id: lbdi2udk

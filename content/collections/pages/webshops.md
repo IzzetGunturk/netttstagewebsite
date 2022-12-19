@@ -70,7 +70,7 @@ page_builder:
     type: titles-descriptions
     enabled: true
   -
-    id: lbga9hta
+    id: lbukrdi9
     title: 'Unieke webshop'
     description:
       -
@@ -78,15 +78,24 @@ page_builder:
         content:
           -
             type: text
-            text: "Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede webshop begint bij een doordacht\_design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp. "
+            text: 'Kwaliteit in techniek, creativiteit en service: dat is waar Nettt Interactieve Media voor staat. Een goede '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: ' begint bij een doordacht design. Met de technische mogelijkheden als vertrekpunt denken de medewerkers van Nettt Interactieve Media mee met vormgevers over een functioneel en origineel ontwerp.'
     image:
       - aanpak/dienstenaanpak/uniekwebshop.svg
     imageposition: left
     dashedline: true
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
   -
-    id: lbgate4c
+    id: lbukrg28
     title: 'Conversiegericht webshop'
     description:
       -
@@ -94,15 +103,33 @@ page_builder:
         content:
           -
             type: text
-            text: 'Conversiegericht webshop-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw webshop de beste verkoper voor uw bedrijf is. '
+            text: 'Conversiegericht '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: '-ontwerp en -ontwikkeling is waar we goed in zijn. Wij helpen u ervoor te zorgen dat uw '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: ' de beste verkoper voor uw bedrijf is.'
     image:
       - aanpak/dienstenaanpak/conversiegericht2.svg
     imageposition: right
     dashedline: true
-    type: tekstafbeelding-aanpak
+    type: tekstafbeelding
     enabled: true
   -
-    id: lbgaxz04
+    id: lbukt6mn
     title: 'Gebruiksvriendelijke webshop'
     description:
       -
@@ -110,13 +137,31 @@ page_builder:
         content:
           -
             type: text
-            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw webshop. Zonder codeervaardigheden met kunt u met een paar klikken eenvoudig nieuwe producten aan de webshop toevoegen en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
-    image:
-      - aanpak/dienstenaanpak/conversiegericht2.svg
-    imageposition: right
-    dashedline: true
-    type: tekstafbeelding-aanpak
+            text: 'Wij bieden een gebruiksvriendelijk, aanpasbaar CMS voor uw '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: '. Zonder codeervaardigheden met kunt u met een paar klikken eenvoudig nieuwe producten aan de '
+          -
+            type: text
+            marks:
+              -
+                type: bold
+            text: webshop
+          -
+            type: text
+            text: ' toevoegen en publiceren. Al onze producten zijn ontwikkeld met als doel toegankelijk, intuïtief en gebruiksvriendelijk te zijn.'
+    imageposition: left
+    dashedline: false
+    type: tekstafbeelding
     enabled: true
+    image:
+      - aanpak/dienstenaanpak/gebruiksvriendelijkewebsite2.svg
   -
     id: lbdhs3bd
     image:
@@ -259,7 +304,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671374542
+updated_at: 1671441203
 seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---
