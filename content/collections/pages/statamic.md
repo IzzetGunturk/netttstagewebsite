@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202122
+updated_at: 1671392587
 page_builder:
   -
     id: lbqbyn0p
@@ -82,8 +82,8 @@ page_builder:
             text: 'Al met al is Statamic een uitstekende keuze voor zowel ontwikkelaars als contentcreators die op zoek zijn naar een krachtig en gebruiksvriendelijk CMS met goede SEO-mogelijkheden.'
   -
     id: lbqhte10
-    titleblue: Statamic
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Statamic:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -92,8 +92,8 @@ page_builder:
     cards:
       -
         id: lbqeecj7
-        title: 'Open source'
-        description: 'Statamic is een open source content management systeem, wat betekent dat de broncode vrij beschikbaar is voor iedereen om te gebruiken, aan te passen en te verbeteren. Dit kan leiden tot een actieve gemeenschap van gebruikers en ontwikkelaars die samenwerken om het platform te verbeteren.'
+        title: Snelheid
+        description: 'Statamic is ontworpen om snel te laden en te presteren, wat betekent dat gebruikers kunnen rekenen op een soepele en vloeiende ervaring voor zowel de beheerders als de bezoekers van de website.'
         icon:
           - icons/vector.svg
       -
@@ -101,7 +101,7 @@ page_builder:
         icon:
           - icons/vector.svg
         title: Gebruiksvriendelijkheid
-        description: 'Statamic is ontworpen om gemakkelijk te gebruiken voor zowel ontwikkelaars als contentcreators. Dit betekent dat het systeem eenvoudig te begrijpen is en dat het niet veel technische kennis vereist om het op te zetten en te gebruiken.'
+        description: 'Statamic is een gebruiksvriendelijk content management systeem (CMS) met een intuïtieve interface. Dit maakt het gemakkelijk voor gebruikers om snel aan de slag te gaan met het beheren van de inhoud van hun website.'
       -
         id: lbqhsgc3
         icon:

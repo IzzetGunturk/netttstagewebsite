@@ -61,8 +61,8 @@ page_builder:
     enabled: true
   -
     id: lbqjfzo0
-    titleblue: 'Laravel Nova'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Laravel Nova:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -73,20 +73,20 @@ page_builder:
         id: lbqjdcjs
         icon:
           - icons/vector.svg
-        title: Gemakkelijk
-        description: 'Laravel Nova is een uitstekend hulpmiddel voor ontwikkelaars die op zoek zijn naar een gemakkelijke manier om een professioneel administratiepaneel te maken voor hun Laravel-applicatie. Een van de belangrijkste voordelen van Laravel Nova is dat het gemakkelijk te gebruiken is, met een intuïtieve interface en krachtige functionaliteiten die het beheren van gegevens vereenvoudigen.'
+        title: Gebruiksvriendelijkheid
+        description: 'Laravel Nova is een gebruiksvriendelijk beheerpaneel voor Laravel-toepassingen. Het heeft een intuïtief en overzichtelijk interface waarmee gebruikers gemakkelijk toegang hebben tot alle belangrijke functies van hun toepassing.'
       -
         id: lbqjdhnr
         icon:
           - icons/vector.svg
-        title: Aanpasbaar
-        description: 'Een ander groot voordeel van Laravel Nova is dat het volledig aanpasbaar is. Ontwikkelaars kunnen hun eigen veldtypen en beheerfunctionaliteiten maken om aan de behoeften van hun specifieke applicatie te voldoen. Dit betekent dat ze het administratiepaneel kunnen aanpassen om aan hun specifieke wensen te voldoen, wat resulteert in een professionele en effectieve oplossing.'
+        title: Prestaties
+        description: 'Laravel Nova is ontworpen om snel te laden en te presteren, wat betekent dat gebruikers kunnen rekenen op een soepele en vloeiende ervaring bij het beheren van hun toepassing.'
       -
         id: lbqjdi9r
         icon:
           - icons/vector.svg
-        title: Professioneel
-        description: 'Tot slot is Laravel Nova ook professioneel, met een moderne en gebruiksvriendelijke interface die gemakkelijk te navigeren is. Dit maakt het een uitstekende keuze voor ontwikkelaars die op zoek zijn naar een krachtig en professioneel administratiepaneel voor hun Laravel-applicatie.'
+        title: Flexibiliteit
+        description: 'Laravel Nova biedt veel opties voor het aanpassen van het beheerpaneel aan de specifieke behoeften van de gebruiker. Gebruikers kunnen bijvoorbeeld aangepaste velden en filters toevoegen om de weergave van de gegevens in het beheerpaneel te personaliseren.'
     type: cards
     enabled: true
   -
@@ -103,6 +103,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202129
+updated_at: 1671392648
 seo_description: 'Laravel Nova is een krachtig administratiepaneel voor Laravel-applicaties. Het biedt een gemakkelijke interface en aanpasbare functionaliteiten. 💻'
 ---

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202272
+updated_at: 1671392730
 page_builder:
   -
     id: lbqlu7nm
@@ -109,8 +109,8 @@ page_builder:
     enabled: true
   -
     id: lbqlvlqb
-    titleblue: 'Extra verkoopkanaal'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van een'
+    titlepink: 'Extra verkoopkanaal:'
     center: false
     type: titles-descriptions
     enabled: true

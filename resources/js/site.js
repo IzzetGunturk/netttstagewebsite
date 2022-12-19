@@ -101,16 +101,16 @@ for (var i = 0; i < buttons.length; i++) {
 
 filterSelection("all")
 
-function filterSelection(c) {
+function filterSelection(projects) {
     const alleProjecten = document.getElementsByClassName("alleProjecten");
 
-    if (c == "all") c = "";
+    if (projects == "all") projects = "";
 
     for (let i = 0; i < alleProjecten.length; i++) {
 
         alleProjecten[i].classList.remove("show");
 
-        if (alleProjecten[i].className.includes(c)) {
+        if (alleProjecten[i].className.includes(projects)) {
             alleProjecten[i].classList.add("show");
         }
     }

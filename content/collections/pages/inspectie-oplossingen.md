@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202089
+updated_at: 1671393038
 page_builder:
   -
     id: lbqmew5e
@@ -38,8 +38,8 @@ page_builder:
     enabled: true
   -
     id: lbqmg0vt
-    titleblue: 'Inspectie oplossingen'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Inspectie oplossingen:'
     center: false
     type: titles-descriptions
     enabled: true

@@ -9,7 +9,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202114
+updated_at: 1671392559
 page_builder:
   -
     id: lbqigl1f
@@ -91,8 +91,8 @@ page_builder:
     enabled: true
   -
     id: lbqj4rr5
-    titleblue: Wordpress
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Wordpress:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -103,20 +103,20 @@ page_builder:
         id: lbqij1os
         icon:
           - icons/vector.svg
-        title: Gemakkelijk
-        description: 'WordPress is een geweldig platform voor mensen die hun eigen website willen maken, of het nu gaat om een blog, een online winkel of een professionele portfolio. Een van de belangrijkste voordelen van WordPress is dat het gemakkelijk te gebruiken is, zelfs voor mensen zonder technische vaardigheden of kennis van code. Dankzij de gebruiksvriendelijke interface en de uitgebreide documentatie is het eenvoudig om aan de slag te gaan met WordPress.'
+        title: Gebruiksvriendelijk
+        description: "WordPress is gemakkelijk te gebruiken, zelfs voor mensen zonder technische kennis of ervaring met webdesign. Het heeft een duidelijke en eenvoudige interface waarmee gebruikers gemakkelijk nieuwe pagina's en berichten kunnen toevoegen en aanpassen."
       -
         id: lbqij8vo
         icon:
           - icons/vector.svg
-        title: Aanpasbaar
-        description: 'Een ander groot voordeel van WordPress is de aanpasbaarheid. Er zijn duizenden gratis en premium themes en plugins beschikbaar, wat betekent dat gebruikers hun website kunnen aanpassen om aan hun specifieke behoeften te voldoen. Of je nu op zoek bent naar een eenvoudig thema voor een blog of een meer geavanceerde optie voor een online winkel, er is een WordPress-oplossing voor elk doel.'
+        title: Flexibiliteit
+        description: 'WordPress biedt veel opties voor het aanpassen van het uiterlijk en de functionaliteit van een website. Gebruikers kunnen kiezen uit verschillende themes en plugins om hun website aan te passen aan hun wensen.'
       -
         id: lbqij9tw
         icon:
           - icons/vector.svg
-        title: Populair
-        description: 'Tot slot is WordPress ook enorm populair, wat betekent dat er een actief en behulpzaam online gemeenschap is waar gebruikers terecht kunnen voor hulp en ondersteuning. Of je nu een vraag hebt over hoe je een bepaalde functie gebruikt of hulp nodig hebt bij het oplossen van een technisch probleem, er is altijd iemand beschikbaar om te helpen.'
+        title: 'Actief ontwikkeld'
+        description: 'WordPress wordt actief ontwikkeld en is altijd up-to-date met de nieuwste technologieën en trends. Dit betekent dat gebruikers kunnen rekenen op regelmatige updates en nieuwe functies. Bovendien is er een actief gebruikersgemeenschap die ondersteuning biedt en hulp biedt bij het oplossen van problemen.'
     type: cards
     enabled: true
   -

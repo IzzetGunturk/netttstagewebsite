@@ -98,8 +98,8 @@ page_builder:
     enabled: true
   -
     id: lbqm6h21
-    titleblue: 'Laravel maatwerk'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Laravel maatwerk:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -139,7 +139,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671201799
+updated_at: 1671392996
 seo_title: 'Laravel maatwerk | Nettt Interactieve Media'
 seo_description: 'Laravel is een open source PHP-framewerk dat wordt gebruikt voor het ontwikkelen van webapplicaties. Het biedt een aantal handige tools en functies. 💻'
 ---

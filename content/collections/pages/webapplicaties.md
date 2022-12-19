@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671201776
+updated_at: 1671374558
 page_builder:
   -
     id: lbdi1eai
@@ -219,7 +219,7 @@ page_builder:
     enabled: true
   -
     id: lbdi3j28
-    description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
+    description: 'Webapplicatie laten maken? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section

@@ -96,11 +96,11 @@ fields:
           fields:
             -
               import: teamblock
-        tekstafbeelding-aanpak:
-          display: 'Tekst + afbeelding (aanpak)'
+        tekstafbeelding:
+          display: 'Tekst + afbeelding'
           fields:
             -
-              import: tekstafbeelding-aanpak
+              import: tekstafbeelding
         tekstafbeelding-diensten:
           display: 'Tekst + afbeelding (diensten)'
           fields:

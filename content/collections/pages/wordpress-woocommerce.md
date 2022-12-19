@@ -61,8 +61,8 @@ page_builder:
     enabled: true
   -
     id: lbql3owt
-    titleblue: 'Wordpress Woocommerce'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Wordpress Woocommerce:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -73,20 +73,20 @@ page_builder:
         id: lbql3z4c
         icon:
           - icons/vector.svg
-        title: E-commerce
-        description: 'WooCommerce is een plugin voor WordPress die is ontworpen om het gemakkelijk te maken om een online winkel te maken en te beheren. Het biedt een uitgebreide set van functies en opties voor het beheren van producten, betalingen, verzending en meer, wat het een uitstekende keuze maakt voor mensen die op zoek zijn naar een e-commerce platform.'
+        title: 'Integratie met WordPress'
+        description: 'WordPress Woocommerce is volledig geïntegreerd met WordPress, wat betekent dat gebruikers de voordelen van het gebruik van WordPress kunnen combineren met de mogelijkheden van een e-commerce platform.'
       -
         id: lbql44is
         icon:
           - icons/vector.svg
-        title: Gemakkelijk
-        description: 'WooCommerce is gemakkelijk te gebruiken, met een intuïtieve interface en uitgebreide documentatie om gebruikers te helpen bij het opzetten en beheren van hun winkel. Dit maakt het een geweldige keuze voor mensen die op zoek zijn naar een e-commerce platform dat gemakkelijk te begrijpen en te gebruiken is.'
+        title: Veelzijdig
+        description: 'WordPress Woocommerce biedt veel opties voor het opzetten van een online winkel, zoals het toevoegen van producten, het beheren van bestellingen en het integreren van verschillende betaalmogelijkheden.'
       -
         id: lbql4bjw
         icon:
           - icons/vector.svg
-        title: Aanpasbaar
-        description: 'WooCommerce is ook aanpasbaar, met verschillende opties voor het aanpassen van het uiterlijk en de functionaliteit van de winkel. Er zijn talloze gratis en premium themes en plugins beschikbaar, wat betekent dat gebruikers hun winkel kunnen aanpassen om aan hun specifieke behoeften te voldoen. Dit maakt het een flexibel platform dat kan worden aangepast aan de behoeften van een breed scala aan winkels.'
+        title: 'Actief ontwikkeld'
+        description: 'WordPress Woocommerce wordt actief ontwikkeld en biedt regelmatig updates en nieuwe functies om de gebruikerservaring te verbeteren. Bovendien is er een grote gebruikersgemeenschap die hulp en ondersteuning biedt bij het gebruik van het platform.'
     type: cards
     enabled: true
   -
@@ -103,6 +103,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202234
+updated_at: 1671392685
 seo_description: 'WooCommerce is een populaire plugin voor WordPress die het gemakkelijk maakt om een online winkel te maken en te beheren. 💻'
 ---

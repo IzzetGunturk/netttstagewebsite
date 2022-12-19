@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671228732
+updated_at: 1671393217
 page_builder:
   -
     id: lbr2af7s
@@ -45,8 +45,8 @@ page_builder:
     enabled: true
   -
     id: lbr2cbov
-    titleblue: 'Statistiek anlayses'
-    titlepink: 'in het kort:'
+    titleblue: 'Voordelen van'
+    titlepink: 'Statistiek anlayses:'
     center: false
     type: titles-descriptions
     enabled: true
@@ -57,14 +57,20 @@ page_builder:
         id: lbr2cpv3
         icon:
           - icons/vector.svg
+        title: Bezoekers
+        description: "Statistische analyses kunnen helpen om beter te begrijpen hoe bezoekers de website gebruiken. Dit kan bijvoorbeeld door het bekijken van de meest bezochte pagina's, hoeveel tijd bezoekers op de website doorbrengen en welke knoppen of links het meest worden gebruikt. Dit kan informatie opleveren die kan helpen om de website te optimaliseren en de gebruikerservaring te verbeteren."
       -
         id: lbr2cqr3
         icon:
           - icons/vector.svg
+        title: Prestaties
+        description: 'Statistische analyses kunnen ook helpen om de prestaties van de website te meten en te vergelijken met andere websites of met eerdere perioden. Dit kan bijvoorbeeld door het bekijken van de hoeveelheid verkeer op de website, het conversiepercentage en de inkomsten uit online verkopen. Deze informatie kan helpen om te bepalen of de website succesvol is en om eventuele problemen op te sporen en op te lossen.'
       -
         id: lbr2crhz
         icon:
           - icons/vector.svg
+        title: Doelgroep
+        description: 'Tot slot kan statistische analyse ook helpen om de doelgroep van de website beter te begrijpen. Dit kan bijvoorbeeld door het bekijken van demografische gegevens zoals leeftijd, geslacht en locatie van de bezoekers. Deze informatie kan helpen om de marketing- en advertentiestrategieën te verfijnen en gerichter te maken op de belangrijkste doelgroepen.'
     type: cards
     enabled: true
   -
