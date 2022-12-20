@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671441697
+updated_at: 1671483426
 page_builder:
   -
     id: lbdi1eai
@@ -138,7 +138,7 @@ page_builder:
   -
     id: lbdi2udk
     image:
-      - images/services.webp
+      - images/nettt2.webp
     title: Services
     description:
       -
@@ -221,7 +221,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Het is moeilijk om te zeggen hoe lang de realisatie van een webapplicatie zal duren zonder meer informatie te hebben over de specifieke eisen en wensen van het project. Er zijn veel factoren die van invloed kunnen zijn op de duur van de ontwikkeling van een webapplicatie, zoals de omvang en de complexiteit van de webapplicatie. Het is het beste om contact op te nemen met ons een ​​realistische schatting te krijgen van de tijd die nodig is om een ​​webapplicatie te realiseren.'
       -
         id: lbdi3gpc
         question: 'Welke bedrag moet ik reserveren voor een nieuwe webapplicatie?'
@@ -231,17 +231,14 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
-      -
-        id: lbdjjz7r
-        question: 'Is mijn webapplicatie veilig?'
-        answer:
-          -
-            type: paragraph
-            content:
+                text: 'Het is moeilijk om een specifiek bedrag te noemen dat nodig is voor het realiseren van een webapplicatie zonder meer informatie te hebben over de specifieke eisen en wensen van het project. '
+              -
+                type: hard_break
+              -
+                type: hard_break
               -
                 type: text
-                text: '-'
+                text: 'Om een ​​realistische schatting te krijgen van de kosten voor het maken van een webapplicatie, is het het beste om contact op te nemen. Wij kunnen u dan een offerte geven met een gespecificeerd bedrag voor de ontwikkeling van uw webapplicatie.'
     type: frequently_asked_questions
     enabled: true
   -

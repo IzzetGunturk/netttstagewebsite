@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671441113
+updated_at: 1671482741
 page_builder:
   -
     id: lbdgu8e3
@@ -236,7 +236,7 @@ page_builder:
     type: overlayblock
     enabled: true
     image:
-      - images/services.webp
+      - images/nettt2.webp
   -
     id: lbp5wym0
     titleblue: Veelgestelde
@@ -251,14 +251,14 @@ page_builder:
     questions:
       -
         id: lbdhkn23
-        question: 'Wat is de doorlooptijd?'
+        question: 'Hoelang duurt de realisatie van een nieuwe website?'
         answer:
           -
             type: paragraph
             content:
               -
                 type: text
-                text: '-'
+                text: 'De realisatie van een website kan variëren afhankelijk van de omvang en complexiteit van de website. Het is het beste om contact op te nemen met ons een ​​realistische schatting te krijgen van de tijd die nodig is om een ​​website te realiseren.'
       -
         id: lbdhmn7f
         question: 'Welke bedrag moet ik reserveren voor een nieuwe website?'
@@ -268,7 +268,51 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Het bedrag dat u moet reserveren voor een nieuwe website kan sterk variëren afhankelijk van de complexiteit van de website en de diensten die u wilt inkopen.'
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Er zijn verschillende factoren die van invloed kunnen zijn op de kosten van een website, zoals:'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "• Het aantal pagina's en functies die de website heeft."
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• Het ontwerp en de visuele stijl van de website.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• De technologieën die worden gebruikt voor de ontwikkeling van de website.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• De hosting- en domeinkosten.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• Eventuele extra diensten, zoals SEO-optimalisatie of content creatie.'
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Om een ​​realistische schatting te krijgen van de kosten voor het maken van een website, is het het beste om contact op te nemen. Wij kunnen u dan een offerte geven met een gespecificeerd bedrag voor de ontwikkeling van uw website.'
       -
         id: lbdhmp5m
         question: 'Is mijn website veilig?'
@@ -278,7 +322,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Ja, wij implementeren een SSL-certificaat. Een SSL-certificaat zorgt ervoor dat de gegevens die tussen een gebruiker en de website worden uitgewisseld, worden versleuteld, wat betekent dat ze niet kunnen worden onderschept of gebruikt door onbevoegde partijen.'
       -
         id: lbdhmsua
         question: 'Is mijn website geoptimaliseerd voor zoekmachines?'
@@ -288,7 +332,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Een nummer 1-garantie geven is onmogelijk, maar bij Nettt maakt uw website een uitstekende kans om bij de populairste zoekmachines (Google, Yahoo, Ilse, Zoek) in de top tien van zoekresultaten te komen. Wij hebben een doeltreffend arsenaal aan middelen tot onze beschikking om ervoor te zorgen dat uw website telkens weer uit de digitale vijver wordt gevist. Een must in de dynamiek van het web!'
       -
         id: lbdiqox5
         question: 'Hoe kan ik mijn website aanpassen?'
@@ -298,7 +342,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Met een beheersysteem of Content Management Systeem (CMS) kunt u eenvoudig de inhoud van uw website aanpassen. Of het nu gaat om tekst of afbeeldingen; iedereen kan ermee uit de voeten. Niet voor niets maken bijna al onze klanten, groot én klein, er gebruik van.'
   -
     id: lbdh3mp8
     description: 'Website laten maken? Laten we samen werken om iets geweldigs te realiseren!'

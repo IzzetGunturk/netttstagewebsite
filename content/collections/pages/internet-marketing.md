@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671441862
+updated_at: 1671483708
 page_builder:
   -
     id: lbdi462o
@@ -144,7 +144,7 @@ page_builder:
   -
     id: lbdi61kw
     image:
-      - images/services.webp
+      - images/nettt2.webp
     title: Services
     description:
       -
@@ -228,16 +228,6 @@ page_builder:
     id: lbdi6efl
     questions:
       -
-        id: lbdi6ezc
-        question: 'Moet ik extra betalen voor internet marketing?'
-        answer:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '-'
-      -
         id: lbdi6g94
         question: 'Zie je meteen het effect van internet marketing?'
         answer:
@@ -246,7 +236,28 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Het effect van SEO, SEA en social media marketing kan variëren en is afhankelijk van verschillende factoren, zoals de doelstellingen van het marketingplan, de effectiviteit van de gebruikte marketingkanalen, en de concurrentie op de markt. '
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Zoekmachineoptimalisatie (SEO) kan op de lange termijn effectief zijn, omdat het gericht is op het verbeteren van de zichtbaarheid van een website in de organische zoekresultaten van zoekmachines, maar het kan soms enige tijd duren voordat de resultaten zichtbaar zijn. '
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Zoekmachineadvertising (SEA) kan meer direct resultaat opleveren, omdat advertenties die via dit kanaal worden vertoond vaak boven de organische zoekresultaten worden weergegeven en daardoor gemakkelijker opvallen. '
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Social media marketing kan ook op de korte termijn effectief zijn, afhankelijk van de doelgroep en het aantal volgers dat een bedrijf op de verschillende sociale netwerken heeft.'
       -
         id: lbdk2zwl
         question: 'Doen jullie ook marketingcampagnes?'
@@ -256,7 +267,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Nee, we doen geen marketingcampagnes. Wel begeleiden we u bij het effectief inzetten van social media om zo snel een gewenst imago rondom uw bedrijf te creëren. Bovendien zijn social media een extra kanaal om uw (potentiële) klanten te bereiken en om uw diensten en producten onder de aandacht te brengen.'
     type: frequently_asked_questions
     enabled: true
   -

@@ -165,7 +165,7 @@ page_builder:
   -
     id: lbdhs3bd
     image:
-      - images/services.webp
+      - images/nettt2.webp
     title: Services
     type: overlayblock
     enabled: true
@@ -248,7 +248,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'De realisatie van een webshop kan variëren afhankelijk van de omvang en complexiteit van de webshop. Het is het beste om contact op te nemen met ons een ​​realistische schatting te krijgen van de tijd die nodig is om een ​​webshop te realiseren.'
       -
         id: lbdhx815
         question: 'Welke bedrag moet ik reserveren voor een nieuwe webshop?'
@@ -258,7 +258,51 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Het bedrag dat u moet reserveren voor een nieuwe website kan sterk variëren afhankelijk van de complexiteit van de webshop en de diensten die u wilt inkopen.'
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Er zijn verschillende factoren die van invloed kunnen zijn op de kosten van een webshop, zoals:'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: "• Het aantal pagina's en functies die de webshop heeft."
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• Het ontwerp en de visuele stijl van de webshop.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• De technologieën die worden gebruikt voor de ontwikkeling van de webshop.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• De hosting- en domeinkosten.'
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: '• Eventuele extra diensten, zoals SEO-optimalisatie of content creatie.'
+              -
+                type: hard_break
+              -
+                type: hard_break
+              -
+                type: text
+                text: 'Om een ​​realistische schatting te krijgen van de kosten voor het maken van een webshop, is het het beste om contact op te nemen. Wij kunnen u dan een offerte geven met een gespecificeerd bedrag voor de ontwikkeling van uw webshop.'
       -
         id: lbdj55mu
         question: 'Is mijn webshop veilig?'
@@ -268,7 +312,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Ja, wij implementeren een SSL-certificaat. Een SSL-certificaat zorgt ervoor dat de gegevens die tussen een gebruiker en de webshop worden uitgewisseld, worden versleuteld, wat betekent dat ze niet kunnen worden onderschept of gebruikt door onbevoegde partijen.'
       -
         id: lbdj7212
         question: 'Is mijn webshop geoptimaliseerd voor zoekmachines?'
@@ -278,7 +322,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Een nummer 1-garantie geven is onmogelijk, maar bij Nettt maakt uw webshop een uitstekende kans om bij de populairste zoekmachines (Google, Yahoo, Ilse, Zoek) in de top tien van zoekresultaten te komen. Wij hebben een doeltreffend arsenaal aan middelen tot onze beschikking om ervoor te zorgen dat uw webshop telkens weer uit de digitale vijver wordt gevist. Een must in de dynamiek van het web!'
       -
         id: lbdj7avi
         question: 'Kan ik mijn webshop beheren?'
@@ -288,7 +332,7 @@ page_builder:
             content:
               -
                 type: text
-                text: '-'
+                text: 'Met een beheersysteem of Content Management Systeem (CMS) kunt u eenvoudig de inhoud van uw webshop aanpassen. Of het nu gaat om tekst of afbeeldingen; iedereen kan ermee uit de voeten. Niet voor niets maken bijna al onze klanten, groot én klein, er gebruik van.'
     type: frequently_asked_questions
     enabled: true
   -
@@ -304,7 +348,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671441203
+updated_at: 1671483070
 seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---
