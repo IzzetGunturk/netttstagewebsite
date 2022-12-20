@@ -61,7 +61,12 @@ sections:
       -
         handle: message_body
         field:
-          display: Message
+          display: Bericht
           type: textarea
           validate: required
           localizable: true
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          antlers: false

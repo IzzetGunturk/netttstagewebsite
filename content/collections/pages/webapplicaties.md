@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671483426
+updated_at: 1671528045
 page_builder:
   -
     id: lbdi1eai
@@ -65,7 +65,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren aan een bepaald publiek, op een specifiek tijdstip en op een zorgvuldig geselecteerde locatie.'
+                text: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren.'
         link_field: 'entry::d7942e27-fed5-4ebb-b12c-6856763a69c5'
     type: techniquegrid
     enabled: true

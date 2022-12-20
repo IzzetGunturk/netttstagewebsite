@@ -49,7 +49,9 @@
                     <p class="text-md font-bold text-footertitle">Navigatie</p>
                     <nav class="mt-4 flex flex-col text-sm space-y-2.5 text-gray-500 font-Inter">
                         {{nav:main}}
-                        <a class="hover:text-primary" href="{{ url }}">{{ title }}</a>
+                        <li class="list-none">
+                            <a class="hover:text-primary" href="{{ url }}">{{ title }}</a>
+                        </li>
                         {{/nav:main}}
                     </nav>
                 </div>
@@ -57,15 +59,21 @@
                 <div>
                     <p class="text-md font-bold text-footertitle">Contact</p>
                     <nav class="mt-4 flex flex-col text-sm space-y-2.5 text-gray-500">
-                        <a href="tel:0475358905">
-                            <p class="font-Inter hover:text-primary">0475 - 35 89 05</p>
-                        </a>
-                        <a href="mailto:info@nettt.nl">
-                            <p class="font-Inter hover:text-primary">info@nettt.nl</p>
-                        </a>
-                        <a href="https://get.teamviewer.com/hkvv4nu">
-                            <p class="font-Inter hover:text-primary">Helpdesk</p>
-                        </a>
+                        <li class="list-none">
+                            <a href="tel:0475358905" class="font-Inter hover:text-primary">
+                                0475 - 35 89 05
+                            </a>
+                        </li>
+                        <li class="list-none">
+                            <a href="mailto:info@nettt.nl" class="font-Inter hover:text-primary">
+                                info@nettt.nl
+                            </a>
+                        </li>
+                        <li class="list-none">
+                            <a href="https://get.teamviewer.com/hkvv4nu" class="font-Inter hover:text-primary">
+                                Helpdesk
+                            </a>
+                        </li>
                     </nav>
                 </div>
 
@@ -89,12 +97,14 @@
 </footer>
 
 <div class="bg-cardshover pt-10 pb-10">
-    <p
-        class="max-w-screen-md text-xs font-Inter text-gray-500 md:flex justify-center text-left lg:text-center mx-auto">
-        Webbureau Limburg - Webdesign Limburg - Website laten maken Roermond - Website laten maken Limburg
-        Webdesign Roermond - Webbureau Roermond - Website laten maken Venlo - Internetmarketing Roermond -
-        Internetmarketing Limburg
-        Website laten maken Weert - Website bouwer Wordpress - Website bouwer Statamic</p>
+    <div class="fluid-container flex flex-wrap max-w-4xl mx-auto gap-3 md:justify-center">
+        {{themepagelinks:themepagetitles}}
+        <li class="list-none text-[13px] leading-[10px] font-Inter text-gray-500 hover:text-primary">
+            <a href="{{link}}">
+                {{title}}
+            </a>
+        </li>
+        {{/themepagelinks:themepagetitles}}
+    </div>
 </div>
-
 <!-- End: /layout/_footer.antlers.html -->

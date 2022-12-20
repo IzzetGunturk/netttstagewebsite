@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671440470
+updated_at: 1671527769
 page_builder:
   -
     id: lb6d5ujz
@@ -104,7 +104,7 @@ page_builder:
             type: text
             text: 'De website kan nu worden klaargemaakt voor lancering. Na de training kunt u teksten en beeldmateriaal zelf in uw systeem zetten. Indien u dit liever uitbesteedt aan Nettt, dan is dit uiteraard ook mogelijk. Bent u helemaal tevreden met het eindresultaat, dan is de website klaar voor gebruik en zorgt Nettt ervoor dat uw klanten uw website kunnen bezoeken.'
     image:
-      - aanpak/klaarvoorgebruik.png
+      - aanpak/beheerenonderhoud.png
     imageposition: right
     dashedline: true
     type: tekstafbeelding
@@ -124,7 +124,7 @@ page_builder:
     type: tekstafbeelding
     enabled: true
     image:
-      - aanpak/beheerenonderhoud2.svg
+      - aanpak/klaarvoorgebruik.png
   -
     id: lbcbqanl
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'

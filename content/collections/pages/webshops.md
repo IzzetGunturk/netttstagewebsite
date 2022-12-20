@@ -47,7 +47,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'Wij realiseren de webshop op basis van de specifieke eisen.'
+                text: 'Wij realiseren webshops op basis van de functionele eisen van de klant.'
         link_field: 'entry::848a7651-f1d3-4e66-89c2-fd4886a323e0'
       -
         id: lbdhrs6p
@@ -348,7 +348,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671483070
+updated_at: 1671528117
 seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

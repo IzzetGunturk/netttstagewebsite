@@ -106,5 +106,13 @@
 
 }
 
+.cls-1 {
+    fill: none;
+    stroke: #DADADA;
+    stroke-width: 8px;
+    stroke-dasharray: 32 16;
+    fill-rule: evenodd;
+}
+
 
 @layer utilities {}

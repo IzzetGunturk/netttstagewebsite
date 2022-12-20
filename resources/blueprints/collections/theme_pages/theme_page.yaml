@@ -10,10 +10,7 @@ sections:
           validate:
             - required
       -
-        handle: content
-        field:
-          type: markdown
-          localizable: true
+        import: page_builder
   seo:
     display: SEO
     fields:
@@ -40,12 +37,16 @@ sections:
       -
         handle: parent
         field:
+          type: entries
+          collections:
+            - theme_pages
+          max_items: 1
+          listable: hidden
+          localizable: true
           mode: default
           create: true
           display: Parent
-          type: entries
           icon: entries
-          listable: hidden
           instructions_position: above
           visibility: visible
           always_save: false

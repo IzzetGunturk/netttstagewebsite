@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: test
 size: 11037
 last_modified: 1670336769
 width: 506

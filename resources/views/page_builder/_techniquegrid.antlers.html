@@ -24,11 +24,24 @@
                     </svg>
                 </span>
 
-                <div class="ml-4">
-                    <a href="{{link_field}}" class="text-base font-bold font-Poppins text-secondary hover:text-primary">{{title}}</a>
+                <div class="ml-4 flex flex-col justify-between h-full">
+                    <div>
+                        <h2 class="text-base font-Poppins text-secondary">{{title}}</h2>
 
-                    <div class="mt-1 text-sm font-Inter text-tertiary">
-                        {{description}}
+                        <div class="mt-1 text-sm font-Inter text-tertiary">
+                            {{description}}
+                        </div>
+                    </div>
+
+                    <div>
+                        <a href="{{link_field}}"
+                            class="text-primary hover:text-secondary fill-primary hover:fill-secondary lg:mt-2 font-Poppins inline-flex transition duration-200 rounded-md text-sm py-2.5 text-center mb-2">Lees
+                            meer
+                            <svg class="w-2.5 mt-0.2 ml-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+                                <path
+                                    d="M342.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-192 192c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L274.7 256 105.4 86.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l192 192z" />
+                            </svg>
+                        </a>
                     </div>
                 </div>
             </div>

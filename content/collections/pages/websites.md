@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671482741
+updated_at: 1671533522
 page_builder:
   -
     id: lbdgu8e3
@@ -167,7 +167,7 @@ page_builder:
     image:
       - aanpak/dienstenaanpak/gebruiksvriendelijkewebsite.svg
     imageposition: left
-    dashedline: true
+    dashedline: false
     type: tekstafbeelding
     enabled: true
   -
