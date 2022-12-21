@@ -116,6 +116,11 @@ fields:
           fields:
             -
               import: frequently_asked_questions
+        partners:
+          display: Partners
+          fields:
+            -
+              import: partners
       instructions_position: above
       visibility: visible
       always_save: false

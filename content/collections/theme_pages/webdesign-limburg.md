@@ -90,6 +90,8 @@ page_builder:
             text: 'Wij bieden ook diensten aan zoals zoekmachineoptimalisatie en social media marketing oplossingen om ervoor te zorgen dat de websites van klanten goed presteren en relevant zijn voor hun doelgroep. '
     type: overlayblock
     enabled: true
+    buttontitle: 'Bekijk onze diensten'
+    buttonlink: 'entry::ce0763c9-e29c-4f90-8922-3523a6a56bfe'
 seo_title: 'Webdesign Limburg | Nettt Interactieve Media 💻'
 seo_description: 'Laat je website ontwikkelen door een webdesign bureau in Limburg, Maatwerk websites, Maatwerk webshops, Maatwerk webapplicaties, CMS, Services en meer!  🚀💻'
 seo_noindex: false
@@ -98,5 +100,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671616170
+updated_at: 1671619258
 ---

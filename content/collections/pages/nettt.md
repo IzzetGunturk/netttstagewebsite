@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671617777
+updated_at: 1671620770
 page_builder:
   -
     id: lb6dsnmu
@@ -125,23 +125,18 @@ page_builder:
         image:
           - team/izzet.jpg
   -
-    id: lbjg1gpa
-    titleblue: Partners
-    titlepink: 'waarmee we samenwerken'
-    center: true
-    type: titles-descriptions
+    id: lbxjte77
+    title_blue: Partners
+    title_pink: 'waarmee we samenwerken'
+    logos:
+      - partners/arc.svg
+      - partners/creationstation.svg
+      - partners/denk.svg
+      - partners/marksmark.svg
+      - partners/computel.svg
+      - partners/adeight.svg
+    type: partners
     enabled: true
-  -
-    id: lbashjzk
-    type: slider
-    enabled: true
-    tools:
-      - partners/denk.jpg
-      - partners/creationstation.jpg
-      - partners/adeight.jpg
-      - partners/arc.png
-      - partners/computel.jpg
-      - partners/marksmark.jpg
   -
     id: lbaszokf
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'

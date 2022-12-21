@@ -1,21 +1,14 @@
-{{#
-@name slider
-@desc The slider page builder block.
-@set page.page_builder.slider
-#}}
-
-<!-- /page_builder/_slider.antlers.html -->
 <section class="fluid-container pt-16 animated fade-up delay-400">
     <div class="mx-auto">
         <div class="customer-logos slide p-3">
-            {{ tools }}
+            {{ logos }}
             <div class="slide">
                 <div class="flex h-full justify-center flex-col align-center p-3">
-                    <img src="{{url}}" alt="{{alt}}" width="75%" height="75%"
+                    <img src="{{url}}" alt="{{alt}}" width="100%" height="100%"
                         class="grayscale hover:grayscale-0 transition duration-200 mx-auto">
                 </div>
             </div>
-            {{/tools}}
+            {{/logos}}
         </div>
     </div>
 </section>
@@ -30,4 +23,3 @@
     }
 
 </style>
-<!-- End: /page_builder/_slider.antlers.html -->
