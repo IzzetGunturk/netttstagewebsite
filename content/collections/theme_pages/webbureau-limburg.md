@@ -39,32 +39,12 @@ page_builder:
     type: projectsection
     enabled: true
   -
-    id: lbvxmy67
-    titleblue: 'Jouw webbureau in'
-    titlepink: Limburg!
-    description:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Het doel van Nettt Interactieve Media is om hun klanten te helpen bij het bereiken van hun online doelstellingen door middel van effectieve en creatieve oplossingen. Dankzij hun professionele aanpak en hun gedreven team hebben ze al veel succesvolle projecten mogen uitvoeren voor verschillende soorten bedrijven in Limburg en daarbuiten.'
-          -
-            type: hard_break
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Het team van Nettt Interactieve Media is altijd op zoek naar nieuwe uitdagingen en staat open voor nieuwe ideeën en projecten. Ze zijn trots op hun werk en staan altijd klaar om hun klanten te helpen bij het realiseren van hun online doelen.'
-    center: false
-    type: titles-descriptions
-    enabled: true
-  -
     id: lbvyacgu
     titleblue: Diensten
     center: false
     type: titles-descriptions
     enabled: true
+    titlepink: 'wat we aanbieden'
   -
     id: lbvy24s6
     cards:
@@ -142,6 +122,27 @@ page_builder:
       - tools/wordpress.svg
     type: slider
     enabled: true
+  -
+    id: lbvxmy67
+    titleblue: 'Jouw webbureau in'
+    titlepink: Limburg!
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Het doel van Nettt Interactieve Media is om hun klanten te helpen bij het bereiken van hun online doelstellingen door middel van effectieve en creatieve oplossingen. Dankzij hun professionele aanpak en hun gedreven team hebben ze al veel succesvolle projecten mogen uitvoeren voor verschillende soorten bedrijven in Limburg en daarbuiten.'
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Het team van Nettt Interactieve Media is altijd op zoek naar nieuwe uitdagingen en staat open voor nieuwe ideeën en projecten. Ze zijn trots op hun werk en staan altijd klaar om hun klanten te helpen bij het realiseren van hun online doelen.'
+    center: false
+    type: titles-descriptions
+    enabled: true
 title: 'Webbureau Limburg'
 seo_title: 'Webbureau Limburg | Nettt Interactieve Media'
 seo_description: 'Laat je website ontwikkelen door een webbureau in Limburg, Maatwerk websites, Maatwerk webshops, Maatwerk webapplicaties, CMS, Services en meer!  🚀💻'
@@ -151,5 +152,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671525571
+updated_at: 1671542653
 ---
