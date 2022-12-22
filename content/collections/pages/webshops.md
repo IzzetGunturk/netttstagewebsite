@@ -209,26 +209,17 @@ page_builder:
                 type: italic
           -
             type: text
-            text: •
-          -
-            type: text
-            marks:
-              -
-                type: bold
-            text: "\_"
-          -
-            type: text
-            text: 'Helpdesk en onderhoud van technieken'
+            text: '✔ Helpdesk en onderhoud van technieken'
           -
             type: hard_break
           -
             type: text
-            text: '• Een oplossing binnen 24 uur'
+            text: '✔ Een oplossing binnen 24 uur'
           -
             type: hard_break
           -
             type: text
-            text: '• Continuïteit van uw website'
+            text: '✔ Continuïteit van uw website'
   -
     id: lbjvln3c
     titleblue: Veelgestelde
@@ -348,7 +339,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671528117
+updated_at: 1671706090
 seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

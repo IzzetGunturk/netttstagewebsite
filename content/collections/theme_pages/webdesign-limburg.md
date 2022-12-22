@@ -66,7 +66,7 @@ page_builder:
         icon:
           - icons/support-1.svg
         title: Service
-        description: 'Websites zijn dynamisch en ook de ontwikkelingen op het gebied van internet zijn voortdurend in beweging. Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer. Bij Nettt is de continuïteit van uw website altijd gewaarborgd.'
+        description: 'Websites zijn dynamisch en ook de ontwikkelingen op het gebied van internet zijn voortdurend in beweging. Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer. Bij Nettt is de continuïteit van uw website altijd gewaarborgd. Een goed onderhouden website is belangrijk voor de continuïteit van uw online aanwezigheid. Het is daarom van groot belang om periodiek onderhoud aan uw website te plegen.'
     type: cards
     enabled: true
   -
@@ -100,5 +100,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671703452
+updated_at: 1671708895
 ---
