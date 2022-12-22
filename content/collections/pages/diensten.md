@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671374487
+updated_at: 1671702469
 page_builder:
   -
     id: lb694x3j
@@ -85,7 +85,7 @@ page_builder:
     buttonlink: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
   -
     id: lbca61og
-    title: 'Internet marketing'
+    title: Internetmarketing
     description:
       -
         type: paragraph

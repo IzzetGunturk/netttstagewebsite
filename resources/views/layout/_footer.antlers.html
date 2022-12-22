@@ -49,9 +49,11 @@
                     <p class="text-md font-bold text-footertitle">Navigatie</p>
                     <nav class="mt-4 flex flex-col text-sm space-y-2.5 text-gray-500 font-Inter">
                         {{nav:main}}
-                        <li class="list-none">
-                            <a class="hover:text-primary" href="{{ url }}">{{ title }}</a>
-                        </li>
+                        <ul>
+                            <li class="list-none">
+                                <a class="hover:text-primary" href="{{ url }}">{{ title }}</a>
+                            </li>
+                        </ul>
                         {{/nav:main}}
                     </nav>
                 </div>
@@ -59,21 +61,27 @@
                 <div>
                     <p class="text-md font-bold text-footertitle">Contact</p>
                     <nav class="mt-4 flex flex-col text-sm space-y-2.5 text-gray-500">
-                        <li class="list-none">
-                            <a href="tel:0475358905" class="font-Inter hover:text-primary">
-                                0475 - 35 89 05
-                            </a>
-                        </li>
-                        <li class="list-none">
-                            <a href="mailto:info@nettt.nl" class="font-Inter hover:text-primary">
-                                info@nettt.nl
-                            </a>
-                        </li>
-                        <li class="list-none">
-                            <a href="https://get.teamviewer.com/hkvv4nu" class="font-Inter hover:text-primary">
-                                Helpdesk
-                            </a>
-                        </li>
+                        <ul>
+                            <li class="list-none">
+                                <a href="tel:0475358905" class="font-Inter hover:text-primary">
+                                    0475 - 35 89 05
+                                </a>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li class="list-none">
+                                <a href="mailto:info@nettt.nl" class="font-Inter hover:text-primary">
+                                    info@nettt.nl
+                                </a>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li class="list-none">
+                                <a href="https://get.teamviewer.com/hkvv4nu" class="font-Inter hover:text-primary">
+                                    Helpdesk
+                                </a>
+                            </li>
+                        </ul>
                     </nav>
                 </div>
 
@@ -99,11 +107,13 @@
 <div class="bg-cardshover pt-10 pb-10">
     <div class="fluid-container flex flex-wrap max-w-4xl mx-auto gap-3 md:justify-center">
         {{themepagelinks:themepagetitles}}
-        <li class="list-none text-[13px] leading-[10px] font-Inter text-gray-500 hover:text-primary">
-            <a href="{{link}}">
-                {{title}}
-            </a>
-        </li>
+        <ul>
+            <li class="list-none text-[13px] leading-[10px] font-Inter text-gray-500 hover:text-primary">
+                <a href="{{link}}">
+                    {{title}}
+                </a>
+            </li>
+        </ul>
         {{/themepagelinks:themepagetitles}}
     </div>
 </div>

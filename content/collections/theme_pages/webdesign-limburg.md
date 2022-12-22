@@ -87,7 +87,7 @@ page_builder:
             type: hard_break
           -
             type: text
-            text: 'Wij bieden ook diensten aan zoals zoekmachineoptimalisatie en social media marketing oplossingen om ervoor te zorgen dat de websites van klanten goed presteren en relevant zijn voor hun doelgroep. '
+            text: 'Wij bieden ook diensten aan zoals zoekmachine-optimalisatie en social media marketing oplossingen om ervoor te zorgen dat de websites van klanten goed presteren en relevant zijn voor hun doelgroep. '
     type: overlayblock
     enabled: true
     buttontitle: 'Bekijk onze diensten'
@@ -100,5 +100,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671619258
+updated_at: 1671703452
 ---

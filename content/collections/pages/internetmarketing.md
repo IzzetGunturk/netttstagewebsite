@@ -1,14 +1,14 @@
 ---
 id: fd0b09e9-eb2a-46fa-97d5-4b5354c49b86
 blueprint: page
-title: 'Internet marketing'
+title: Internetmarketing
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671483708
+updated_at: 1671702431
 page_builder:
   -
     id: lbdi462o
@@ -18,7 +18,7 @@ page_builder:
     enabled: true
   -
     id: lbjvjdq9
-    titleblue: 'Internet marketing'
+    titleblue: Internetmarketing
     description:
       -
         type: paragraph
@@ -229,7 +229,7 @@ page_builder:
     questions:
       -
         id: lbdi6g94
-        question: 'Zie je meteen het effect van internet marketing?'
+        question: 'Zie je meteen het effect van internetmarketing?'
         answer:
           -
             type: paragraph
@@ -272,7 +272,7 @@ page_builder:
     enabled: true
   -
     id: lbdi6ikg
-    description: 'Internet marketing toepassen? Laten we samen werken om iets geweldigs te realiseren!'
+    description: 'Internetmarketing toepassen? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section

@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671202191
+updated_at: 1671702528
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -108,7 +108,7 @@ page_builder:
         id: lbmaah40
         icon:
           - icons/internetmarketing1.svg
-        title: 'Internet marketing'
+        title: Internetmarketing
         description:
           -
             type: paragraph
@@ -296,7 +296,7 @@ page_builder:
         customerimage:
           - customers/pexels-simon-robben-614810-(1).jpg
         customername: 'Henry Koeleman'
-        companyname: 'Bedrijfsnaam 4'
+        companyname: 'Bedrijfsnaam 3'
         review: 'Nettt Interactieve Media is een zeer professioneel web bureau!'
       -
         id: lbni9smj
