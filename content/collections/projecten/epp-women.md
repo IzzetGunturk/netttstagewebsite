@@ -3,7 +3,7 @@ id: 98e6c18d-6724-463f-8d48-eef707473b32
 blueprint: projecten
 title: EPP-women
 project_image:
-  - projects/epp-women.webp
+  - projecten/epp-women.webp
 project_title: EPP-women
 project_link: 'https://www.eppwomen.eu/'
 labels:

@@ -3,7 +3,7 @@ id: 40f05ce6-21d7-42cb-ad35-881aa742d647
 blueprint: projecten
 title: 'We Love Alif'
 project_image:
-  - projects/welovealif.webp
+  - projecten/welovealif.webp
 project_title: 'We Love Alif'
 project_link: 'https://www.welovealif.shop/'
 labels:

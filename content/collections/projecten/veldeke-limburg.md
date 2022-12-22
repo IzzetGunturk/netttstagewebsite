@@ -3,7 +3,7 @@ id: 50ce4b22-5038-4031-ba0a-e7c3aabb6d43
 blueprint: projecten
 title: 'Veldeke Limburg'
 project_image:
-  - projects/veldeke.webp
+  - projecten/veldeke.webp
 project_title: 'Veldeke Limburg'
 seo_noindex: false
 seo_nofollow: false

@@ -3,7 +3,7 @@ id: 6d630d82-51d3-4c46-a355-30ef7885eee7
 blueprint: projecten
 title: Forelle
 project_image:
-  - projects/forelle.webp
+  - projecten/forelle.webp
 project_title: Forelle
 project_link: 'https://www.forelle.com/'
 labels:

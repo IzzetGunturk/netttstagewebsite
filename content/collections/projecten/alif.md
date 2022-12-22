@@ -3,7 +3,7 @@ id: 3410e17e-afef-4bee-9f86-38e5d7b2be2c
 blueprint: projecten
 title: Alif
 project_image:
-  - projects/alif.PNG
+  - projecten/alif.PNG
 project_title: Alif
 project_link: 'https://www.welovealif.com/'
 labels:

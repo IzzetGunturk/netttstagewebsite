@@ -3,7 +3,7 @@ id: eeb28c46-403a-4460-b4a4-2d7fbf6c2aa8
 blueprint: projecten
 title: 2-act.nu
 project_image:
-  - projects/2-act.webp
+  - projecten/2-act.webp
 project_title: 2-act.nu
 labels:
   -

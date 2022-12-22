@@ -280,28 +280,28 @@ page_builder:
       -
         id: lb3torfa
         customerimage:
-          - customers/customer1.webp
+          - klanten/customer1.webp
         customername: 'John Doe'
         companyname: 'Bedrijfsnaam 1'
         review: 'Nettt Interactieve Media heeft me goed geholpen.'
       -
         id: lb4rkwgy
         customerimage:
-          - customers/pexels-italo-melo-2379005.jpg
+          - klanten/pexels-italo-melo-2379005.jpg
         customername: 'Benji Klever'
         companyname: 'Bedrijfsnaam 2'
         review: 'Nettt Interactieve Media een aanrader!'
       -
         id: lbni9dyt
         customerimage:
-          - customers/pexels-simon-robben-614810-(1).jpg
+          - klanten/pexels-simon-robben-614810-(1).jpg
         customername: 'Henry Koeleman'
         companyname: 'Bedrijfsnaam 3'
         review: 'Nettt Interactieve Media is een zeer professioneel web bureau!'
       -
         id: lbni9smj
         customerimage:
-          - customers/pexels-justin-shaifer-1222271.jpg
+          - klanten/pexels-justin-shaifer-1222271.jpg
         customername: 'Bowie Aerts'
         companyname: 'Bedrijfsnaam 4'
         review: 'Altijd heel blij met de services van Nettt Interactieve Media!'
