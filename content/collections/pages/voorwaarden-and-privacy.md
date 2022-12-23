@@ -4,6 +4,12 @@ blueprint: page
 title: 'Voorwaarden & privacy'
 page_builder:
   -
+    id: lc0ggdeo
+    heroimage:
+      - hero/herothemapaginas/pexels-mohammad-danish-891059.webp
+    type: hero-other-pages
+    enabled: true
+  -
     id: lbkvbma0
     titleblue: 'Voorwaarden &'
     titlepink: Privacy
@@ -146,6 +152,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670854054
+updated_at: 1671796486
 seo_title: 'Voorwaarden & privacy | Nettt Interactieve Media'
 ---
