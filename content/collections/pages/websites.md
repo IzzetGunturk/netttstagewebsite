@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671969169
+updated_at: 1672063347
 page_builder:
   -
     id: lbdgu8e3
@@ -213,50 +213,17 @@ page_builder:
                 type: italic
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://emojipedia.org/check-mark/'
-                  rel: null
-                  target: null
-                  title: null
-            text: ✔️
-          -
-            type: text
-            text: ' Helpdesk en onderhoud van technieken'
+            text: '✅ Helpdesk en onderhoud van technieken'
           -
             type: hard_break
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://emojipedia.org/check-mark/'
-                  rel: null
-                  target: null
-                  title: null
-            text: ✔️
-          -
-            type: text
-            text: ' Een oplossing binnen 24 uur'
+            text: '✅ Een oplossing binnen 24 uur'
           -
             type: hard_break
           -
             type: text
-            marks:
-              -
-                type: link
-                attrs:
-                  href: 'https://emojipedia.org/check-mark/'
-                  rel: null
-                  target: null
-                  title: null
-            text: ✔️
-          -
-            type: text
-            text: ' Continuïteit van uw website'
+            text: '✅ Continuïteit van uw website'
     type: overlayblock
     enabled: true
     image:
