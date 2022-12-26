@@ -6,7 +6,7 @@ page_builder:
   -
     id: lbqk30wj
     heroimage:
-      - hero/herothemapaginas/pexels-pixabay-416320.webp
+      - hero/herothemapaginas/hero3.webp
     type: hero-other-pages
     enabled: true
   -

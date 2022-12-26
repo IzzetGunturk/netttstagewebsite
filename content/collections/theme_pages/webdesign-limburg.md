@@ -20,6 +20,29 @@ page_builder:
     type: heroimage
     enabled: true
   -
+    id: lbxggjra
+    image:
+      - images/nettt.webp
+    title: 'Webdesign bureau in Limburg'
+    description:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Nettt Interactieve Media is een webdesign bureau gevestigd in Limburg, Herkenbosch. Als webdesign bureau richten wij op het ontwikkelen van websites en webapplicaties voor bedrijven en organisaties in de regio. '
+          -
+            type: hard_break
+          -
+            type: hard_break
+          -
+            type: text
+            text: 'Wij bieden ook diensten aan zoals zoekmachine-optimalisatie en social media marketing oplossingen om ervoor te zorgen dat de websites van klanten goed presteren en relevant zijn voor hun doelgroep. '
+    type: overlayblock
+    enabled: true
+    buttontitle: 'Bekijk onze diensten'
+    buttonlink: 'entry::ce0763c9-e29c-4f90-8922-3523a6a56bfe'
+  -
     id: lbw9k570
     titleblue: 'We hebben al heel veel'
     titlepink: ervaring!
@@ -69,29 +92,6 @@ page_builder:
         description: 'Websites zijn dynamisch en ook de ontwikkelingen op het gebied van internet zijn voortdurend in beweging. Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer. Bij Nettt is de continuïteit van uw website altijd gewaarborgd. Een goed onderhouden website is belangrijk voor de continuïteit van uw online aanwezigheid. Het is daarom van groot belang om periodiek onderhoud aan uw website te plegen.'
     type: cards
     enabled: true
-  -
-    id: lbxggjra
-    image:
-      - images/nettt.webp
-    title: 'Webdesign bureau in Limburg'
-    description:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Nettt Interactieve Media is een webdesign bureau gevestigd in Limburg, Herkenbosch. Als webdesign bureau richten wij op het ontwikkelen van websites en webapplicaties voor bedrijven en organisaties in de regio. '
-          -
-            type: hard_break
-          -
-            type: hard_break
-          -
-            type: text
-            text: 'Wij bieden ook diensten aan zoals zoekmachine-optimalisatie en social media marketing oplossingen om ervoor te zorgen dat de websites van klanten goed presteren en relevant zijn voor hun doelgroep. '
-    type: overlayblock
-    enabled: true
-    buttontitle: 'Bekijk onze diensten'
-    buttonlink: 'entry::ce0763c9-e29c-4f90-8922-3523a6a56bfe'
 seo_title: 'Webdesign Limburg | Nettt Interactieve Media 💻'
 seo_description: 'Laat je website ontwikkelen door een webdesign bureau in Limburg, Maatwerk websites, Maatwerk webshops, Maatwerk webapplicaties, CMS, Services en meer!  🚀💻'
 seo_noindex: false
@@ -100,5 +100,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671708895
+updated_at: 1672063638
 ---

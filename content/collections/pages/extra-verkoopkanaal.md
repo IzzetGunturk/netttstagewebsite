@@ -13,7 +13,7 @@ page_builder:
   -
     id: lbqlu7nm
     heroimage:
-      - hero/herothemapaginas/pexels-fauxels-3184292.webp
+      - hero/herothemapaginas/hero1.webp
     type: hero-other-pages
     enabled: true
   -

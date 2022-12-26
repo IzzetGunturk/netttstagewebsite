@@ -13,7 +13,7 @@ page_builder:
   -
     id: lbqnnun4
     heroimage:
-      - hero/herothemapaginas/pexels-mohammad-danish-891059.webp
+      - hero/herothemapaginas/hero2.webp
     type: hero-other-pages
     enabled: true
   -

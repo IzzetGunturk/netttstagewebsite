@@ -18,7 +18,7 @@ page_builder:
     type: heroimage
     enabled: true
     heroimage:
-      - images/aanpak.webp
+      - hero/heroimage3.webp
   -
     id: lbywmqe7
     titleblue: 'Website laten maken door een web bureau uit'
@@ -128,14 +128,14 @@ page_builder:
         content:
           -
             type: text
-            text: 'Bij het ontwikkelen van een op maat gemaakte website werkt Nett nauw samen met de klant om te begrijpen wat hun doelen zijn en hoe ze deze het beste kunnen bereiken met hun website. Dit kan betekenen dat er tijd wordt besteed aan het ontwerpen van een gebruiksvriendelijke interface, het schrijven van effectieve teksten en het integreren van specifieke functionaliteiten.'
+            text: 'Bij het ontwikkelen van een op maat gemaakte website werkt Nettt Interactieve Media nauw samen met de klant om te begrijpen wat hun doelen zijn en hoe ze deze het beste kunnen bereiken met hun website. Dit kan betekenen dat er tijd wordt besteed aan het ontwerpen van een gebruiksvriendelijke interface, het schrijven van effectieve teksten en het integreren van specifieke functionaliteiten.'
           -
             type: hard_break
           -
             type: hard_break
           -
             type: text
-            text: 'In samenvatting biedt Nett op maat gemaakte websiteontwikkeling om klanten te helpen hun online doelen te bereiken door middel van een website die volledig is afgestemd op hun specifieke behoeften en wensen.'
+            text: 'In samenvatting biedt Nettt Interactieve Media op maat gemaakte websiteontwikkeling om klanten te helpen hun online doelen te bereiken door middel van een website die volledig is afgestemd op hun specifieke behoeften en wensen.'
     type: overlayblock
     enabled: true
 seo_noindex: false
@@ -144,7 +144,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671715619
+updated_at: 1672064598
 seo_title: 'Website laten maken Limburg | Nettt Interactieve Media 💻'
 seo_description: 'Website laten maken in Limburg? Nettt is een webdesignbureau uit Limburg dat gespecialiseerd is in het ontwerpen en ontwikkelen van professionele websites.'
 ---

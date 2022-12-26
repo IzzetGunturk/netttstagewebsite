@@ -32,12 +32,12 @@ fields:
             -
               import: titles-descriptions-custom
         heroimage:
-          display: 'Hero homepagina'
+          display: 'Hero afbeelding groot'
           fields:
             -
               import: heroimage
         hero-other-pages:
-          display: "Hero andere pagina's"
+          display: 'Hero afbeelding klein'
           fields:
             -
               import: hero-other-pages
