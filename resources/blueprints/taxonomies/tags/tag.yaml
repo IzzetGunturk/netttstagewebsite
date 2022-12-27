@@ -9,11 +9,6 @@ sections:
           required: true
           validate:
             - required
-      -
-        handle: content
-        field:
-          type: markdown
-          localizable: true
   sidebar:
     display: Sidebar
     fields:
