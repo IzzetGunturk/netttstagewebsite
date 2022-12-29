@@ -9,7 +9,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672064349
+updated_at: 1672350245
 page_builder:
   -
     id: lbqigl1f
@@ -108,22 +108,22 @@ page_builder:
     cards:
       -
         id: lbqij1os
-        icon:
-          - icons/vector.svg
         title: Gebruiksvriendelijk
         description: "WordPress is gemakkelijk te gebruiken, zelfs voor mensen zonder technische kennis of ervaring met webdesign. Het heeft een duidelijke en eenvoudige interface waarmee gebruikers gemakkelijk nieuwe pagina's en berichten kunnen toevoegen en aanpassen."
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqij8vo
-        icon:
-          - icons/vector.svg
         title: Flexibiliteit
         description: 'WordPress biedt veel opties voor het aanpassen van het uiterlijk en de functionaliteit van een website. Gebruikers kunnen kiezen uit verschillende themes en plugins om hun website aan te passen aan hun wensen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqij9tw
-        icon:
-          - icons/vector.svg
         title: 'Actief ontwikkeld'
         description: 'WordPress wordt actief ontwikkeld en is altijd up-to-date met de nieuwste technologieën en trends. Dit betekent dat gebruikers kunnen rekenen op regelmatige updates en nieuwe functies. Bovendien is er een actief gebruikersgemeenschap die ondersteuning biedt en hulp biedt bij het oplossen van problemen.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

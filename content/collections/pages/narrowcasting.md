@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671393057
+updated_at: 1672350732
 page_builder:
   -
     id: lbqmp0xu
@@ -72,22 +72,22 @@ page_builder:
     cards:
       -
         id: lbqmsxjl
-        icon:
-          - icons/vector.svg
         title: 'Verhoogde relevantie'
         description: 'Door specifieke individuen of groepen te targeten, maakt narrowcasting het mogelijk om de boodschap meer relevant te maken voor het publiek, wat de kans vergroot dat deze positief en effectief wordt ontvangen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqmt1wo
-        icon:
-          - icons/vector.svg
         title: 'Verbeterde efficiëntie'
         description: 'Narrowcasting kan efficiënter zijn dan broadcasting, omdat het de boodschap toelaat om te worden gericht aan een specifieke groep individuen die waarschijnlijk geïnteresseerd zijn in de content. Dit kan helpen om de tijd en middelen die nodig zijn om een breder publiek te bereiken, te verminderen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqmt2l5
-        icon:
-          - icons/vector.svg
         title: 'Verhoogde personalisatie'
         description: 'Narrowcasting maakt het mogelijk om persoonlijke content te creëren die is afgestemd op de interesses en behoeften van een specifiek publiek. Dit kan helpen om sterkere relaties op te bouwen en de betrokkenheid met de boodschap te verhogen.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

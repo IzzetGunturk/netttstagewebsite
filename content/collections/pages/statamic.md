@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672064366
+updated_at: 1672350323
 page_builder:
   -
     id: lbqbyn0p
@@ -95,19 +95,19 @@ page_builder:
         title: Snelheid
         description: 'Statamic is ontworpen om snel te laden en te presteren, wat betekent dat gebruikers kunnen rekenen op een soepele en vloeiende ervaring voor zowel de beheerders als de bezoekers van de website.'
         icon:
-          - icons/vector.svg
+          - icoontjes/thumb.svg
       -
         id: lbqhs0ng
-        icon:
-          - icons/vector.svg
         title: Gebruiksvriendelijkheid
         description: 'Statamic is een gebruiksvriendelijk content management systeem (CMS) met een intuïtieve interface. Dit maakt het gemakkelijk voor gebruikers om snel aan de slag te gaan met het beheren van de inhoud van hun website.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqhsgc3
-        icon:
-          - icons/vector.svg
         title: SEO-vriendelijk
         description: 'Statamic biedt een aantal handige SEO-functies, zoals de mogelijkheid om SEO-vriendelijke URLs te maken en om SEO-metatags in te stellen voor elke pagina. Dit kan helpen om de website beter te laten ranken in de zoekresultaten van zoekmachines zoals Google.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

@@ -108,22 +108,22 @@ page_builder:
     cards:
       -
         id: lbqm9zii
-        icon:
-          - icons/vector.svg
         title: 'Aangepaste oplossingen'
         description: 'Met Laravel maatwerk kun je een webapplicatie laten ontwikkelen die precies aansluit bij de specifieke behoeften van jouw bedrijf. Dit betekent dat je niet hoeft te settelen voor een standaard oplossing, maar dat je een op maat gemaakte oplossing kunt krijgen die perfect aansluit bij jouw wensen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqma57e
-        icon:
-          - icons/vector.svg
         title: 'Gemakkelijk te onderhouden'
         description: 'Laravel maakt gebruik van een duidelijke en overzichtelijke code, wat betekent dat het gemakkelijk is om aanpassingen te maken en het systeem te onderhouden. Dit kan tijd en geld besparen op de lange termijn.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqma5vm
-        icon:
-          - icons/vector.svg
         title: 'Snelle ontwikkeling'
         description: 'Laravel biedt een aantal handige functies en tools die het ontwikkelproces efficiënter maken. Dit betekent dat je snel aan de slag kunt met het ontwikkelen van je webapplicatie, wat kan leiden tot een snellere lancering en een betere ROI (return on investment).'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -
@@ -139,7 +139,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672064442
+updated_at: 1672350497
 seo_title: 'Laravel maatwerk | Nettt Interactieve Media'
 seo_description: 'Laravel is een open source PHP-framewerk dat wordt gebruikt voor het ontwikkelen van webapplicaties. Het biedt een aantal handige tools en functies. 💻'
 ---

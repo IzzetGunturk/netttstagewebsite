@@ -71,8 +71,6 @@ page_builder:
     cards:
       -
         id: lbvy25k5
-        icon:
-          - icons/websites1.svg
         title: Websites
         description:
           -
@@ -82,10 +80,10 @@ page_builder:
                 type: text
                 text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
         cardlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+        icon:
+          - icoontjes/website-icon.svg
       -
         id: lbvy2ghh
-        icon:
-          - icons/webshops1.svg
         title: Webshops
         description:
           -
@@ -95,10 +93,10 @@ page_builder:
                 type: text
                 text: 'We realiseren maatwerk webshops wat er voor zorgt dat je goed voorbereid bent om online te verkopen.'
         cardlink: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+        icon:
+          - icoontjes/webshop-icon.svg
       -
         id: lbvy2n7i
-        icon:
-          - icons/webapplicaties1.svg
         title: Webapplicaties
         description:
           -
@@ -108,10 +106,10 @@ page_builder:
                 type: text
                 text: 'We realiseren maatwerk applicaties waarmee we jouw bedrijfsprocessen kunnen automatiseren.'
         cardlink: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
+        icon:
+          - icoontjes/webapplicatie-icon.svg
       -
         id: lbvy2t4u
-        icon:
-          - icons/internetmarketing1.svg
         title: Internetmarketing
         description:
           -
@@ -121,6 +119,8 @@ page_builder:
                 type: text
                 text: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines.'
         cardlink: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
+        icon:
+          - icoontjes/internetmarketing-icon.svg
     type: techniquecards
     enabled: true
   -
@@ -152,5 +152,5 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672066303
+updated_at: 1672349813
 ---

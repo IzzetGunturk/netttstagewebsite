@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671708858
+updated_at: 1672349724
 page_builder:
   -
     id: lb6dsnmu
@@ -41,19 +41,19 @@ page_builder:
         title: Creativiteit
         description: 'Een functionele, originele website die gezien mag worden; ook dat is een speerpunt van Nettt. Het ontwikkelen van een optimaal functionerende website vraagt om creatief denkwerk. En dat kunt u met een gerust hart aan de vakmensen van Nettt toevertrouwen. Om uw website zo goed mogelijk uit de verf te laten komen, werken wij onder meer nauw samen met ons partnerbedrijf Arc Communicatie & Strategie en diverse vormgevers. Zo ontstaat een interactief samenspel, waarin functionaliteit en originaliteit op geheel natuurlijke wijze worden geïntegreerd tot een sterk totaalconcept.'
         icon:
-          - icons/idea.svg
+          - icoontjes/creativiteit-icon.svg
       -
         id: lbarq08p
         title: Techniek
         description: 'De techniek achter websites kent geen geheimen voor Nettt. Met ruim honderd klanten hebben wij de nodige ervaring met het realiseren van content management systemen, mobiele en internetapplicaties, de laatste webstandaarden, zoekmachine-optimalisatie, narrowcasting, inspectietools, webshops en andere technische webstandjes. Dankzij onze technische knowhow creëren wij dynamische oplossingen die inspelen op de behoeften van de (eind)gebruikers. Onze kennis is altijd up-to-date, zodat wij ook met de nieuwste ontwikkelingen uitstekend uit de voeten kunnen.'
         icon:
-          - icons/techniek.svg
+          - icoontjes/techniek-icon.svg
       -
         id: lbarqaex
         title: Service
         description: 'Websites zijn dynamisch en ook de ontwikkelingen op het gebied van internet zijn voortdurend in beweging. Met een goedwerkende, mooie website bent er dan ook niet: grondig, periodiek onderhoud is een absolute must. Nettt is uw partner als het gaat om het onderhoud van techniek, inhoud, vindbaarheid en meer. Bij Nettt is de continuïteit van uw website altijd gewaarborgd. Een goed onderhouden website is belangrijk voor de continuïteit van uw online aanwezigheid. Het is daarom van groot belang om periodiek onderhoud aan uw website te plegen.'
         icon:
-          - icons/support-1.svg
+          - icoontjes/service-icon.svg
   -
     id: lbaqrlp8
     type: imageblock

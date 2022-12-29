@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671796027
+updated_at: 1672350785
 page_builder:
   -
     id: lbqn9hns
@@ -56,22 +56,22 @@ page_builder:
     cards:
       -
         id: lbqncdaf
-        icon:
-          - icons/vector.svg
         title: 'Verhoogde traffic'
         description: 'Door de ranking van een website op zoekmachines te verbeteren, kan SEO helpen om de hoeveelheid organische traffic die de site ontvangt, te verhogen. Dit kan leiden tot meer zichtbaarheid en kansen voor het bedrijf of de organisatie.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnce27
-        icon:
-          - icons/vector.svg
         title: 'Verbeterde gebruikerservaring'
         description: 'SEO omvat het optimaliseren van de content en structuur van een website om deze gebruiksvriendelijker en gemakkelijker te navigeren te maken. Dit kan de algehele gebruikerservaring verbeteren en bezoekers aanmoedigen om langer op de site te blijven.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnceon
-        icon:
-          - icons/vector.svg
         title: 'Verhoogde credibiliteit'
         description: 'Websites die hoog ranken op zoekmachines worden vaak als meer betrouwbaar en geloofwaardig beschouwd door gebruikers. Dit kan leiden tot meer conversies en verkopen voor bedrijven en organisaties.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

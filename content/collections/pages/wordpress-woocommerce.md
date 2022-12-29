@@ -71,22 +71,22 @@ page_builder:
     cards:
       -
         id: lbql3z4c
-        icon:
-          - icons/vector.svg
         title: 'Integratie met WordPress'
         description: 'WordPress Woocommerce is volledig geïntegreerd met WordPress, wat betekent dat gebruikers de voordelen van het gebruik van WordPress kunnen combineren met de mogelijkheden van een e-commerce platform.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbql44is
-        icon:
-          - icons/vector.svg
         title: Veelzijdig
         description: 'WordPress Woocommerce biedt veel opties voor het opzetten van een online winkel, zoals het toevoegen van producten, het beheren van bestellingen en het integreren van verschillende betaalmogelijkheden.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbql4bjw
-        icon:
-          - icons/vector.svg
         title: 'Actief ontwikkeld'
         description: 'WordPress Woocommerce wordt actief ontwikkeld en biedt regelmatig updates en nieuwe functies om de gebruikerservaring te verbeteren. Bovendien is er een grote gebruikersgemeenschap die hulp en ondersteuning biedt bij het gebruik van het platform.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -
@@ -103,6 +103,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671392685
+updated_at: 1672350380
 seo_description: 'WooCommerce is een populaire plugin voor WordPress die het gemakkelijk maakt om een online winkel te maken en te beheren. 💻'
 ---

@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671392706
+updated_at: 1672350428
 page_builder:
   -
     id: lbqlejkl
@@ -78,22 +78,22 @@ page_builder:
     cards:
       -
         id: lbqlg7cr
-        icon:
-          - icons/vector.svg
         title: Merkidentiteit
         description: 'Maatwerk webshops bieden de mogelijkheid om een uniek ontwerp te creëren dat is afgestemd op de stijl en het merk van het bedrijf. Dit kan helpen om het merk te onderscheiden van de concurrentie en een professionele en aansprekende online aanwezigheid te creëren.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqlg84k
-        icon:
-          - icons/vector.svg
         title: 'Verbeterde gebruikservaring'
         description: 'Maatwerk webshops zijn afgestemd op de specifieke behoeften en wensen van het bedrijf, wat resulteert in een verbeterde gebruikservaring voor klanten. Dit kan helpen om het aantal verlaten winkelwagens te verminderen en de verkoop te verhogen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqlg8r7
-        icon:
-          - icons/vector.svg
         title: 'Flexibiliteit en schaalbaarheid'
         description: 'Maatwerk webshops kunnen gemakkelijk worden aangepast of uitgebreid als het bedrijf groeit of verandert. Dit maakt ze een flexibele en schaalbare oplossing voor bedrijven die op zoek zijn naar een professionele en effectieve webshop.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

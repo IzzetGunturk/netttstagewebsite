@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671392730
+updated_at: 1672350463
 page_builder:
   -
     id: lbqlu7nm
@@ -119,22 +119,22 @@ page_builder:
     cards:
       -
         id: lbqly6gz
-        icon:
-          - icons/vector.svg
         title: 'Meer omzet'
         description: 'Door je producten te verkopen via extra verkoopkanalen, kun je meer omzet genereren en je inkomsten verhogen.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqlybea
-        icon:
-          - icons/vector.svg
         title: 'Groter publiek'
         description: 'Extra verkoopkanalen stellen je in staat om je producten aan een groter publiek te laten zien. Dit kan leiden tot meer verkopen en een grotere naamsbekendheid voor je merk.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqlyglm
-        icon:
-          - icons/vector.svg
         title: 'Gemakkelijk te implementeren'
         description: 'Veel extra verkoopkanalen zijn gemakkelijk te integreren met je bestaande webshop. Dit betekent dat je snel aan de slag kunt gaan met het verkopen van je producten via nieuwe kanalen, zonder dat je veel tijd of moeite hoeft te investeren.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

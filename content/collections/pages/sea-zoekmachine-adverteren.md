@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671796054
+updated_at: 1672350811
 page_builder:
   -
     id: lbqnnun4
@@ -40,22 +40,22 @@ page_builder:
     cards:
       -
         id: lbqnoxen
-        icon:
-          - icons/vector.svg
         title: 'Snelle resultaten'
         description: 'Met SEA kun je snel resultaten behalen omdat je advertenties direct na plaatsing zichtbaar zijn in de zoekresultaten. Dit is in contrast met SEO (Search Engine Optimization), waarbij het soms langer kan duren voordat je website hoger in de zoekresultaten verschijnt.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnoyb3
-        icon:
-          - icons/vector.svg
         title: Targeting
         description: 'Met SEA kun je je advertenties specifiek richten op bepaalde zoekwoorden of doelgroepen. Zo kun je ervoor zorgen dat je advertenties alleen worden weergegeven aan mensen die op zoek zijn naar specifieke producten of diensten.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnoyvb
-        icon:
-          - icons/vector.svg
         title: Meetbaarheid
         description: 'Met SEA kun je precies bijhouden hoeveel mensen op je advertenties hebben geklikt, hoeveel bezoekers je website hebt gekregen en hoeveel omzet je hebt behaald. Zo kun je gemakkelijk zien wat werkt en wat niet en je campagnes aanpassen waar nodig.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

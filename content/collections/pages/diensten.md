@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671702469
+updated_at: 1672349680
 page_builder:
   -
     id: lb694x3j
@@ -39,12 +39,12 @@ page_builder:
             type: text
             text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
     buttontitle: 'Lees meer'
-    icon:
-      - icons/websites.svg
     imageposition: right
     type: tekstafbeelding-diensten
     enabled: true
     buttonlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
+    icon:
+      - icoontjes/website-icon-wit.svg
   -
     id: lbca57h4
     title: Webshops
@@ -58,12 +58,12 @@ page_builder:
           -
             type: hard_break
     buttontitle: 'Lees meer'
-    icon:
-      - icons/webshops.svg
     imageposition: left
     type: tekstafbeelding-diensten
     enabled: true
     buttonlink: 'entry::90339a7f-8092-46e6-aa96-fbc6cab97761'
+    icon:
+      - icoontjes/webshop-icon-wit.svg
   -
     id: lbca6020
     title: Webapplicaties
@@ -77,12 +77,12 @@ page_builder:
           -
             type: hard_break
     buttontitle: 'Lees meer'
-    icon:
-      - icons/webapplicaties.svg
     imageposition: right
     type: tekstafbeelding-diensten
     enabled: true
     buttonlink: 'entry::feb1c79c-c2ef-480d-b612-aea8a6f5d1a1'
+    icon:
+      - icoontjes/webapplicatie-icon-wit.svg
   -
     id: lbca61og
     title: Internetmarketing
@@ -96,12 +96,12 @@ page_builder:
           -
             type: hard_break
     buttontitle: 'Lees meer'
-    icon:
-      - icons/internet-marketing.svg
     imageposition: left
     type: tekstafbeelding-diensten
     enabled: true
     buttonlink: 'entry::fd0b09e9-eb2a-46fa-97d5-4b5354c49b86'
+    icon:
+      - icoontjes/internetmarketing-icon-wit.svg
   -
     id: lb6hs7it
     description: 'Overtuigd over onze diensten? Laten we samen werken om iets geweldigs te realiseren!'

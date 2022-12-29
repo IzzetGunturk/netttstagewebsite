@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671393038
+updated_at: 1672350702
 page_builder:
   -
     id: lbqmew5e
@@ -48,22 +48,22 @@ page_builder:
     cards:
       -
         id: lbqmjjiq
-        icon:
-          - icons/vector.svg
         title: 'Verbeterde kwaliteit'
         description: 'Inspectie tools kunnen helpen om fouten en problemen in je code op te sporen, wat kan leiden tot een verbeterde kwaliteit van je software.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqmjr0x
-        icon:
-          - icons/vector.svg
         title: 'Snellere ontwikkeling'
         description: 'Door het gebruik van inspectie tools kun je sneller werken, omdat je niet handmatig hoeft te zoeken naar fouten en problemen. Dit kan ervoor zorgen dat je sneller aan de slag kunt met het ontwikkelen van nieuwe features en functionaliteiten.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqmjrzd
-        icon:
-          - icons/vector.svg
         title: 'Meer efficiëntie'
         description: 'Inspectie tools kunnen helpen om de efficiëntie van het ontwikkelproces te verhogen door het aantal fouten en problemen te verminderen. Dit kan ervoor zorgen dat je minder tijd hoeft te besteden aan het oplossen van problemen en meer tijd kunt besteden aan het toevoegen van waarde aan je software.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -

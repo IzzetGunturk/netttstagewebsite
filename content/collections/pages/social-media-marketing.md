@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672064473
+updated_at: 1672350833
 page_builder:
   -
     id: lbqnrqrb
@@ -48,22 +48,22 @@ page_builder:
     cards:
       -
         id: lbqnsjd3
-        icon:
-          - icons/vector.svg
         title: 'Breed bereik'
         description: 'Sociale mediaplatforms hebben miljarden gebruikers wereldwijd, wat betekent dat je met social media marketing je boodschap aan een enorm publiek kunt laten zien.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnsk1b
-        icon:
-          - icons/vector.svg
         title: Targeting
         description: 'Veel sociale mediaplatforms bieden de mogelijkheid om je boodschap aan specifieke doelgroepen te laten zien, bijvoorbeeld op basis van demografische gegevens, interesses en gebruikersgedrag. Zo kun je ervoor zorgen dat je boodschap alleen wordt weergegeven aan mensen die er echt interesse in hebben.'
+        icon:
+          - icoontjes/thumb.svg
       -
         id: lbqnskm8
-        icon:
-          - icons/vector.svg
         title: Interactie
         description: 'Sociale media bieden de mogelijkheid om in interactie te treden met je doelgroep, wat kan helpen om het vertrouwen en de loyaliteit van je klanten te versterken. Bovendien kan social media marketing helpen om het merkbewustzijn te verhogen en het imago van een merk te verbeteren.'
+        icon:
+          - icoontjes/thumb.svg
     type: cards
     enabled: true
   -
