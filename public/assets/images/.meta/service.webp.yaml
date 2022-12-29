@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: service
 size: 36462
 last_modified: 1670408143
 width: 799

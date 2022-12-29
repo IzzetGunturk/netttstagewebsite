@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: herocode
 size: 23932
 last_modified: 1671186618
 width: 1920
