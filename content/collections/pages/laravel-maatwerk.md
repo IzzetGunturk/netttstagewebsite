@@ -139,7 +139,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350497
-seo_title: 'Laravel maatwerk | Nettt Interactieve Media'
+updated_at: 1672653691
+seo_title: 'Laravel maatwerk | Nettt Interactieve Media 💻'
 seo_description: 'Laravel is een open source PHP-framewerk dat wordt gebruikt voor het ontwikkelen van webapplicaties. Het biedt een aantal handige tools en functies. 💻'
 ---

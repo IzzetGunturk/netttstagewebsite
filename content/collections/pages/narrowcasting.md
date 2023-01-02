@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350732
+updated_at: 1672653761
 page_builder:
   -
     id: lbqmp0xu
@@ -97,6 +97,6 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
-seo_title: 'Narrowcasting | Nettt Interactieve Media'
-seo_description: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren aan een bepaald publiek op een zorgvuldig geselecteerde locatie'
+seo_title: 'Narrowcasting | Nettt Interactieve Media 💻'
+seo_description: 'Narrowcasting is hét antwoord op de vraag naar een effectief middel om informatie te presenteren. 🚀'
 ---

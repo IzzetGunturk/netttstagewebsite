@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350323
+updated_at: 1672653608
 page_builder:
   -
     id: lbqbyn0p
@@ -118,5 +118,5 @@ page_builder:
     type: cta-section
     enabled: true
 seo_title: 'Statamic | Nettt Interactieve Media 💻'
-seo_description: 'Statamic is een snel en flexibel content management systeem (CMS) dat gebruik maakt van markdown-bestanden en flat files. 💻'
+seo_description: 'Statamic 💻 is een snel en flexibel content management systeem (CMS). Statamic website laten maken? Onze professionals staan voor u klaar! 🚀'
 ---

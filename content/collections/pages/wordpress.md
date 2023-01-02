@@ -9,7 +9,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350245
+updated_at: 1672653586
 page_builder:
   -
     id: lbqigl1f
@@ -133,5 +133,5 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
-seo_description: 'WordPress is de populairste content management systeem ter wereld. Het biedt een gebruiksvriendelijke interface en veel opties voor het aanpassen van websites.'
+seo_description: 'WordPress 💻 is een populaire open source content management systeem (CMS). Wordpress website laten maken? Onze professionals staan voor u klaar! 🚀'
 ---

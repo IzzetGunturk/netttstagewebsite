@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672349724
+updated_at: 1672653900
 page_builder:
   -
     id: lb6dsnmu
@@ -144,6 +144,6 @@ page_builder:
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
     type: cta-section
     enabled: true
-seo_title: 'Nettt | Nettt Interactieve Media'
-seo_description: 'De drie plussen in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk!'
+seo_title: 'Nettt | Nettt Interactieve Media 💻'
+seo_description: 'De drie plussen ➕ in onze naam symboliseren onze kwaliteit in techniek, creativiteit en service: de pijlers van ons (nettt)werk! 🚀'
 ---

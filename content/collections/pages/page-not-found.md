@@ -8,8 +8,8 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1670854135
-seo_title: 'Pagina niet gevonden | Nettt Interactieve Media'
+updated_at: 1672654118
+seo_title: 'Pagina niet gevonden | Nettt Interactieve Media 💻'
 page_builder:
   -
     id: lbkv42aq
@@ -79,4 +79,5 @@ page_builder:
             text: .
     type: titles-descriptions-h1
     enabled: true
+seo_description: 'Helaas de pagina is niet gevonden. 😞'
 ---
