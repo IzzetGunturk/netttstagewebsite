@@ -18,7 +18,7 @@ tags:
   - seo
   - internet-marketing
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671705383
-project_image:
-  - projecten/ambulancezorg.webp
+updated_at: 1672737366
+project_image: projecten/ambulancezorg.webp
+project_afbeelding: team/kevin.jpg
 ---

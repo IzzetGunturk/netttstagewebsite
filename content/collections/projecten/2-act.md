@@ -2,8 +2,7 @@
 id: eeb28c46-403a-4460-b4a4-2d7fbf6c2aa8
 blueprint: projecten
 title: 2-act.nu
-project_image:
-  - projecten/2-act.webp
+project_image: projecten/2-act.webp
 project_title: 2-act.nu
 labels:
   -
@@ -33,7 +32,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1671030186
+updated_at: 1672738028
 project_link: 'https://www.2-act.nu/'
 tags:
   - websites

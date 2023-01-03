@@ -12,19 +12,9 @@ sections:
             - required
       -
         handle: project_image
-        field:
-          mode: list
-          restrict: false
-          allow_uploads: true
-          show_filename: true
+        field: figure.image
+        config:
           display: 'Project afbeelding'
-          type: assets
-          icon: assets
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-          container: assets
       -
         handle: project_title
         field:
