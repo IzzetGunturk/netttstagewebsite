@@ -6,12 +6,12 @@
 
 <!-- /page_builder/_projectsection.antlers.html -->
 <section class="fluid-container pt-2">
-    <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3 animated fade-up delay-400">
+    <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
 
         {{ collection:projecten sort="order" paginate="false" limit="3" as="items" }}
         {{ unless no_results }}
         {{ items }}
-        <div class="overflow-hidden rounded-lg bg-white shadow-xl">
+        <div class="overflow-hidden rounded-lg bg-white shadow-xl animated fade-up delay-400">
             <div class="flex flex-col justify-between h-full">
                 <div>
                 
