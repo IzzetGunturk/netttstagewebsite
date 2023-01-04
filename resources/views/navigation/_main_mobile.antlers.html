@@ -5,23 +5,23 @@
 
 <!-- /navigation/_main_mobile.antlers.html -->
 <nav x-data="{ mobileNavOpen: false }" class="md:hidden" aria-label="{{ trans:strings.main_navigation }}" x-cloak>
-    <button @click.prevent="mobileNavOpen = !mobileNavOpen"
+    <button
         class="fixed shadow-2xl bottom-0 right-0 z-20 flex items-center rounded-full justify-center w-16 h-16 mr-8 text-white mb-safe bg-primary"
-        :aria-label="
-        mobileNavOpen
+        @click.prevent="mobileNavOpen = !mobileNavOpen" :aria-expanded="mobileNavOpen" :aria-label="mobileNavOpen
         ? `@trans:strings.nav_close`
         : `@trans:strings.nav_open`
-        ">
-        <!-- Open icon -->
-        <svg class="fill-white w-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" x-show="!mobileNavOpen">
-            <path
-                d="M0 96C0 78.3 14.3 64 32 64H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32C14.3 128 0 113.7 0 96zM0 256c0-17.7 14.3-32 32-32H416c17.7 0 32 14.3 32 32s-14.3 32-32 32H32c-17.7 0-32-14.3-32-32zM448 416c0 17.7-14.3 32-32 32H32c-17.7 0-32-14.3-32-32s14.3-32 32-32H416c17.7 0 32 14.3 32 32z" />
-        </svg>
-        <!-- Close icon -->
-        <svg class="fill-white w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512" x-show="mobileNavOpen">
-            <path
-                d="M310.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L160 210.7 54.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L114.7 256 9.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 301.3 265.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L205.3 256 310.6 150.6z" />
-        </svg>
+        " aria-expanded="true" aria-label="Navigation closed" aria-hidden="true">
+        <div class="absolute block w-8 transform -translate-x-1/2 -translate-y-1/2 left-1/2 top-1/2">
+            <span aria-hidden="true"
+                class="block absolute h-0.5 w-full bg-current transform transition duration-500 ease-in-out rotate-45"
+                :class="{'rotate-45': mobileNavOpen,' -translate-y-2': !mobileNavOpen }"></span>
+            <span aria-hidden="true"
+                class="block absolute h-0.5 w-full bg-current transform transition duration-500 ease-in-out opacity-0"
+                :class="{'opacity-0': mobileNavOpen } "></span>
+            <span aria-hidden="true"
+                class="block absolute h-0.5 w-full bg-current transform transition duration-500 ease-in-out -rotate-45"
+                :class="{'-rotate-45': mobileNavOpen, ' translate-y-2': !mobileNavOpen}"></span>
+        </div>
     </button>
 
     <div class="fixed inset-0 z-10 pt-8 px-8 pb-12 flex flex-col justify-center bg-white menu" x-show="mobileNavOpen"
