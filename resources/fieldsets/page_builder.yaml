@@ -41,16 +41,16 @@ fields:
           fields:
             -
               import: hero-other-pages
-        cards:
-          display: Kaarten
-          fields:
-            -
-              import: cards
         techniquecards:
           display: 'Techniek kaarten'
           fields:
             -
               import: techniquecards
+        cards:
+          display: Kaarten
+          fields:
+            -
+              import: cards
         slider:
           display: Slider
           fields:

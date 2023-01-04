@@ -8,12 +8,12 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672818879
+updated_at: 1672845360
 page_builder:
   -
     id: lb6dsnmu
     heroimage:
-      - hero/nettt.webp
+      - hero/heroimage5.webp
     type: hero-other-pages
     enabled: true
   -
@@ -137,6 +137,58 @@ page_builder:
       - partners/adeight.svg
     type: partners
     enabled: true
+    slider-logos:
+      -
+        id: lchrmiwo
+        logos:
+          - partners/adeight.svg
+        link-logos: 'https://www.adeight.nl/'
+      -
+        id: lchrmpjb
+        logos:
+          - partners/arc.svg
+        link-logos: 'https://www.arccommunicatie.nl/'
+      -
+        id: lchrmu1y
+        logos:
+          - partners/computel.svg
+        link-logos: 'https://www.computel.nl/'
+      -
+        id: lchrmyc6
+        logos:
+          - partners/creationstation.svg
+        link-logos: 'https://creationstation.nl/'
+      -
+        id: lchrn3jq
+        logos:
+          - partners/denk.svg
+        link-logos: 'https://www.studiodenk.nl/'
+    slider_logos:
+      -
+        id: lchrqxyg
+        logos:
+          - partners/adeight.svg
+        link_logos: 'https://www.adeight.nl/'
+      -
+        id: lchrqyvy
+        logos:
+          - partners/arc.svg
+        link_logos: 'https://www.arccommunicatie.nl/'
+      -
+        id: lchrqzt2
+        logos:
+          - partners/computel.svg
+        link_logos: 'https://www.computel.nl/'
+      -
+        id: lchrr0j3
+        logos:
+          - partners/creationstation.svg
+        link_logos: 'https://creationstation.nl/'
+      -
+        id: lchrrwhj
+        logos:
+          - partners/denk.svg
+        link_logos: 'https://www.studiodenk.nl/'
   -
     id: lbaszokf
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'

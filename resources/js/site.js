@@ -32,6 +32,7 @@ $(document).ready(function () {
         autoplay: true,
         autoplaySpeed: 1000,
         arrows: false,
+        pauseOnFocus: false,
         responsive: [{
                 breakpoint: 1200,
                 settings: {
