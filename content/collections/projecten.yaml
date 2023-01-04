@@ -5,7 +5,8 @@ mount: cdeacd1d-87d1-4bf0-a1c8-03cb8a855adb
 taxonomies:
   - tags
 revisions: false
-route: '/{mount}/{slug}'
+route: '/{mount}'
+slugs: false
 sort_dir: asc
 date_behavior:
   past: public

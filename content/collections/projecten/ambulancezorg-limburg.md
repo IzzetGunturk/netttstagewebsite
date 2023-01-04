@@ -12,13 +12,11 @@ sitemap_priority: 0.5
 tags:
   - websites
   - statamic
-  - webdevelopment
-  - webdesign
   - laravel
   - seo
   - internet-marketing
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672737366
+updated_at: 1672784161
 project_image: projecten/ambulancezorg.webp
 project_afbeelding: team/kevin.jpg
 ---

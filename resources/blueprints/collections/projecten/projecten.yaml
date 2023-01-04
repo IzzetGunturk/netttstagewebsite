@@ -15,6 +15,7 @@ sections:
         field: figure.image
         config:
           display: 'Project afbeelding'
+          width: 100
       -
         handle: project_title
         field:
@@ -60,11 +61,6 @@ sections:
         field:
           type: slug
           localizable: true
-          generate: true
-          listable: hidden
-          display: Slug
-          validate:
-            - required
       -
         handle: parent
         field:

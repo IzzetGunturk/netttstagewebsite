@@ -36,8 +36,6 @@ updated_at: 1672738028
 project_link: 'https://www.2-act.nu/'
 tags:
   - websites
-  - webdesign
-  - webdevelopment
   - internet-marketing
   - wordpress
   - laravel

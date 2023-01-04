@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653324
+updated_at: 1672755844
 page_builder:
   -
     id: lb694x3j
@@ -25,7 +25,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internet marketing.'
+            text: 'Bij Nettt Interactieve Media houden we het kort en krachtig. Bij ons kun je terecht voor maatwerk websites, webshops, webapplicaties en internetmarketing. We zorgen ervoor dat uw bedrijf een perfecte digitale presentatie krijgt!'
     type: titles-descriptions-h1
     enabled: true
   -

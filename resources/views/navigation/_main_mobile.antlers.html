@@ -6,7 +6,7 @@
 <!-- /navigation/_main_mobile.antlers.html -->
 <nav x-data="{ mobileNavOpen: false }" class="md:hidden" aria-label="{{ trans:strings.main_navigation }}" x-cloak>
     <button @click.prevent="mobileNavOpen = !mobileNavOpen"
-        class="fixed shadow-2xl bottom-0 right-0 z-20 flex items-center rounded-full justify-center w-16 h-16 mr-8 text-white mb-safe bg-mobilemenucolor"
+        class="fixed shadow-2xl bottom-0 right-0 z-20 flex items-center rounded-full justify-center w-16 h-16 mr-8 text-white mb-safe bg-primary"
         :aria-label="
         mobileNavOpen
         ? `@trans:strings.nav_close`

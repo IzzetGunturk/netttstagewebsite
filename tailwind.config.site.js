@@ -68,11 +68,22 @@ module.exports = {
         'slide-up':{
           '0%': {transform: ' translateY(260px)'},
           '100%': {transform: 'translateY(0)'},
-        }
+        },
+        wave: {
+          '0%': { transform: 'rotate(0.0deg)' },
+          '10%': { transform: 'rotate(12deg)' },
+          '20%': { transform: 'rotate(-4deg)' },
+          '30%': { transform: 'rotate(12deg)' },
+          '40%': { transform: 'rotate(-2deg)' },
+          '50%': { transform: 'rotate(6deg)' },
+          '60%': { transform: 'rotate(0.0deg)' },
+          '100%': { transform: 'rotate(0.0deg)' },
+        },
       },
       animation: {
         'mover': 'mover 1s infinite alternate',
-        'slide-up': 'slide-up 1s ease'
+        'slide-up': 'slide-up 1s ease',
+        'wave': 'wave 2s linear infinite'
       },
     },
     // Remove the font families you don't want to use.

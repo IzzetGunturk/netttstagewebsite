@@ -14,7 +14,6 @@ sitemap_priority: 0.5
 tags:
   - websites
   - wordpress
-  - webdevelopment
   - webapplicaties
   - seo
   - laravel

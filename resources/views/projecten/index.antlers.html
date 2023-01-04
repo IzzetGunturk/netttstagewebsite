@@ -36,11 +36,11 @@
                 
                     {{ partial:components/picture :image="project_image" aspect_ratio="6/3" class="object-cover" }}
 
-                    <div class="text-lg font-Poppins text-gray-900 pl-4 pt-4 sm:pl-6 sm:pt-6">
+                    <div class="text-lg font-Poppins text-gray-900 pl-4 pt-4 sm:pt-6">
                         {{project_title}}
                     </div>
 
-                    <div class="pl-4 pt-2 sm:pl-6">
+                    <div class="pl-4 pt-2">
                         {{tags}}
                         <a href="{{tag_links}}"
                             class="inline-flex items-center space-x-1 px-2 text-[13px] font-Inter text-black hover:text-primary transition duration-200 rounded-full bg-gray-200 text-sm mr-1 mb-1">{{title}}
@@ -50,7 +50,7 @@
                     </div>
                 </div>
 
-                <div class="pl-4 sm:pl-6 mt-2 mb-2">
+                <div class="pl-4 mt-2 mb-2">
                     <a href="{{project_link}}" target="_blank"
                         class="text-primary hover:text-secondary fill-primary hover:fill-secondary lg:mt-2 font-Poppins inline-flex transition duration-200 rounded-md text-sm py-2.5 text-center mb-2">
                         Bekijk project

@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672735082
+updated_at: 1672818005
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -37,7 +37,7 @@ page_builder:
         content:
           -
             type: text
-            text: 'We realiseren maatwerk websites, webshops, webapplicaties en bieden internet marketing aan zodat je bedrijf een perfecte digitale presentatie krijgt!'
+            text: 'Bij Nettt Interactieve Media streven we ernaar om kwalitatief hoogwaardige producten te ontwikkelen die effectief bijdragen aan het succes van uw bedrijf. Dit doen we door het realiseren van maatwerk websites, webshops, webapplicaties en bieden internetmarketing aan zodat uw bedrijf een perfecte digitale presentatie krijgt!'
     center: false
     type: titles-descriptions
     enabled: true
@@ -65,7 +65,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+                text: 'We realiseren maatwerk websites die er echt uitspringen en technisch goed ingericht zijn.'
         cardlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
         icon:
           - icoontjes/website-icon.svg

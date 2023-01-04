@@ -32,8 +32,6 @@ labels:
 class: webshops
 tags:
   - websites
-  - webdevelopment
-  - webdesign
   - wordpress
   - internet-marketing
   - laravel

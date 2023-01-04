@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672349995
+updated_at: 1672820601
 page_builder:
   -
     id: lc4wev7j
@@ -79,7 +79,7 @@ page_builder:
             content:
               -
                 type: text
-                text: 'We realiseren maatwerk websites die er echt uitspringen, gebruiksvriendelijk zijn en technisch goed ingericht zijn.'
+                text: 'We realiseren maatwerk websites die er echt uitspringen en technisch goed ingericht zijn.'
         cardlink: 'entry::47b5cf57-93dc-4ebd-8413-3775795971d0'
         icon:
           - icoontjes/website-icon.svg

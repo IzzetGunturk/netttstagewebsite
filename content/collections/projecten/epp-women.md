@@ -35,7 +35,5 @@ tags:
   - internet-marketing
   - laravel
   - seo
-  - webdevelopment
-  - webdesign
   - wordpress
 ---

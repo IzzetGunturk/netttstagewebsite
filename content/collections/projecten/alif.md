@@ -39,8 +39,6 @@ class: webapplicaties
 tags:
   - websites
   - wordpress
-  - webdevelopment
-  - webdesign
   - seo
   - laravel
   - internet-marketing

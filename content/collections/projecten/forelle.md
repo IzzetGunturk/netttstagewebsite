@@ -38,6 +38,4 @@ tags:
   - internet-marketing
   - laravel
   - seo
-  - webdesign
-  - webdevelopment
 ---
