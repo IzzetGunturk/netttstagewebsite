@@ -9,6 +9,12 @@ sections:
           required: true
           validate:
             - required
+          instructions_position: above
+          listable: hidden
+          visibility: visible
+          always_save: false
+          input_type: text
+          antlers: false
       -
         handle: tag_links
         field:
