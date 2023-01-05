@@ -81,16 +81,21 @@ fields:
           fields:
             -
               import: cta-section
-        contactblock:
-          display: 'Contact blok'
+        image_button:
+          display: 'Afbeelding + Button'
           fields:
             -
-              import: contactblock
+              import: image_button
         imageblock:
           display: 'Afbeelding blok'
           fields:
             -
               import: imageblock
+        contactblock:
+          display: 'Contact blok'
+          fields:
+            -
+              import: contactblock
         teamblock:
           display: 'Team blok'
           fields:
