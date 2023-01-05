@@ -8,14 +8,6 @@ sections:
         field:
           type: text
           required: true
-          validate:
-            - required
-          instructions_position: above
-          listable: hidden
-          visibility: visible
-          always_save: false
-          input_type: text
-          antlers: false
       -
         handle: project_image
         field: figure.image
