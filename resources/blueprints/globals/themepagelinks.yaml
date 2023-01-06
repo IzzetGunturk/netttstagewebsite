@@ -19,7 +19,7 @@ sections:
                 visibility: visible
                 always_save: false
             -
-              handle: link
+              handle: page_link
               field:
                 display: Link
                 type: link
