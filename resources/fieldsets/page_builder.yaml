@@ -71,11 +71,11 @@ fields:
           fields:
             -
               import: overlayblock2
-        customer-reviews:
+        customer_reviews:
           display: 'Klanten reviews'
           fields:
             -
-              import: customer-reviews
+              import: customer_reviews
         cta-section:
           display: CTA-sectie
           fields:
