@@ -76,11 +76,11 @@ fields:
           fields:
             -
               import: customer_reviews
-        cta-section:
+        cta_section:
           display: CTA-sectie
           fields:
             -
-              import: cta-section
+              import: cta_section
         image_button:
           display: 'Afbeelding + Button'
           fields:

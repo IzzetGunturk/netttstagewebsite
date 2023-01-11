@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653852
+updated_at: 1673446600
 page_builder:
   -
     id: lb6d5ujz
@@ -126,11 +126,11 @@ page_builder:
     image:
       - aanpak/klaarvoorgebruik.png
   -
-    id: lbcbqanl
+    id: lcrqw244
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Aanpak | Nettt Interactieve Media 💻'
 seo_description: 'Nettt Interactieve Media komt in zes overzichtelijke stappen tot een professioneel, gebruiksvriendelijk en aantrekkelijk eindresultaat. 🤔'

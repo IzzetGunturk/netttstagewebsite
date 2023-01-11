@@ -140,11 +140,11 @@ page_builder:
     type: titles-descriptions-h1
     enabled: true
   -
-    id: lbavdtbu
+    id: lcrqymo4
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
-    buttontitle: 'Neem contact op'
+    buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_noindex: false
 seo_nofollow: false
@@ -152,7 +152,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672654083
+updated_at: 1673446718
 seo_title: 'Voorwaarden & privacy | Nettt Interactieve Media 💻'
 seo_description: 'Bekijk onze voorwaarden & privacy. 🔒'
 ---

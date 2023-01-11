@@ -33,7 +33,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672946563
+updated_at: 1673446852
 class: webapplicaties
 tags:
   - websites
@@ -69,11 +69,11 @@ page_builder:
     type: image_button
     enabled: true
   -
-    id: lcj9khwy
+    id: lcrr1l0z
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Alif | Nettt Interactieve Media 💻'
 seo_description: 'DIERZAMER HALAL. GEWOON ZOALS HET HOORT. Je zou denken dat het een spelfout is: dierzaam. We maken ze faak hoor, maar nu niet.'

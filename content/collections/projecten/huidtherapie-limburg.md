@@ -18,7 +18,7 @@ tags:
   - laravel
   - internet-marketing
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672946616
+updated_at: 1673446893
 page_builder:
   -
     id: lcj9o4rn
@@ -48,11 +48,11 @@ page_builder:
     type: image_button
     enabled: true
   -
-    id: lcj9pz37
+    id: lcrr2gic
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Huidtherapie Limburg | Nettt Interactieve Media 💻'
 seo_description: 'Huidtherapie Limburg biedt medische huid- en oedeemzorg, cosmetische huidverbetering en laserbehandelingen.'

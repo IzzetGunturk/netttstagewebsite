@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653965
+updated_at: 1673446669
 page_builder:
   -
     id: lb6dv4qe
@@ -40,12 +40,12 @@ page_builder:
     type: form
     enabled: true
   -
-    id: lbaomns1
+    id: lcrqxkho
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
-    type: cta-section
+    buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
+    type: cta_section
     enabled: true
-    buttonlink: '#block-2'
 seo_title: 'Contact | Nettt Interactieve Media 💻'
 seo_description: 'Neem contact met ons op! 📞 Laten we samen werken om iets geweldigs te realiseren! 🚀'
 ---

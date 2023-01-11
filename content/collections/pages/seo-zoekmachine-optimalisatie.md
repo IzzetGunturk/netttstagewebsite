@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350785
+updated_at: 1673446393
 page_builder:
   -
     id: lbqn9hns
@@ -75,11 +75,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqngbnj
+    id: lcrqrois
     description: 'SEO toepassen? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'SEO (zoekmachine-optimalisatie) | Nettt Interactieve Media 💻'
 seo_description: 'Wij maken uw website online beter zichtbaar door middel van SEO-technieken die we toepassen! 💻'

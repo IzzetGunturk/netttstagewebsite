@@ -16,7 +16,7 @@ tags:
   - seo
   - internet-marketing
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672946266
+updated_at: 1673446743
 project_image: projecten/ambulancezorg.webp
 project_afbeelding: team/kevin.jpg
 page_builder:
@@ -48,11 +48,11 @@ page_builder:
     buttontitle: 'Bekijk project'
     project_link: 'https://www.ambulancezorgln.nl/'
   -
-    id: lcj7tshl
+    id: lcrqz68s
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Ambulancezorg Limburg | Nettt Interactieve Media 💻'
 seo_description: 'Ambulancezorg Limburg 🚑 staat 24 uur per dag klaar om medische hulp te verlenen. De organisatie levert ambulancezorgverlening in de gehele provincie Limburg.'

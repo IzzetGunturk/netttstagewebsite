@@ -3,7 +3,7 @@ id: home
 blueprint: page
 title: Home
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1673434130
+updated_at: 1673445736
 seo_noindex: false
 seo_nofollow: false
 seo_canonical_type: entry
@@ -347,12 +347,12 @@ page_builder:
             type: text
             text: 'Een professionele maatwerk website, webshop of een webapplicatie laten maken? Hiervoor bent u bij Nettt Interactieve Media op het juiste adres. Daarnaast zijn wij heel erg klantgericht, werken wij in korte lijntjes en bieden wij services aan zoals internetmarketing, eigen servers, beveiliging, helpdesk en nog veel meer!'
   -
-    id: lb4vmfjj
-    type: cta-section
-    enabled: true
+    id: lcrqdhqd
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
+    type: cta_section
+    enabled: true
 seo_title: 'Nettt Interactieve Media | Webdesign & Webdevelopment bureau Limburg'
 seo_description: 'Nettt Interactieve Media 💻 is een full-service internet bureau dat gespecialiseerd is in websites, webshops, webapplicaties en internetmarketing. 👌'
 ---

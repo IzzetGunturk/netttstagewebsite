@@ -30,7 +30,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672946426
+updated_at: 1673446809
 tags:
   - webshops
   - wordpress-woocommerce
@@ -65,11 +65,11 @@ page_builder:
     buttontitle: 'Bekijk project'
     project_link: 'https://www.forelle.com/'
   -
-    id: lcj96x22
+    id: lcrr0mck
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Forelle | Nettt Interactieve Media 💻'
 seo_description: 'Als familiebedrijf van de derde generatie is teamsport al meer dan 60 jaar onze belangrijkste sport.'

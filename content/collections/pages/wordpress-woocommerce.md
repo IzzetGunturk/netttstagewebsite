@@ -90,11 +90,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbql6zms
+    id: lcrqjn45
     description: 'Wordpress Woocommerce webshop laten maken? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Wordpress Woocommerce | Nettt Interactieve Media 💻'
 seo_noindex: false
@@ -103,6 +103,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350380
+updated_at: 1673446016
 seo_description: 'WooCommerce is een populaire plugin voor WordPress die het gemakkelijk maakt om een online winkel te maken en te beheren. 💻'
 ---

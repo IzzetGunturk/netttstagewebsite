@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672063401
+updated_at: 1673446367
 page_builder:
   -
     id: lbdi462o
@@ -271,11 +271,11 @@ page_builder:
     type: frequently_asked_questions
     enabled: true
   -
-    id: lbdi6ikg
+    id: lcrqqtmc
     description: 'Internetmarketing toepassen? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Internet marketing | Nettt Interactieve Media'
 seo_description: 'Met onze technieken zorgen we ervoor dat jouw website goed vindbaar is voor de zoekmachines. We helpen je om de doelgroep te vinden en te bereiken. 📈'

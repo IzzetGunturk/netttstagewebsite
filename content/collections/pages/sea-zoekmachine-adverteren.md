@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350811
+updated_at: 1673446436
 page_builder:
   -
     id: lbqnnun4
@@ -59,11 +59,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqnqcqn
+    id: lcrqsl4g
     description: 'SEA toepassen? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'SEA | Nettt Interactieve Media 💻'
 seo_description: 'Adverteren op het web kan een goede manier zijn om uw omzet te vergroten, maar alleen als dat gericht gebeurt. Nettt helpt u hierbij! 💻'

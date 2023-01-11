@@ -327,11 +327,11 @@ page_builder:
     type: frequently_asked_questions
     enabled: true
   -
-    id: lbdhxcjl
+    id: lcrqiyvp
     description: 'Webshop laten maken? Laten we samen werken om iets geweldigs te realiseren!'
-    buttontitle: 'Neem contact op'
+    buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_noindex: false
 seo_nofollow: false
@@ -339,7 +339,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672063363
+updated_at: 1673445987
 seo_title: 'Webshops | Nettt Interactieve Media 🛒'
 seo_description: 'We realiseren maatwerk webshops wat er voor zorgt dat u goed voorbereid bent om online te verkopen 💰.'
 ---

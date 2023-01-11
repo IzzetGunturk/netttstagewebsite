@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653608
+updated_at: 1673445924
 page_builder:
   -
     id: lbqbyn0p
@@ -111,11 +111,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqdglam
+    id: lcrqhf5w
     description: 'Statamic website laten maken? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Statamic | Nettt Interactieve Media 💻'
 seo_description: 'Statamic 💻 is een snel en flexibel content management systeem (CMS). Statamic website laten maken? Onze professionals staan voor u klaar! 🚀'

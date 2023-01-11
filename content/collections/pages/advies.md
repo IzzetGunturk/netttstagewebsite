@@ -8,7 +8,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672350903
+updated_at: 1673446554
 page_builder:
   -
     id: lbr2k32n
@@ -73,11 +73,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbr2lu51
+    id: lcrqv4xn
     description: 'Advies nodig? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Advies | Nettt Interactieve Media 💻'
 seo_description: 'Uit de analyse van de gegevens komt naar voren welke onderdelen van uw website goed en minder goed worden bezocht, hierover geven wij u een advies mee. 💻'

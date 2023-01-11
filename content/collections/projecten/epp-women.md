@@ -27,7 +27,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672946524
+updated_at: 1673446830
 class: webshops
 tags:
   - websites
@@ -64,11 +64,11 @@ page_builder:
     type: image_button
     enabled: true
   -
-    id: lcj9b1ux
+    id: lcrr13hn
     description: 'Overtuigd? Laten we samen werken om iets geweldigs te realiseren!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'EPP-women | Nettt Interactieve Media 💻'
 seo_description: 'EPP Women (European’s People Party) is an official association dedicated to the advancement of women in the European Union.'

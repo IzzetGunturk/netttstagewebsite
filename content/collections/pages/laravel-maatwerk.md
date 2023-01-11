@@ -127,11 +127,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqmbc9u
+    id: lcrqoamc
     description: 'Laravel maatwerk webapplicatie laten maken? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_noindex: false
 seo_nofollow: false
@@ -139,7 +139,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653691
+updated_at: 1673446238
 seo_title: 'Laravel maatwerk | Nettt Interactieve Media 💻'
 seo_description: 'Laravel is een open source PHP-framewerk dat wordt gebruikt voor het ontwikkelen van webapplicaties. Het biedt een aantal handige tools en functies. 💻'
 ---

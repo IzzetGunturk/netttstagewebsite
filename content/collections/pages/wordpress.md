@@ -9,7 +9,7 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653586
+updated_at: 1673445891
 page_builder:
   -
     id: lbqigl1f
@@ -35,7 +35,7 @@ page_builder:
         content:
           -
             type: text
-            text: "WordPress is een populaire open source content management systeem (CMS) dat wordt gebruikt voor het maken en beheren van websites. Het is gemakkelijk te gebruiken en heeft een grote selectie van gratis en betaalde thema's en plug-ins die gebruikers kunnen installeren om hun website te personaliseren en te verbeteren."
+            text: "Wordpress is een populaire open source content management systeem (CMS) dat wordt gebruikt voor het maken en beheren van websites. Het is gemakkelijk te gebruiken en heeft een grote selectie van gratis en betaalde thema's en plug-ins die gebruikers kunnen installeren om hun website te personaliseren en te verbeteren."
           -
             type: hard_break
           -
@@ -127,11 +127,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqj7mfl
+    id: lcrqga98
     description: 'Wordpress website laten maken? Onze professionals staan voor u klaar!'
-    buttontitle: 'Neem contact op'
+    buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_description: 'WordPress 💻 is een populaire open source content management systeem (CMS). Wordpress website laten maken? Onze professionals staan voor u klaar! 🚀'
 ---

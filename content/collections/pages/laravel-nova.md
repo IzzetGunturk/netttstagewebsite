@@ -90,11 +90,11 @@ page_builder:
     type: cards
     enabled: true
   -
-    id: lbqjduxz
+    id: lcrqi7tx
     description: 'Laravel Nova website laten maken? Onze professionals staan voor u klaar!'
     buttontitle: 'Neem contact op!'
     buttonlink: 'entry::879e7656-f223-4ce4-a45d-c0be1ba1a7fb'
-    type: cta-section
+    type: cta_section
     enabled: true
 seo_title: 'Laravel Nova | Nettt Interactieve Media 💻'
 seo_noindex: false
@@ -103,6 +103,6 @@ seo_canonical_type: entry
 sitemap_change_frequency: weekly
 sitemap_priority: 0.5
 updated_by: 0a867066-f96d-4094-a2f6-3f8e9afdf4e2
-updated_at: 1672653643
+updated_at: 1673445952
 seo_description: 'Laravel Nova 💻 is een krachtig administratiepaneel voor Laravel-applicaties. Laravel Nova website laten maken? Onze professionals staan voor u klaar! 🚀'
 ---
